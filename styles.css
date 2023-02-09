@@ -13,7 +13,7 @@ html {
 /*MAIN CONTAINER*/
 .main-container {
     position: relative;
-        max-width: 1344px;
+        max-width: 1000px;
         margin-left: auto;
         margin-right: auto;
         width: calc(100% - 15vw);
@@ -161,7 +161,19 @@ html {
     font-weight: 600;
   }
 
+/*Bottom*/
+.bottom {
+height: 50px;
+width: auto ; 
+display: flex;
+border-radius:  25px 25px 0px 0px;
+background-color: #cecece;
+color: #212121;
+align-items: center;
+justify-content: center;
 
+
+}
 
 /*RESPONSIVE ACTIONS*/
 
