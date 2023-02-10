@@ -1,13 +1,23 @@
 body {
     margin: 0;
     font-family: 'Nunito', sans-serif;
+    min-height: 100vh;
   }
 
 html {
     scroll-behavior: smooth;
   }
 
+ a { 
+  text-decoration:underline ;
+  color: #333;
+  
+ }
 
+ a:hover {
+  color: rgb(80, 22, 187);
+  font-weight: 400;
+}
 
 
 /*MAIN CONTAINER*/
@@ -29,6 +39,8 @@ html {
   background-color: #ffffff;
   color: #3a3a3a;
   overflow: hidden;
+  z-index:10;
+  width: 100%;
   
   }
   
@@ -73,7 +85,7 @@ html {
 .title {   
   margin-right: 160px;
     padding-top: 60px;
-    height: fit-content ;
+  
     min-height: 20vh ;
     display: flex ;
     flex-direction: column;
@@ -163,17 +175,53 @@ html {
     font-weight: 600;
   }
 
+/*PROJECTAFBEELDINGEN*/
+
+.wrapperprojects {
+display: flex;
+flex-direction: row;
+height: auto;
+z-index:5;
+}
+
+.projectafbeelding {
+  height:auto;
+  width: 400px;
+  display: flex;
+  position:relative;
+flex-direction: column;
+padding: 5px;
+}
+
+.projectafbeelding img {
+  object-fit: cover;
+  object-position: bottom;
+  height: 200px;
+  
+}
+
+.textcenterimage{
+  position: absolute;
+  top: 75px; /*afhankelijk van hoogte plaatje*/
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+  .textcenterimage h1,h2{
+  color: #7c7c7c;
+}
+
 /*Bottom*/
 .bottom {
-height: 50px;
+height: auto;
 width: auto ; 
 display: flex;
 border-radius:  25px 25px 0px 0px;
 background-color: #cecece;
 color: #212121;
 align-items: center;
-justify-content: center;
-
+justify-content: flex-start;
+flex-direction: column;
 
 }
 
@@ -196,7 +244,7 @@ justify-content: center;
     
     padding-bottom: 15px;
     border-bottom: 1px solid #d6d6d6;
-    height: fit-content;
+
     min-height: auto ;
     display: flex ;
     flex-direction: column;
@@ -272,4 +320,12 @@ justify-content: center;
       }
     }
     
-    
+/*Responsive Flexbox*/
+@media screen and (max-width: 600px) {
+.wrapperprojects {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  
+  }
+}

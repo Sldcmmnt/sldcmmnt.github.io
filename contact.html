@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    
+    <title>Contact</title>
+</head>
+<body>
+   
+
+
+<div class="main-container">
+      
+    <div class="topnav" id="myTopnav">
+        <a href="index.html">Home</a>
+        <a href="blog.html" >Blog</a>
+        <a href="projecten.html" >Projecten</a>
+        <a href="werkgroep.html" >Werkgroep</a>
+        <a href="contact.html" >Contact</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <i class="fa fa-bars"></i>
+        </a>
+    </div>
+
+    <div class="title">
+      <h1>Solid Community - Nederland</h1>
+      <h3 style="color: dimgray;">Samenwerken aan een innovatiever, vriendelijker en veiliger web</h3>
+    </div>
+    <section id="contact" >
+          <h1>Contact</h1>
+          <p>Wil je als organisatie meer leren over hoe veilig en verantwoord data delen in de praktijk gebracht kan worden?</p>
+          <p>Neem dan contact op via <a href="mailto:info@solidcommunity.nl">info@solidcommunity.nl</a></p>
+          <p><br></p>
+          <p><br></p>
+          <p><br></p>
+          <p><br></p>
+          <p><br></p>
+          <p><br></p>
+    </section>
+
+
+
+</div>
+
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+      </script>
+
+      
+<script>
+    // Get all sections that have an ID defined
+const sections = document.querySelectorAll("section[id]");
+
+// Add an event listener listening for scroll
+window.addEventListener("scroll", navHighlighter);
+
+function navHighlighter() {
+  
+  // Get current scroll position
+  let scrollY = window.pageYOffset;
+  
+  // Now we loop through sections to get height, top and ID values for each
+  sections.forEach(current => {
+    const sectionHeight = current.offsetHeight;
+    const sectionTop = current.offsetTop - 50;
+    sectionId = current.getAttribute("id");
+    
+    /*
+    - If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
+    - To know which link needs an active class, we use sectionId variable we are getting while looping through sections as an selector
+    */
+    if (
+      scrollY > sectionTop &&
+      scrollY <= sectionTop + sectionHeight
+    ){
+      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.add("active");
+    } else {
+      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.remove("active");
+    }
+  });
+}
+
+</script>
+
+</body>
+</html>
