@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    
     <title>Solid Community</title>
 </head>
 <body>
@@ -16,6 +18,10 @@
       
     <div class="topnav" id="myTopnav">
         <a href="#home" class="active">Home</a>
+        <a href="#blog" >Blog</a>
+        <a href="/projecten.html" >Projecten</a>
+        <a href="#home" >Werkgroep</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
           <i class="fa fa-bars"></i>
         </a>
       </div>
@@ -33,6 +39,7 @@
               <a href="#about">Over Stichting Solid Community</a>
               <a href="#aboutsolid">Over Solid</a>
               <a href="#services">Wat doen we</a>
+              <a href="#services">Projecten</a>
               <a href="#overdatakluizen">Over datakluizen</a>
               <a href="#contact">Contact</a>
             </li>
@@ -52,22 +59,36 @@
         <section id="aboutsolid">
           <h1>Over Solid</h1>
           
-          <p>Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om identiteiten, data en applicaties anders te organiseren. 
-          <br>Hierdoor ontstaan mogelijkheden om data veiliger en innovatiever te gebruiken, meer regie te krijgen over data over jou en de gebruikservaring en dienstverlening te verbeteren. Het is een paraplu waaronder verschillende open specificaties en vertrouwde W3C standaarden vallen.</p>
-          <p>We zien het concept Solid als een mooie basis die nog verder uitgebouwd en doorontwikkeld moet worden vanuit de achterliggende visie voor een innovatiever, vriendelijker en web. Om die visie te realiseren en een samenhangend geheel te cre&euml;ren, maken we daarom gebruik van open technologie&euml;n en ondersteunen we de doorontwikkeling hiervan.</p>
+          <p>Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om identiteiten, data en applicaties anders te organiseren.</p>
+          <p>Hierdoor ontstaan mogelijkheden om data veiliger en innovatiever te gebruiken, meer regie te krijgen over data over jou en de gebruikservaring en dienstverlening te verbeteren. Het is een paraplu waaronder verschillende open specificaties en vertrouwde W3C standaarden vallen.</p>
+          <p>We zien het concept Solid als een mooie basis die nog verder uitgebouwd, uitgebreid en doorontwikkeld moet worden vanuit de achterliggende visie voor een innovatiever, vriendelijker en veiliger web.</p> 
+          <p>Om die visie te realiseren en een samenhangend geheel te cre&euml;ren, maken we daarom gebruik van open technologie&euml;n en ondersteunen we de doorontwikkeling hiervan.</p>
           <p><br></p>
           
         </section>
         <section id="services">
           <h1>Wat doen we</h1>
-          <p>We adviseren hoe de visie achter Solid toegepast kan worden in sectoren en ondersteunen vervolgens het ontwikkelen van praktische projecten in samenwerking met onderzoeks- en implementatiepartners.<br>We ondersteunen het opbouwen van kennis en cross-sectorale kennisdeling.</p>
+          <p>We adviseren hoe de visie achter Solid toegepast kan worden in sectoren en ondersteunen vervolgens het ontwikkelen van praktische projecten in samenwerking met onderzoeks- en implementatiepartners.</p>
+          <p>We ondersteunen het opbouwen van kennis binnen sectoren en <stong>cross-sectorale kennisdeling</stong>.</p>
           <p>De uitkomsten hiervan communiceren we breed om bewustwording over de mogelijkheden van veilig en verantwoord data delen te versterken.&nbsp;</p>
           <p><br></p>
           
         </section>
+        <section id="Projecten">
+          <h1>Projecten</h1>
+          <a href="/projecten.html">
+          <img src="plaatje.jpg" alt="Afbeelding bij projecten" height="200" >
+          <p>Projecten</p>
+         </a>
+          <p>Bekijk projecten en voorbeelden</p>
+          <p><br></p>
+
+
+
+        </section>
         <section id="overdatakluizen">
           <h1>Over datakluizen</h1>
-          <p>De technologie achter Solid maakt persoonlijke datakluizen mogelijk. Hierdoor krijg je als mensen de regie terug over jouw gegevens, en beslis je zelf welke gegevens je deelt, met welke organisatie en voor hoe lang.</p>
+          <p>De technologie achter Solid maakt persoonlijke datakluizen mogelijk. Hierdoor krijg je als mens de regie terug over jouw gegevens, en beslis je zelf welke gegevens je deelt, met welke organisatie en voor hoe lang.</p>
           <p><br></p>
         </section>
         <section id="contact">
@@ -88,7 +109,16 @@
 
     </div>
 
- 
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+      </script>
 
       
 <script>
