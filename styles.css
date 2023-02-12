@@ -85,19 +85,17 @@ html {
 .title {   
   margin-right: 160px;
     padding-top: 60px;
-  
     min-height: 20vh ;
     display: flex ;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: 15px ;
-    
     border-bottom: 0.3px solid #e0e0e0;
 }
 
 
-.tagline{
+.title h3 {
   color: dimgray;
 }
 
