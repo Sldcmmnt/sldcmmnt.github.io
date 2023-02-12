@@ -40,7 +40,7 @@ html {
   color: #3a3a3a;
   overflow: hidden;
   z-index:10;
-  width: 100%;
+  width: 100vw;
   
   }
   
@@ -90,13 +90,16 @@ html {
     display: flex ;
     flex-direction: column;
     align-items: center;
-    justify-content: left;
+    justify-content: center;
     font-size: 15px ;
+    
     border-bottom: 0.3px solid #e0e0e0;
 }
 
 
-
+.tagline{
+  color: dimgray;
+}
 
 
 
@@ -182,6 +185,7 @@ display: flex;
 flex-direction: row;
 height: auto;
 z-index:5;
+
 }
 
 .projectafbeelding {
@@ -276,7 +280,7 @@ flex-direction: column;
       display: block;
     }
     .topnav{
-      width: 90vw;
+      width: 100%;
       z-index:10;
     }
   }
@@ -284,8 +288,8 @@ flex-direction: column;
   /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
   @media screen and (max-width: 600px) {
     .topnav.responsive {
-      position: relative;
-      width: auto;
+      position: fixed;
+      width: 100%;
     }
     .topnav.responsive .icon {
       position: absolute;
@@ -306,9 +310,14 @@ flex-direction: column;
     .side-bar  {
     position: relative;
     height: auto;
-    margin-left: 2rem;
+    width: 100vw;
+    left: 0;
+    display: block;
+    float: left;
+    margin-left: 2px;
     z-index:5;
-
+    margin-bottom: 15px;
+    border-bottom: 1px solid #d6d6d6;
   }
  
 }
@@ -318,14 +327,25 @@ flex-direction: column;
     .title {
         margin-right: 0;
       }
+      .tagline{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        width: 90vw;
+      }
     }
     
-/*Responsive Flexbox*/
-@media screen and (max-width: 600px) {
+/*Responsive WRAPPERPROJECTS*/
+@media screen and (max-width: 850px) {
 .wrapperprojects {
   display: flex;
   flex-direction: column;
-  padding: 5px;
-  
+  padding: 5px; 
+  }
+  .textcenterimage {
+   display: flex;
+   justify-content: center;
+   font: 10px;
+
   }
 }
