@@ -278,6 +278,7 @@ flex-direction: column;
       display: block;
     }
     .topnav{
+      box-sizing: border-box;
       width: 100%;
       z-index:10;
     }
@@ -310,6 +311,7 @@ flex-direction: column;
   @media screen and (max-width: 600px) {
     .side-bar  {
     position: relative;
+    box-sizing: border-box;
     height: auto;
     width: 100vw;
     left: 0;
@@ -327,12 +329,11 @@ flex-direction: column;
 @media screen and (max-width: 600px) {
     .title {
         margin-right: 0;
+        box-sizing: border-box;
+        text-align: center;
       }
-      .tagline{
-        display: flex;
-        align-content: center;
-        justify-content: center;
-        width: 90vw;
+    .title h3{
+      text-align: center;
       }
     }
     
