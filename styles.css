@@ -287,11 +287,12 @@ flex-direction: column;
   @media screen and (max-width: 600px) {
     .topnav.responsive {
       position: fixed;
+      box-sizing: border-box;
       width: 100%;
     }
     .topnav.responsive .icon {
       position: absolute;
-      right: 3px;
+      right: 0px;
       top: 0;
       
   
