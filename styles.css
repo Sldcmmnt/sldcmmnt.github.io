@@ -215,6 +215,7 @@ padding: 5px;
 
 /*Bottom*/
 .bottom {
+box-sizing: border-box;
 height: auto;
 width: auto ; 
 display: flex;
@@ -234,6 +235,7 @@ flex-direction: column;
 @media screen and (max-width: 600px) {
     .main-container {
     position: relative;
+    box-sizing: border-box;
         max-width: 1000px;
         margin-left: auto;
         margin-right: auto;
@@ -243,7 +245,7 @@ flex-direction: column;
 /*Responsive TITLE*/
 @media screen and (max-width: 600px) {
 .title {
-    
+  box-sizing: border-box;
     padding-bottom: 15px;
     border-bottom: 1px solid #d6d6d6;
 
@@ -313,11 +315,11 @@ flex-direction: column;
     position: relative;
     box-sizing: border-box;
     height: auto;
-    width: 95vw;
+    width: 90vw;
     left: 0;
     display: block;
     float: left;
-    margin-left: 2px;
+    
     z-index:5;
     margin-bottom: 15px;
     border-bottom: 1px solid #d6d6d6;
