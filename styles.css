@@ -99,8 +99,21 @@ html {
   color: dimgray;
 }
 
+/*BLOG-Block*/
+.blog-block a{
+  text-decoration: none;
+  border-bottom: 0.3px solid #e0e0e0;
+}
 
 
+/*HREF*/
+
+section:target::before {
+    content:"";
+    display:block;
+    height:60px; /* fixed header height*/
+    margin:-60px 0 0; /* negative fixed header height */
+  }
 
 /*SIDENAV*/
   * {
