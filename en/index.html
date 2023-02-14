@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles.css">
+    
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    <link rel="icon" type="image/ico" href="favicon.ico"/>
+
+  
+
+    <title>Solid Community Foundation - Netherlands</title>
+</head>
+<body>
+   
+<div class="main-container">
+  <div class="topnav" id="myTopnav">
+    <a href="index.html" >Home</a>
+    <a href="projects.html" >Projects</a>
+    <!--<a href="working-group.html" >Working Group</a>-->
+    <a href="contact.html" >Contact</a>
+     <!-- <a href="about.html" >About</a>-->
+    <a class="language" href="../index.html" >Dutch</a> 
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <div class="menuicon"></div>
+      <div class="menuicon"></div>
+      <div class="menuicon"></div>
+    </a>
+    </div>
+  <div class="title">
+  <h1>Solid Community Foundation</h1> 
+  <h2> Netherlands <h2>
+  <h3>Working together towards a safer, friendlier, and more innovative web</h3>
+  </div>
+
+  <div class="side-bar">
+    <nav class="navigation">
+      <ul>
+        <li>
+            <p>On this page</p>
+          <a href="#about">About Solid Community</a>
+          <a href="#aboutsolid">About Solid</a>
+          <a href="#services">What we do</a>
+          <a href="#projects">Projects</a>
+          <a href="#aboutdata-vaults">About Data Vaults</a>
+          
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="main-content">
+    
+      <section id="about">
+        <h1>About Solid Community Foundation - Netherlands</h1>
+        <p>The mission of Solid Community Foundation is to achieve responsible and safe data sharing based on open standards and values such as self-determination, freedom of choice, trust, and transparency.</p>
+        <p>We see technology as a means to contribute to a human-centric, friendly, and secure user experience in the digital space.</p>
+          
+      </section>
+      <section id="aboutsolid">
+      <h1>About Solid</h1>
+      <p>Solid is an initiative of the founder of the World Wide Web, Sir Tim Berners-Lee. It was created with the vision of making the web safer by organizing identities, data, and applications in a different way. This creates opportunities to organize the sharing of data safely and responsibly while also enabling an improvement of the user experience and service delivery. Solid is technically an umbrella under which various open technical specifications fall and builds on trusted W3C standards.</p>
+      <p>We see Solid as a solid foundation that needs to be further expanded, extended, and developed from the underlying vision for a more innovative, friendly, and secure web. To achieve this vision, we use additional open technologies and support their further development into a cohesive whole.</p>
+  </section>
+  <section id="services">
+      <h1>What We Do</h1>
+      <p>We provide advice on how to apply the vision of Solid in different sectors and support the development of practical projects in collaboration with organizations, research, and implementation partners. We also support the building of knowledge and cross-sectoral knowledge sharing. The outcomes of these efforts are communicated widely to strengthen awareness of the possibilities of safe and responsible data sharing.</p>
+  </section>
+  <section id="projects">
+      <h1>Projects</h1>
+      <a href="projecten.html">
+          <img src="../img/plaatje.jpg" alt="Image for Projects" height="200">
+          <p>Projects</p>
+      </a>
+      <p>View projects and examples.</p>
+  </section>
+  <section id="aboutdata-vaults">
+      <h1>About Data Vaults</h1>
+      <p>The open technology behind Solid enables personal data vaults. This gives individuals control over their data and allows them to decide which data to share, with which organization, and for how long. An important principle of Solid is that data is stored in a way that all applications and organizations can understand and process.</p>
+  
+      <p><br></p>
+      <p><br></p>
+      <p><br></p>
+      <p><br></p>
+    </section>
+  
+
+
+
+
+
+
+     
+
+        <div class="bottom">
+        <p><a href="mailto:info@solidcommunity.nl">Contact</a></p>
+        <p>Stichting Solid Community 2023</p>  
+        </div>
+      </div>
+
+    </div>
+
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+      </script>
+
+      
+<script>
+    // Get all sections that have an ID defined
+const sections = document.querySelectorAll("section[id]");
+
+// Add an event listener listening for scroll
+window.addEventListener("scroll", navHighlighter);
+
+function navHighlighter() {
+  
+  // Get current scroll position
+  let scrollY = window.pageYOffset;
+  
+  // Now we loop through sections to get height, top and ID values for each
+  sections.forEach(current => {
+    const sectionHeight = current.offsetHeight;
+    const sectionTop = current.offsetTop - 50;
+    sectionId = current.getAttribute("id");
+    
+    /*
+    - If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
+    - To know which link needs an active class, we use sectionId variable we are getting while looping through sections as an selector
+    */
+    if (
+      scrollY > sectionTop &&
+      scrollY <= sectionTop + sectionHeight
+    ){
+      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.add("active");
+    } else {
+      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.remove("active");
+    }
+  });
+}
+
+</script>
+
+</body>
+</html>
