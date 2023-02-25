@@ -1,0 +1,24 @@
+
+
+
+.header_blog_mainpage {
+margin-bottom: 20px;  
+}
+
+.row_blog_mainpage a{
+text-decoration: none;
+border-bottom: 0.3px solid #e0e0e0;
+}
+
+.image_blog {
+    
+}
+
+/* video no spinning at load */
+video::-webkit-media-controls {
+    visibility: hidden;
+  }
+  
+  video::-webkit-media-controls-enclosure {
+    visibility: visible;
+  }

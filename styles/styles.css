@@ -1,0 +1,106 @@
+@import "styles_topnavbar.css";    /* 850 px responsive*/
+@import "styles_header.css";      /* 850 px responsive*/
+@import "styles_footer.css";
+@import "styles_sidebar.css";   /* 850 px responsive*/
+
+@import "styles_projectblocks.css";
+@import "styles_blogmainpage.css"; 
+
+
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  min-height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+a { 
+text-decoration:underline ;
+color: #333;
+
+}
+
+a:hover {
+color: rgb(80, 22, 187);
+font-weight: 400;
+}
+
+
+/*MAIN CONTAINER*/
+.main-container {
+  position: relative;
+      max-width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+      width: calc(100% - 15vw);
+      padding-bottom: 60px;
+      min-height: 100vh;
+  }
+  
+
+
+
+
+/*HREF centers anchor in page when clicked on anchor*/
+
+section:target::before {
+  content:"";
+  display:block;
+  height:60px; /* fixed header height*/
+  margin:-60px 0 0; /* negative fixed header height */
+}
+
+
+/*MAIN CONTENT*/
+.main-content {
+  margin-right: 160px;
+  
+}
+
+section{
+  margin-bottom: 50px;
+}
+
+section:last-of-type{
+  margin-bottom: 150px;
+}
+
+h1 {
+  color: #444;
+  font-weight: 600;
+}
+
+.active {
+  color: rgb(19, 48, 145); 
+  font-weight: 600;
+}
+
+
+
+
+/*RESPONSIVE ACTIONS*/
+
+
+/*Responsive MAIN CONTAINER*/
+@media screen and (max-width: 850px) {
+  .main-container {
+  position: relative;
+  box-sizing: border-box;
+      max-width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+      width: calc(100% - 4vw);
+  }
+}
+
+
+/*Responsive MAIN CONTENT*/
+@media screen and (max-width: 850px) {
+  .main-content {
+     margin-right: 0;
+   }
+  
+ }

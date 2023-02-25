@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
     <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
     <link rel="icon" type="image/ico" href="favicon.ico"/>
     
@@ -19,7 +18,7 @@
     <meta name="author" content="Stichting Solid Community">
     <meta property=”article:published_time” content=”2023-02-12T10:53:04+00:00″/>
 
-    
+    <script type="text/javascript" src="js/navbar.js"></script>
     
     <title>Een longread over EDI-wallets, datakluizen en pizza's</title>
 </head>
@@ -32,7 +31,7 @@
   <div class="topnav" id="myTopnav">
     <a href="index.html" >Home</a>
     <a href="projecten.html" >Projecten</a>
-    <a href="werkgroep.html" >Werkgroep</a>
+    <a href="werkgroep.html" >Samenwerken</a>
     <a href="contact.html" >Contact</a>
     <a href="over.html" >Over</a>
     <a href="blog.html" >Blog</a>
@@ -43,11 +42,15 @@
     </a>
     </div>
 
-  <div class="title">
-  <h1>Solid Community - Nederland</h1>
-  <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
-  </div>
-
+    <div class="header">
+      <div class="image_header">
+        <img src="img/logo.png" alt="logo">
+      </div>
+      <div class="text_header">
+        <h1>Solid Community - Nederland</h1>
+        <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
+      </div>
+    </div>
 
 
     <div class="side-bar">
@@ -106,7 +109,7 @@
   <p>In Vlaanderen werkt de overheid met deze zogenoemde verifiable credentials bij het bewijzen dat je een diploma hebt.</p>
   <p>Meer toelichting bij onderstaande video vind je op de website van het <a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank">Vlaams DataNutsbedrijf</a> onder projecten.</p>
   
-    <div style="cursor: pointer;" class="projectafbeelding" >
+    <div style="cursor: pointer;">
       <video width= "360"  height="240" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_90,w_1280/Sander_-_diploma_case_vfbdxe.jpg" controls>
       <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4">
       </video>
@@ -182,7 +185,7 @@
 <p>Deze twee scenario&rsquo;s worden al door de Vlaamse overheid ontwikkeld. In de volgende video worden deze toegelicht.</p>
 <p>Meer toelichting bij onderstaande video vind je op de website van het <a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank">Vlaams DataNutsbedrijf</a> onder projecten.</p>
   
-<div style="cursor: pointer;" class="projectafbeelding" >
+<div style="cursor: pointer;">
   <video width= "360" height="240" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_90,w_1280/Sarah_1_bn2vj2.jpg" controls>
   <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" type="video/mp4">
   </video>
@@ -253,53 +256,8 @@
 </section>
 
     </div>
-
-    <script>
-      function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-          x.className += " responsive";
-        } else {
-          x.className = "topnav";
-        }
-      }
-      </script>
-
-      
-<script>
-    // Get all sections that have an ID defined
-const sections = document.querySelectorAll("section[id]");
-
-// Add an event listener listening for scroll
-window.addEventListener("scroll", navHighlighter);
-
-function navHighlighter() {
-  
-  // Get current scroll position
-  let scrollY = window.pageYOffset;
-  
-  // Now we loop through sections to get height, top and ID values for each
-  sections.forEach(current => {
-    const sectionHeight = current.offsetHeight;
-    const sectionTop = current.offsetTop - 50;
-    sectionId = current.getAttribute("id");
-    
-    /*
-    - If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
-    - To know which link needs an active class, we use sectionId variable we are getting while looping through sections as an selector
-    */
-    if (
-      scrollY > sectionTop &&
-      scrollY <= sectionTop + sectionHeight
-    ){
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.add("active");
-    } else {
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.remove("active");
-    }
-  });
-}
-
-</script>
+    <script type="text/javascript" src="js/lightup.js"></script>
+    <script type="text/javascript">navHighlighter()</script>
 
 </body>
 </html>

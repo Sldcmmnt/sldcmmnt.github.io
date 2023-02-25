@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../styles/styles.css">
     <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
     <link rel="icon" type="image/ico" href="favicon.ico"/>
 
-  
+    <script type="text/javascript" src="../js/navbar.js"></script>
 
     <title>Solid Community Foundation - Netherlands</title>
 </head>
@@ -28,10 +28,16 @@
       <div class="menuicon"></div>
     </a>
     </div>
-  <div class="title">
-  <h1>Solid Community Foundation</h1> 
-  <h2> Netherlands <h2>
-  <h3>Working together towards a safer, friendlier and more innovative web</h3>
+
+  <div class="header">
+    <div class="image_header">
+      <img src="../img/logo.png" alt="logo">
+    </div>
+    <div class="text_header">
+      <h1>Solid Community Foundation</h1>
+      <h2> Netherlands <h2>
+      <h3>Working together towards a safer, friendlier and more innovative web</h3>
+    </div>
   </div>
 
   <div class="side-bar">
@@ -55,56 +61,63 @@
       <p>It is applicable in various sectors and domains such as municipalities, government agencies, healthcare, retail, media, etc.</p>
       <p><br></p>
     </section>
-      <section id="Netherlands">
-        <h1>Dutch Examples in preparation</h1>
-        <p>In the Netherlands, we are involved in the following examples in development, preparation or planning. 
-          <br>More information will follow as completion approaches.
-        </p>
 
         <div class="wrapperprojects">
+          
+          <div class="projectblock">
+           <div class="project_text">
+            <h2>My financial world</h2>
+            <p>Calculating income allowances for citizens often requires various pieces of information. 
+              When these data can be shared from a data vault with the relevant agency, a smoother and more user-friendly process is created.</p>
+            </div>
+              <img src="../img/plaatje4.jpg" alt="Afbeelding luchtballon bij projecten">
+          </div>         
+      </div>
 
-          <div class="projectafbeelding">
-  
-          <img src="../img/plaatje4.jpg" style="opacity: 0.2;" alt="Image of hot air balloon in projects">
-          <div class="textcenterimage"> <h2>Calculating Allowances</h2></div>
-          <p>Calculating income allowances for citizens often requires various pieces of information. 
-            When these data can be shared from a data vault with the relevant agency, a smoother and more user-friendly process is created.
-          </p>
-          </div>
-  
-          <div class="projectafbeelding">
-            <img src="../img/plaatje3.jpg" style="opacity: 0.2;"  alt="Image of hot air balloon in projects" >
-            <div class="textcenterimage"> <h2>Healthcare</h2></div>
-            <p>During your life course and in healthcare situations, multiple healthcare providers are often involved.
-              In those healthcare processes, the person is the pivotal point. By placing health data in a data vault, relevant data can easily move along during necessary contacts.
-              Additionally, other sources of information that can be useful for understanding someone's context can be stored in the data vault.
-            </p>
-            
+      <div class="wrapperprojects">
+        
+          <div class="projectblock">
+              <div class="project_text">
+              <h2>My health</h2>
+                <p>During your life course and in healthcare situations, multiple healthcare providers are often involved.
+                  In those healthcare processes, the person is the pivotal point. By placing health data in a data vault, relevant data can easily move along during necessary contacts.
+                  Additionally, other sources of information that can be useful for understanding someone's context can be stored in the data vault.
+                </p>
+              </div>
+
+                <img src="../img/plaatje3.jpg"  alt="Afbeelding luchtballon bij projecten" >
           </div>
       </div>
-  
-  
+
       <div class="wrapperprojects">
-  
-        <div class="projectafbeelding">
           
-        <img src="../img/plaatje2.jpg" style="opacity: 0.2;" alt="Image of hot air balloon in projects">
-        <div class="textcenterimage"> <h2>Sharing Diplomas</h2></div>
-        <p>Sharing your diploma is a common situation when applying for a job or demonstrating in, for example, healthcare that you have the right qualifications. 
-          With the help of data vaults, you can share these safely and responsibly.</p>
-      
-        </div>
-  
-        <div class="projectafbeelding">
+          <div class="projectblock">
           
-          <img src="../img/plaatje5.jpg" style="opacity: 0.2;"  alt="Image of hot air balloon in projects" >
-          <div class="textcenterimage"> <h2>Organizations and Municipalities</h2></div>
+            <div class="project_text">
+              <h2>My career</h2>
+            <p>Sharing your diploma is a common situation when applying for a job or demonstrating in, for example, healthcare that you have the right qualifications. 
+            With the help of data vaults, you can share these safely and responsibly.</p>
+          </div>
+          <img src="../img/plaatje2.jpg" alt="Afbeelding luchtballon bij projecten">
+          </div>
+      </div>
+
+      <div class="wrapperprojects">
+        
+        <div class="projectblock">
+          <div class="project_text">
+            <h2>My services</h2>
           <p>Up to date contact details are useful and necessary for service-providing organizations to be able to get in touch with their customers. 
             This can be easily and conveniently realized through a data vault. This allows more time to be spent on what really matters: providing service.</p>
-          
+          </div>
+            <img src="../img/plaatje5.jpg"  alt="Afbeelding luchtballon bij projecten" >
         </div>
-    </div>
+      </div>
   </section>
+
+
+
+
       
   <section id="collaborate">
     <h1>Collaboration</h1>
@@ -137,52 +150,9 @@
 
     </div>
 
-    <script>
-      function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-          x.className += " responsive";
-        } else {
-          x.className = "topnav";
-        }
-      }
-      </script>
 
-      
-<script>
-    // Get all sections that have an ID defined
-const sections = document.querySelectorAll("section[id]");
-
-// Add an event listener listening for scroll
-window.addEventListener("scroll", navHighlighter);
-
-function navHighlighter() {
-  
-  // Get current scroll position
-  let scrollY = window.pageYOffset;
-  
-  // Now we loop through sections to get height, top and ID values for each
-  sections.forEach(current => {
-    const sectionHeight = current.offsetHeight;
-    const sectionTop = current.offsetTop - 50;
-    sectionId = current.getAttribute("id");
-    
-    /*
-    - If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
-    - To know which link needs an active class, we use sectionId variable we are getting while looping through sections as an selector
-    */
-    if (
-      scrollY > sectionTop &&
-      scrollY <= sectionTop + sectionHeight
-    ){
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.add("active");
-    } else {
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.remove("active");
-    }
-  });
-}
-
-</script>
+    <script type="text/javascript" src="../js/lightup.js"></script>
+    <script type="text/javascript">navHighlighter()</script>
 
 </body>
 </html>

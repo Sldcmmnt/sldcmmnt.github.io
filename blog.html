@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
     <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
     <link rel="icon" type="image/ico" href="favicon.ico"/>
 
-  
+    <script type="text/javascript" src="js/navbar.js"></script>
 
     <title>Solid Community</title>
 </head>
@@ -23,7 +22,7 @@
   <div class="topnav" id="myTopnav">
     <a href="index.html" >Home</a>
     <a href="projecten.html" >Projecten</a>
-    <a href="werkgroep.html" >Werkgroep</a>
+    <a href="werkgroep.html" >Samenwerken</a>
     <a href="contact.html" >Contact</a>
     <a href="over.html" >Over</a>
     <a href="blog.html" >Blog</a>
@@ -34,11 +33,15 @@
     </a>
     </div>
 
-  <div class="title">
-  <h1>Solid Community - Nederland</h1>
-  <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
-  </div>
-
+    <div class="header">
+      <div class="image_header">
+        <img src="img/logo.png" alt="logo">
+      </div>
+      <div class="text_header">
+        <h1>Solid Community - Nederland</h1>
+        <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
+      </div>
+    </div>
 
     <div class="side-bar">
         <nav class="navigation">
@@ -53,9 +56,8 @@
       </div>
 
       <div class="main-content">
-        <section style="border-bottom: 0.3px solid #e0e0e0;" id="blog">
-         
-          <h1>Blogs</h1>
+        <section class="header_blog_mainpage">
+         <h1>Blogs</h1>
           
           <p><br></p>
         </section>
@@ -64,70 +66,24 @@
 
 
         <section id="1">
-          <div class="blog-block">
+          <div class="row_blog_mainpage">
           <a href="blog1.0.html">
               <h1>Over EDI-wallets, datakluizen en pizza's</h1>
               <p> Een longread die dieper ingaat over het belang van een samenhangende gebruikerservaring in het kader van ontwikkelingen zoals de Europese Digitale Identiteit wallets, datakluizen en andere ondersteunende diensten. 
                 <br> Het is tegelijkertijd een uitleg van nieuwe ingrediënten in de digitale ruimte.
               </p>
          
-                <div style="cursor: pointer;" class="projectafbeelding">           
+                <div style="cursor: pointer;">           
                   <img src="img/pizzaplaatje.jpg" alt="Afbeelding bij projecten" height="200" >
                   <p>Lees blog</p> 
               </div>
               <p><br></p>
             </a>
         </div>
-          
         </section>   
     </div>
-
-    <script>
-      function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-          x.className += " responsive";
-        } else {
-          x.className = "topnav";
-        }
-      }
-      </script>
-
-      
-<script>
-    // Get all sections that have an ID defined
-const sections = document.querySelectorAll("section[id]");
-
-// Add an event listener listening for scroll
-window.addEventListener("scroll", navHighlighter);
-
-function navHighlighter() {
-  
-  // Get current scroll position
-  let scrollY = window.pageYOffset;
-  
-  // Now we loop through sections to get height, top and ID values for each
-  sections.forEach(current => {
-    const sectionHeight = current.offsetHeight;
-    const sectionTop = current.offsetTop - 50;
-    sectionId = current.getAttribute("id");
-    
-    /*
-    - If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
-    - To know which link needs an active class, we use sectionId variable we are getting while looping through sections as an selector
-    */
-    if (
-      scrollY > sectionTop &&
-      scrollY <= sectionTop + sectionHeight
-    ){
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.add("active");
-    } else {
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.remove("active");
-    }
-  });
-}
-
-</script>
+    <script type="text/javascript" src="js/lightup.js"></script>
+    <script type="text/javascript">navHighlighter()</script>
 
 </body>
 </html>

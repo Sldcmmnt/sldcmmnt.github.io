@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
     <link rel="icon" type="image/ico" href="favicon.ico"/>
 
-  
+    <script type="text/javascript" src="js/navbar.js"></script>
+
 
     <title>Solid Community</title>
 </head>
@@ -19,7 +21,7 @@
   <div class="topnav" id="myTopnav">
     <a href="index.html" >Home</a>
     <a href="projecten.html" >Projecten</a>
-    <a href="werkgroep.html" >Werkgroep</a>
+    <a href="werkgroep.html" >Samenwerken</a>
     <a href="contact.html" >Contact</a>
     <a href="over.html" >Over</a>
     <a href="blog.html" >Blog</a>
@@ -31,10 +33,15 @@
       </a>
     </div>
 
-  <div class="title">
-  <h1>Solid Community - Nederland</h1>
-  <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
-  </div>
+    <div class="header">
+      <div class="image_header">
+        <img src="img/logo.png" alt="logo">
+      </div>
+      <div class="text_header">
+        <h1>Solid Community - Nederland</h1>
+        <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
+      </div>
+    </div>
 
   
 
@@ -60,7 +67,7 @@
           <h1>Over Stichting Solid Community</h1>
           <p>De missie van de Stichting Solid Community is om&nbsp;<strong>verantwoord en veilig data delen</strong>&nbsp;te realiseren op basis van van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie.</p>
           <p>We zien technologie als een middel om bij te dragen aan een mensgerichte, vriendelijke en veilige gebruikerservaring in de digitale ruimte.</p>
-          <p><br></p>
+
       
         </section>
 
@@ -74,17 +81,17 @@
           
           <p>We zien Solid als een mooie basis die nog verder uitgebouwd, uitgebreid en doorontwikkeld moet worden vanuit de achterliggende visie voor een innovatiever, vriendelijker en veiliger web.</p> 
           <p>Om die visie te realiseren, maken we daarom gebruik van aanvullende open technologie&euml;n en ondersteunen we de doorontwikkeling hiervan tot een samenhangend geheel.</p>
-          <p><br></p>
-          
         </section>
+
+
         <section id="wat-doen-we">
           <h1>Wat doen we</h1>
           <p>We adviseren hoe de visie van Solid toegepast kan worden in sectoren en we ondersteunen het ontwikkelen van praktische projecten in samenwerking met organisaties, onderzoeks- en implementatiepartners.</p>
           <p>We ondersteunen daarnaast ook het opbouwen van kennis en<strong>&nbsp;cross-sectorale kennisdeling</strong>.</p>
-          <p><br>De uitkomsten hiervan communiceren we breed om bewustwording over de mogelijkheden van veilig en verantwoord data delen te versterken.&nbsp;</p>
-          <p><br></p>
-          
+          <p>De uitkomsten hiervan communiceren we breed om bewustwording over de mogelijkheden van veilig en verantwoord data delen te versterken.&nbsp;</p>
         </section>
+
+
         <section id="projecten">
           <h1>Projecten</h1>
           <a href="projecten.html">
@@ -92,21 +99,17 @@
           <p>Projecten</p>
          </a>
           <p>Bekijk projecten en voorbeelden</p>
-          <p><br></p>
-
-
-
         </section>
+
+
         <section id="over-datakluizen">
           <h1>Over datakluizen</h1>
           <p>De open technologie achter Solid maakt persoonlijke datakluizen mogelijk. Hierdoor krijg je als mens de regie terug over jouw gegevens, en beslis je zelf welke gegevens je deelt, met welke organisatie en voor hoe lang.</p>
           <p>Een belangrijk principe van Solid is dat data zo worden opgeslagen dat alle applicaties en organisaties deze kunnen begrijpen en verwerken.</p>
-          <p><br></p>
-          <p><br></p>
-          <p><br></p>
-          <p><br></p>
-          
         </section>
+
+
+
 
         <div class="bottom">
         <p><a href="mailto:info@solidcommunity.nl">Contact</a></p>
@@ -116,85 +119,8 @@
 
     </div>
 
-//<script>
-//select all the elements with .product_section
-//var products = document.querySelectorAll('section');
-//loop through them
-//products.forEach(function(el){
-  //create ul element
-  //var ul = document.createElement('li');
-  //find all h2, h3 from the currrent element
-  //var c = el.querySelectorAll('h1, h3');
-  //loop through them
-  //c.forEach(function(header){
-    //create li element
-
-    //create anchor element
-    //var a = document.createElement('a');  
-    //set the href attribute and set the link text
-   // a.href = '#' + header.textContent.toLowerCase().replace(' ', '-');
-    //a.textContent = header.textContent;
-   
-    //append the li to ul element
-    //ul.appendChild(a);
- // });
-  //append the ul to div element
- // document.querySelector('.navigation').appendChild(ul);
-  //remove the current div element
- 
-//});
-
-</script>//
-
-
-
-
-    <script>
-      function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-          x.className += " responsive";
-        } else {
-          x.className = "topnav";
-        }
-      }
-      </script>
-
-      
-<script>
-    // Get all sections that have an ID defined
-const sections = document.querySelectorAll("section[id]");
-
-// Add an event listener listening for scroll
-window.addEventListener("scroll", navHighlighter);
-
-function navHighlighter() {
   
-  // Get current scroll position
-  let scrollY = window.pageYOffset;
-  
-  // Now we loop through sections to get height, top and ID values for each
-  sections.forEach(current => {
-    const sectionHeight = current.offsetHeight;
-    const sectionTop = current.offsetTop - 50;
-    sectionId = current.getAttribute("id");
-    
-    /*
-    - If our current scroll position enters the space where current section on screen is, add .active class to corresponding navigation link, else remove it
-    - To know which link needs an active class, we use sectionId variable we are getting while looping through sections as an selector
-    */
-    if (
-      scrollY > sectionTop &&
-      scrollY <= sectionTop + sectionHeight
-    ){
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.add("active");
-    } else {
-      document.querySelector(".navigation a[href*=" + sectionId + "]").classList.remove("active");
-    }
-  });
-}
-
-</script>
-
+    <script type="text/javascript" src="js/lightup.js"></script>
+    <script type="text/javascript">navHighlighter()</script>
 </body>
 </html>
