@@ -22,3 +22,8 @@ video::-webkit-media-controls {
   video::-webkit-media-controls-enclosure {
     visibility: visible;
   }
+
+  .line{
+    border-bottom: 1px solid lightgray;
+    width: 100%;
+  }

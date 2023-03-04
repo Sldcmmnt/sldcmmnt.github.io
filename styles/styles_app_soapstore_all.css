@@ -1,0 +1,153 @@
+.soap_mainscreen {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  }
+  
+  .soap_header {
+    width: 100%;
+    background-color: rgb(248, 248, 248);
+  
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+  }
+  
+  .soap_image {
+    height: 10vh;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 5px;
+    /*border: 2px solid darkgrey;*/
+  }
+  .soap_image img {
+    height: auto;
+    width: 80%;
+    object-fit: contain;
+    margin-right: 5px;
+  }
+  
+  .soap_title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    height: 10vh;
+    width: 80%;
+  }
+  
+  .soap_title h1, h2, h3, p {
+    margin: 0
+  }
+  
+  .soap_title h2,h3 {
+  color: rgb(80, 80, 80);
+  }
+  
+  
+  .soap_wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    align-content: space-evenly;
+    margin-top: 35px;
+    height: auto;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    
+  }
+  
+  .soap_wrap a{
+    text-decoration: none;
+  }
+  
+  .soap_item {
+    height: auto;
+    width: 80px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    /*justify-content: center;*/
+    text-align: center;
+    
+  }
+  
+  .soap_item a{
+  text-decoration: none;
+  }
+  
+  .soap_item_image {
+    height: 80px;
+    width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: start;
+  background-color: #b1d9ff;
+  border-radius: 10px;
+  }
+  
+  .soap_item_image img {
+    height: 80px;
+    width: 80px;
+    object-fit: contain;
+    align-content: start;
+    justify-content: center;
+  }
+  
+  #other_app {
+    background-color: #c0c5c9; 
+    border-radius: 10px;
+  }
+ 
+/* This only affects class with the following id*/
+
+  #soap_item_empty.soap_item_image  {
+    height: 80px;
+    width: 80px;
+    object-fit: contain;
+    align-content: start;
+    justify-content: center;
+    background-color: #d2e9ff;
+    border: 2px solid #cab7ff;
+    border-radius: 15px;
+  }
+  
+  #soap_item_empty.soap_item_image img {
+    height: 76px;
+    width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: start;
+  }
+  
+
+  
+
+  .soap_item_text {
+  height: auto;
+  width: 80px;
+  font-size: 80%;
+  
+  }
+  
+  .soap_item_text a, p {
+    text-decoration: none;
+    margin: 0;
+  }
+  
+  
+  #fadein {
+    animation: fadein 0.5s;
+  }
+  @keyframes fadein {
+    from { opacity: 0}
+    to   { opacity: 1}
+  }
+  

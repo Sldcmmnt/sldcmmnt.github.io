@@ -1,0 +1,70 @@
+.preferences_total {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    }
+
+.preferences_text{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+}
+
+.preferences_text label{
+    margin-top: 7px;
+}
+
+.preferences_checks{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 15px;
+    
+}
+
+
+input {
+    margin: 0.4rem;
+}
+
+
+
+input[type=checkbox]{
+    transform: scale(1.5);
+    margin-top: 8px;
+  /*  filter: hue-rotate(60deg);*/
+}
+
+input[type=text]{
+    
+    width: 50px;
+    margin-top: 8px;
+  /*  filter: hue-rotate(60deg);*/
+}
+
+
+#spacing_15px.single_app_text p{
+    margin-bottom: 15px;
+}
+#spacing_15px.line {
+    margin-bottom: 15px;
+}
+
+.select_menu_lang {
+    font-size: 0.9rem;
+    margin-top: 5px;
+    height: 25px;
+    width: 150px;
+}
+
+#blue_button.single_app_install button {
+    
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(78, 111, 255);
+    color: white;
+    cursor: pointer;
+    border: none;
+  }

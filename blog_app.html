@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    <link rel="icon" type="image/ico" href="favicon.ico"/>
+
+    <script type="text/javascript" src="js/navbar.js"></script>
+
+    <title>Solid Community</title>
+</head>
+   <body>
+    <div class="main-container">
+        <div class="topnav" id="myTopnav">
+            <a href="index.html" >Home</a>
+            <a href="projecten.html" >Projecten</a>
+            <a href="werkgroep.html" >Samenwerken</a>
+            <a href="contact.html" >Contact</a>
+            <a href="over.html" >Over</a>
+            <a href="blog.html" >Blog</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <div class="menuicon"></div>
+              <div class="menuicon"></div>
+              <div class="menuicon"></div>
+            </a>
+            </div>
+        
+            <div class="header">
+              <div class="image_header">
+                <img src="img/logo.png" alt="logo">
+              </div>
+              <div class="text_header">
+                <h1>Solid Community - Nederland</h1>
+                <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
+              </div>
+            </div>
+        
+            <div class="side-bar">
+                <nav class="navigation">
+                  <ul>
+                    <li>
+                        <p>Op deze pagina</p>
+                      <a href="#1">Inleiding</a>
+                      
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+        
+              <div class="main-content">
+                <section class="header_blog_mainpage">
+                 
+                 <h1>Een longread Edge AI</h1>
+                 <p style="color: darkgrey;"></p>5-3-2023 <br> door Gijs van den Beucken</p>
+                 <p style="color: darkgrey;">Leestijd ca. 15 minuten</p>
+                                  
+                </section>
+                <section id="1">
+                <p>In dit artikel beschrijven we een scenario om te komen tot privacyvriendelijk gebruik van data in interactie met services.&nbsp;</p>
+                <p><br></p>
+                <p>Om de visie achter Solid te realiseren, een veilige en gebruiksvriendelijke ervaring voor de mens in de digitale omgeving, ontwikkelt de Stichting Solid Community o.a. concepten, standaarden en functies die in de praktijk nodig zijn in verschillende sectoren.</p>
+               <br>
+                <p>Een belangrijk onderdeel van Solid is de <a href="https://ruben.verborgh.org/articles/redecentralizing-the-web/">scheiding</a> van data en applicaties. De data worden opgeslagen in je persoonlijke datakluis.</p>
+                <p>Welke verschillende vormen van data en de daarbijbehorende processen nodig zijn bij het bezoeken van externe services worden hieronder beschreven. Vervolgens kijken we hoe deze processen op een privacyvriendelijke manier kunnen worden ingezet</p>
+              </section>
+                <section id="1">
+                <h1>Data aan de gebruikerszijde</h1>
+                 <p>Een eerste vorm van data zijn <strong>gebruikerssdata</strong>, bijvoorbeeld: welke content heb ik gekeken of geluisterd. Het proces dat hierbij hoort is het opslaan van deze data in je datakluis.</p>
+                <p>Daarnaast is een tweede vorm:&nbsp;<strong>voorkeuren</strong>.&nbsp;<br>Bijvoorbeeld over de vorm van de content: ik wil ondertitels in het Frans, ik wil een groter lettertype voor betere leesbaarheid, en dyslexie vriendelijke tekst.&nbsp;<br>Voorkeuren kunnen ook gaan over de content zelf: ik heb een voorkeur voor content over onderwerp x.<br>Het proces dat bij deze data hoort is het bepalen en opslaan van je voorkeuren in je datakluis.</p><br>
+                
+                <h1>Combineren met externe data</h1>
+                <p>Zodra je bovenstaande data gaat gebruiken om aanbod van een service te <em>personaliseren</em> ontstaat de noodzaak om data over jouw gebruiksdata en voorkeuren te combineren met externe data, bijvoorbeeld een content-bibliotheek van een mediaservice.</p>
+                <p>Er ontstaat dan een derde vorm van data:&nbsp;<strong>gecombineerde data</strong>. Het proces wat hierbij hoort is berekenen van combinaties.<br>Een voorbeeld van deze vormen van data samenvoegen tot gecombineerde data is:&nbsp;</p>
+                <ol>
+                    <li>
+                        <p>ik kijk regelmatig serie x (gebruikersdata),&nbsp;</p>
+                    </li>
+                    <li>
+                        <p>voor een betere leesbaarheid wil ik een groter lettertype (voorkeur 1), en ik ben ge&iuml;nteresseerd in onderwerp y (voorkeur 2) &nbsp;</p>
+                    </li>
+                    <li>
+                        <p>op basis van een berekening tussen bovenstaande data en de content-bibliotheek van een mediaservice ben ik mogelijk ook ge&iuml;nteresseerd in artikel z, afgebeeld in een groter lettertype (gecombineerde data).</p>
+                    </li>
+                </ol>
+                
+             
+                <h3>Privacy waarborgen</h3>
+                <p>Wanneer je je privacy wil waarborgen dan wil je liever niet dat deze 3 vormen van data in de handen belandt van een derde partij.&nbsp;<br>Rechtszaken laten zien dat dit mogelijk niet past in de waardes die onder de wetgeving liggen. (<a href="https://dataprotectionprivacy.eu/en/can-inferred-data-be-special-categories-of-data/">1</a> , <a href="https://dataprotectionprivacy.eu/en/can-inferred-data-be-special-categories-of-data/">2</a>)&nbsp;</p>
+                <p>Deze data samengevoegd kunnen namelijk leiden tot een&nbsp;<strong>persoonlijk profiel</strong>.&nbsp;<br>Wanneer je dit persoonlijk profiel wilt delen met een derde partij ontstaan er opnieuw privacy risico&rsquo;s.&nbsp;</p>
+                <p>Een experiment van Google om je persoonlijk profiel in cohorten onder te verdelen leidde bijvoorbeeld tot felle&nbsp;<a href="https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea">kritiek</a> omdat dit onder andere kan leiden tot nieuwe profilering, zogenaamde &lsquo;fingerprinting&rsquo;.<br><br></p>
+                <h1>Persoonlijk profiel in interactie met services</h1>
+                <p>Om te bewegen op het web en te komen tot een gepersonaliseerd aanbod zul je echter wel in interactie moeten gaan met externe services. Naast de drie eerder genoemde vormen van data en bijbehorende processen, is er dus een vierde component waarbij het waarborgen van privacy van belang is: in interactie treden met externe services op basis van je persoonlijke profiel.&nbsp;</p>
+                <p><br></p>
+                <h1>Uitgangspunten&nbsp;</h1>
+                <p>Samengevat zijn er dus 4 soorten processen met bijbehorende data die je wilt reguleren om privacy te waarborgen. In dit artikel gaan we daarom uit van de volgende 4 uitgangspunten:&nbsp;</p>
+                <ol>
+                    <li>
+                        <p>het opslaan van gebruikersdata gebeurt privacyvriendelijk</p>
+                    </li>
+                    <li>
+                        <p>het instellen of bepalen van voorkeuren gebeurt privacyvriendelijk</p>
+                    </li>
+                    <li>
+                        <p>het berekenen van data combinaties met externe services gebeurt privacyvriendelijk</p>
+                    </li>
+                    <li>
+                        <p>het gebruiken van je persoonlijk profiel in interactie met externe services gebeurt privacyvriendelijk</p>
+                    </li>
+                </ol>
+              </section>
+              <div class="line"></div>
+              <section id="1">
+                <h1>Gebruikersdata opslaan</h1>
+                <p>Gebruikersdata zijn bijvoorbeeld: welk artikel lees ik, welk muzieknummer beluister ik en welk artikel heb ik opgeslagen als favoriet.<br>Om deze gebruikersdata privacyvriendelijk op te slaan ontstaat een eerste uitdaging.<br>Het adres van een SolidPod is gebaseerd op een URL waarin mogelijk je naam en achternaam verwerkt zit. Dit kan handig zijn als je met een bekende interacteert en een bestand wilt delen (laten bezoeken) vanuit je datakluis.&nbsp;<br>Echter als een externe service jouw gebruikersdata wilt wegschrijven in je SolidPod dan kan deze URL met potentieel je naam erin, uitgelezen worden. In deze context is dat mogelijk niet de meest privacy vriendelijke manier.</p>
+                <br>
+                <p>E&eacute;n mogelijkheid om dit op te lossen in dit soort situaties is het gebruik van een &apos;identiteits-scrambler&apos; waardoor deze gegevens worden verborgen.<br>Een mogelijke oplossing is:<br>De url kan bijvoorbeeld vervangen worden door een set aan gerandomiseerde tekens.<br>Om herhaalde bezoeken van een persoon aan een service niet aan elkaar te kunnen linken en zo alsnog achter de schermen een profiel op te bouwen, is aanvullend een dynamische verandering van deze set aan tekens nodig.&nbsp;</p>
+                <p>In deze blog gaan we niet verder technisch de diepte in maar beperken we voor de leesbaarheid bovenstaand concept tot de naam identiteits-scrambler.</p>
+                <br>
+                <p>Onderstaand wordt via een interactieve vorm weergegeven hoe die gebruikerservaring op hoofdlijnen zou kunnen werken door 'privacy supporting services' toe te voegen aan je persoonlijke digitale omgeving.&nbsp;<br>Klik op <em>add new app</em> om de Solid App-store (SOAP-store) te openen &nbsp;en de identity scrambler toe te voegen.&nbsp;<br>&nbsp;</p>
+              
+             
+
+        
+
+
+            <iframe id="inlineFrameExample" class="iframe_app"
+            title="Inline Frame Example"
+
+            src="apps/app1/app1_1.html">
+            </iframe>
+          </section>
+
+            <section >
+                 
+                <h1>Tweede paragraaf</h1>
+          
+          
+               </section>
+
+
+               <iframe id="inlineFrameExample" class="iframe_app"
+               title="Inline Frame Example"
+   
+               src="apps/app2/app2_1.html">
+               </iframe>
+               <section >
+                 
+                <h1>Derde paragraaf</h1>
+                <iframe id="inlineFrameExample" class="iframe_app"
+                title="Inline Frame Example"
+    
+                src="apps/app3/app3_1.html">
+                </iframe>
+          
+               </section>
+
+
+</div>
+</div>
+
+<script type="text/javascript" src="js/lightup.js"></script>
+    <script type="text/javascript">navHighlighter()</script>
+   </body>

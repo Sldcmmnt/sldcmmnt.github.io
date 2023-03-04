@@ -1,0 +1,26 @@
+#column.preferences_total {
+    display: flex;
+    flex-direction: column;
+    
+    }
+#column.preferences_total h3 {
+      margin: 0;
+        
+        }
+.media_match_options {
+width: 200px ;
+min-height: 40px;
+border: 1px solid lightgrey;
+padding: 3px;
+border-radius: 15px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 5px;
+cursor: pointer;
+}
+
+.media_match_options h4{
+    margin: 0px;
+}

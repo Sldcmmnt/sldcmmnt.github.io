@@ -5,6 +5,11 @@
 
 @import "styles_projectblocks.css";
 @import "styles_blogmainpage.css"; 
+@import "styles_app.css";
+@import "styles_app_soapstore_single.css";
+@import "styles_app_soapstore_all.css";
+@import "styles_app_preferences.css";
+@import "styles_app_media_match.css";
 
 
 body {

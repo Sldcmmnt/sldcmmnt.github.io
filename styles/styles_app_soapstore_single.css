@@ -1,0 +1,70 @@
+@import "styles_app_soapstore_all.css";
+
+.single_app_screen{
+min-height: 50vh;
+width: calc(100% - 20px);
+flex-direction: column;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.single_app_header{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.single_app_header_image {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 15px;
+    background-color: #b1d9ff;
+    border-radius: 10px;
+    /*border: 2px solid darkgrey;*/
+  }
+.single_app_header_image img {
+    height: auto;
+    width: 80%;
+    object-fit: contain;
+    margin-right: 5px;
+  }
+  
+.single_app_header_text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: left;
+    height: 10vh;
+    width: 80%;
+  }
+  
+  .single_app_header_text h1, h2, h3, p {
+    margin: 0
+  }
+  
+  .single_app_header_text h2,h3 {
+  color: rgb(80, 80, 80);
+  }
+  
+
+  .single_app_install button {
+    margin-top: 20px;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #04AA6D;
+    color: white;
+    cursor: pointer;
+    border: none;
+  }
+
+  .single_app_text {
+    border-top: solid 1px rgb(206, 206, 206);
+    margin-top: 20px;
+    width: auto;
+
+  }
