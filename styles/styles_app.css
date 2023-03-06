@@ -11,7 +11,7 @@ flex-direction: column;
 .app_guide {
 background-color: rgb(255, 255, 255);
 width: 100%;
-height: 10vh;
+/*height: 10vh;*/
 justify-content: center;
 align-items: center;
 display: flex;
@@ -32,74 +32,180 @@ justify-content: center;
 .app_url{
 border-color: rgb(255, 255, 255);
 border: 0px solid;
-padding: 5px;
+
 padding-left: 15px;
 margin: 5px;
 margin-left: 15px;
 border-radius: 25px;
 width: 100%;
 background-color: rgb(241, 241, 241);
-justify-content: center;
+display: flex;
+justify-content: left;
+align-content: center;
+align-items: center;
+
 }
+.app_url p{
+margin: 0 ;
+  }
+
 
 .app_mainscreen{
   
 display: flex;
-justify-content:center;
+justify-content:flex-start;
 align-items:center;
-flex-direction: row;
+flex-direction: column;
 height: 100%;
 width: 100%;
 border: 1px solid;
 border-color: dimgray;
+border: 1px solid rgb(128, 0, 85);
 }
 
 
-.datavault_total {
-  padding-top: 50px;
+.datavault_total { /**/
+  
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  height: 100%;
-  width: 50%;
+  height: 30%;
+  width: 100%;
   border: 1px solid rgb(128, 0, 85);
 }
 
-
-.datavault_total img{
-  margin-top: 25px;
-  width: 50%;
+.datavault_text{
+  width: 30%;
+  border: 1px solid rgb(128, 0, 85);
+}
+.datavault_text h2{
+  margin: 0;
 }
 
-.ai_total {
-  padding-top: 50px;
+.datavault_image {
+  width: 80%;
   display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  height: 100%;
-  width: 50%;
+  justify-content: center;
   border: 1px solid rgb(128, 0, 85);
 }
 
-.select_aiapp_total{
-margin-top: 25px;
-display: flex;
-flex-wrap: wrap;
-flex-direction: row;
-justify-content: space-evenly;
-align-content: space-evenly;
-width: auto;
-justify-self: center; /*this worked to center icm width auto*/
+.datavault_image img{
+  display: block;
+  width: 30%;
+  height: 80%;
+  border: 1px solid rgb(128, 0, 85);
+}
+
+.soap_total { /**/
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 30%;
+  width: 100%;
+  border: 1px solid rgb(128, 0, 85);
 
 }
-.select_aiapp_total a{
+
+.soap_text{
+  width: 30%;
+  border: 1px solid rgb(128, 0, 85); 
+}
+
+.soap_text h2{
+  margin: 0;
+}
+
+.soap_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center; /*stond eerst op space-evenly*/
+  align-content: space-evenly;
+  
+  height: auto;
+  width:80%;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(128, 0, 85);
+  
+}
+
+.soap_wrap a{
+  text-decoration: none;
+}
+
+.soap_item {
+  height: auto;
+  width: 80px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-evenly;
+  /*justify-content: center;*/
+  text-align: center;
+  justify-self: center;
+  border: 1px solid rgb(128, 0, 85);
+}
+
+.soap_item a{
 text-decoration: none;
 
 }
 
+.soap_item_image {
+  height: 80px;
+  width: 100%;
+display: flex;
+justify-content: center;
+align-content: start;
+background-color: #b1d9ff;
+border-radius: 10px;
+}
 
+.soap_item_image img {
+  height: 80px;
+  width: 80px;
+  object-fit: contain;
+  align-content: start;
+  justify-content: center;
+}
+
+.soap_item_text {
+  height: auto;
+  width: 80px;
+  font-size: 80%;
+  
+  }
+  
+  .soap_item_text a, p {
+    text-decoration: none;
+    margin: 0;
+  }
+
+
+ /* 
+.select_aiapp_total {
+width: 100%;
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-content: center;
+border: 1px solid rgb(128, 0, 85);
+
+}
+.select_aiapp_total div {
+  border: 1px solid rgb(128, 0, 85);
+  
+}
+
+
+.select_aiapp_total a{
+text-decoration: none;
+}
+
+*/
 
 @keyframes highlight {
     0% {
@@ -128,39 +234,39 @@ width: 100%;
 
 
 @media screen and (max-width: 500px) {
-  .ai_total h2{
+  .soap_total {
+    flex-direction: column;
+    align-items: center;
+  }
+  .datavault_total {
+    flex-direction: column;
+  }
+ 
+ 
+  .soap_total h2{
     font-size: 12px;
+    text-align: center;
   }
   .datavault_total h2{
     font-size: 12px;
+    text-align: center;
   }
 }
 
-@media screen and (max-width: 480px) {
-  .select_aiapp_total{
-  justify-content: center;
-}
-}
-@media screen and (min-width: 480px) {
-  .select_aiapp_total{
-  justify-content: flex-start;
-}
-}
-@media screen and (min-width: 1000px) {
-  .select_aiapp_total{
-  justify-content: space-between;
-}
-}
+
 @media screen and (max-width: 480px) {
   .app_url{
   font-size: 10px;
-  padding: 5px;
   align-self: center;
+}
+.app_url p{
+  padding: 0px;
+  margin: 0px;
 }
 }
 @media screen and (max-width: 480px) {
 .datavault_total img{
-  height: 80px;
+  height: 95px;
   width: auto;
 }
 }

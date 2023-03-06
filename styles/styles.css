@@ -33,6 +33,20 @@ color: rgb(80, 22, 187);
 font-weight: 400;
 }
 
+h1 {
+  color: #444;
+  font-weight: 600;
+}
+
+h2{
+  margin-top: 35px;
+  margin-bottom:15px
+}
+p {
+  margin-bottom:15px 
+}
+
+
 
 /*MAIN CONTAINER*/
 .main-container {
@@ -71,11 +85,6 @@ section{
 
 section:last-of-type{
   margin-bottom: 150px;
-}
-
-h1 {
-  color: #444;
-  font-weight: 600;
 }
 
 .active {
