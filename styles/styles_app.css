@@ -1,3 +1,7 @@
+h1{
+  font-size: 28px;
+}
+
 .total_app {
 height: 100vh;
 width: 100vw;
@@ -60,7 +64,25 @@ height: 100%;
 width: 100%;
 border: 1px solid;
 border-color: dimgray;
-border: 1px solid rgb(128, 0, 85);
+/*border: 1px solid rgb(128, 0, 85);*/
+}
+
+.header_app_mainscreen{
+  height: 50px;
+  background-color: #b1d9ff;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.header_app_mainscreen h2 {
+ margin: 0;
+ font-size: 16px; 
+ color: rgb(80, 80, 80);
 }
 
 
@@ -72,29 +94,31 @@ border: 1px solid rgb(128, 0, 85);
   align-items: center;
   height: 30%;
   width: 100%;
-  border: 1px solid rgb(128, 0, 85);
+ /* border: 1px solid rgb(128, 0, 85);*/
 }
 
 .datavault_text{
   width: 30%;
-  border: 1px solid rgb(128, 0, 85);
+ /* border: 1px solid rgb(128, 0, 85);*/
 }
 .datavault_text h2{
   margin: 0;
+  font-size: 16px;
 }
 
 .datavault_image {
+  margin-top: 15px;
   width: 80%;
   display: flex;
   justify-content: center;
-  border: 1px solid rgb(128, 0, 85);
+ /* border: 1px solid rgb(128, 0, 85);*/
 }
 
 .datavault_image img{
   display: block;
   width: 30%;
   height: 80%;
-  border: 1px solid rgb(128, 0, 85);
+ /* border: 1px solid rgb(128, 0, 85);*/
 }
 
 .soap_total { /**/
@@ -104,17 +128,18 @@ border: 1px solid rgb(128, 0, 85);
   align-items: center;
   height: 30%;
   width: 100%;
-  border: 1px solid rgb(128, 0, 85);
+/*  border: 1px solid rgb(128, 0, 85);*/
 
 }
 
 .soap_text{
   width: 30%;
-  border: 1px solid rgb(128, 0, 85); 
+/*  border: 1px solid rgb(128, 0, 85); */
 }
 
 .soap_text h2{
   margin: 0;
+  font-size: 16px;
 }
 
 .soap_wrap {
@@ -126,7 +151,7 @@ border: 1px solid rgb(128, 0, 85);
   height: auto;
   width:80%;
   background-color: rgb(255, 255, 255);
-  border: 1px solid rgb(128, 0, 85);
+ /* border: 1px solid rgb(128, 0, 85);*/
   
 }
 
@@ -146,7 +171,7 @@ border: 1px solid rgb(128, 0, 85);
   /*justify-content: center;*/
   text-align: center;
   justify-self: center;
-  border: 1px solid rgb(128, 0, 85);
+  /*border: 1px solid rgb(128, 0, 85);*/
 }
 
 .soap_item a{
@@ -175,37 +200,37 @@ border-radius: 10px;
 .soap_item_text {
   height: auto;
   width: 80px;
-  font-size: 80%;
+  font-size: 16px;
   
   }
   
-  .soap_item_text a, p {
+  .soap_item_text p {
     text-decoration: none;
     margin: 0;
+    font-size: 14px;
   }
 
+  #soap_item_empty.soap_item_image  {
+    height: 80px;
+    width: 80px;
+    object-fit: contain;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #d2e9ff;
+    border-radius: 15px;
+  }
+#soap_item_empty.soap_item_image img {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  }  
 
- /* 
-.select_aiapp_total {
-width: 100%;
-display: flex;
-flex-flow: row wrap;
-justify-content: center;
-align-content: center;
-border: 1px solid rgb(128, 0, 85);
-
-}
-.select_aiapp_total div {
-  border: 1px solid rgb(128, 0, 85);
-  
-}
 
 
-.select_aiapp_total a{
-text-decoration: none;
-}
 
-*/
 
 @keyframes highlight {
     0% {
@@ -234,6 +259,14 @@ width: 100%;
 
 
 @media screen and (max-width: 500px) {
+h1{
+  font-size: 24px;
+}
+
+h2{
+  font-size: 22px;
+}
+
   .soap_total {
     flex-direction: column;
     align-items: center;
@@ -242,31 +275,92 @@ width: 100%;
     flex-direction: column;
   }
  
- 
   .soap_total h2{
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
   }
   .datavault_total h2{
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
+  }
+.datavault_text{
+  width: 80%;
+}
+
+  .soap_text{
+    width:80%;
+  }
+  .soap_item_text p{
+    text-decoration: none;
+    margin: 0;
+    font-size: 12px;
+   
   }
 }
 
 
-@media screen and (max-width: 480px) {
-  .app_url{
-  font-size: 10px;
+@media screen and (max-width: 500px) {
+.app_url{
+  font-size: 12px;
   align-self: center;
+  height: 70%;
+  overflow: hidden;
 }
 .app_url p{
   padding: 0px;
   margin: 0px;
 }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
 .datavault_total img{
   height: 95px;
   width: auto;
 }
+
+#soap_item_empty.soap_item_image  {
+  height: 80px;
+  width: 80px;
+  object-fit: contain;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #d2e9ff;
+  border-radius: 15px;
 }
+
+#soap_item_empty.soap_item_image img {
+height: 40px;
+width: 100%;
+display: flex;
+justify-content: center;
+align-content: center;
+
+}
+
+
+}
+
+
+
+
+ /* 
+.select_aiapp_total {
+width: 100%;
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-content: center;
+border: 1px solid rgb(128, 0, 85);
+
+}
+.select_aiapp_total div {
+  border: 1px solid rgb(128, 0, 85);
+  
+}
+
+
+.select_aiapp_total a{
+text-decoration: none;
+}
+
+*/
