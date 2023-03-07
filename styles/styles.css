@@ -46,6 +46,10 @@ p {
   margin-bottom:15px 
 }
 
+.figma_embed{
+  width: 50vw;
+  height: 60vh;
+}
 
 
 /*MAIN CONTAINER*/
