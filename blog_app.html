@@ -62,138 +62,142 @@
                
                        
 
-                <h2>Inleiding en samenvatting</h2>
+                
+                  <h2>Inleiding en samenvatting</h2>
 
 
-                <p>
-                In dit artikel beschrijven we een scenario om tot komen tot privacyvriendelijk gebruik van data over jou en combinaties van data in interactie met services, bijvoorbeeld in de mediasector.
-                </p>
-                <p>
-                De componenten in dit scenario om te komen tot privacyvriendelijke gebruik bestaan uit: 
-                </p>
-                <p>
-                <strong>Een appstore met supporting services</strong> die je naast je datakluis kunt installeren waaronder applicaties zoals: 
-                </p>
-                <ul>
-                
-                <li>een <strong>identity scrambler</strong> met dynamische hashing zodat je gebruikersdata kan worden weggeschreven in je datakluis zonder fingerprinting of tracking.
-                
-                <li>een personal assistent om je voorkeuren in te stellen of te berekenen.
-                
-                <li>een personal assistent voor de <strong>berekening van matches met externe databases</strong>, bijvoorbeeld voor ‘content recommendation’. <br>Deze berekening wordt aan de zijde van de consument gedaan waardoor het proces en de daaruit volgende ‘inferred data’ onder controle blijft van de consument voor waarborging van de privacy.
-                
-                <li>een manier om je <strong>persoonlijk profiel</strong> dat zo ontstaat te delen met de service zonder dat dit persoonlijk profiel gebruikt kan worden voor tracking.
-                </li>
-                </ul>
-                <p>
-                Door deze componenten los aan te bieden in een app-store ontstaat ruimte voor een <strong>opbouwend ecosysteem</strong>. <br>Door een modulaire opbouw met services ontstaat keuzevrijheid voor de consument. <br>Een veilige en open marktplaats bevordert daarnaast innovatie doordat specifieke services door verschillende partijen kunnen worden ontwikkeld. <br>Deze ontwikkeling kan naast de huidige inrichting van het web bestaan en zorgen voor een geleidelijke transitie.
-                </p>
-                <p>
-                Het biedt ruimte om de componenten tegelijkertijd als open standaard door te ontwikkelen zodat een <strong>schaalbaar ecosysteem </strong>ontstaat. Generieke functies en componenten zijn belangrijk voor interoperabiliteit en schaalbaarheid.<br>
-                </p>
-                <p>
-                De visie achter Solid is een veilige en gebruiksvriendelijke ervaring creëren voor de mens in de digitale omgeving. Om deze visie te ondersteunen ontwikkelt Stichting Solid Community in samenwerking met onderzoeks- en technische partijen o.a. concepten, scenarios, standaarden en functies die in de praktijk nodig zijn in verschillende sectoren. 
-                </p>
-                <p>
-                Om bovenstaande concepten duidelijker over te brengen op de lezer gebruiken we in dit artikel als ondersteunende communicatievorm interactieve visualisaties die op hoofdlijnen de gebruikerservaring of het proces weergeven.
-                </p>
-                <hr>
-                <h1>Verschillende data en processen<br></h1>
-                
-                
-                <h2>Data aan de gebruikerszijde</h2>
-                
-                
-                <p>
-                Een belangrijk onderdeel van Solid is de <a href="https://ruben.verborgh.org/articles/redecentralizing-the-web/">scheiding</a> van data en applicaties. Deze data worden opgeslagen in je persoonlijke datakluis. Deze data kunnen verschillende vormen hebben waarmee verschillende processen gemoeid zijn.
-                </p>
-                <p>
-                Een eerste vorm van data zijn <strong>gebruikersdata</strong>, bijvoorbeeld: welke content heb ik gekeken of geluisterd. Dit wordt ook wel ‘observed data’ genoemd. Het proces dat hierbij hoort is het opslaan van deze data in je datakluis.<br>
-                </p>
-                <p>
-                Daarnaast zijn <strong>voorkeuren</strong> een tweede vorm van data. <br>Bijvoorbeeld over de vorm van de content: ik wil standaard ondertitels in het Engels, een groter lettertype voor betere leesbaarheid, en dyslexie vriendelijke tekst. <br>Voorkeuren kunnen ook gaan over de content zelf: ik heb een voorkeur voor content over onderwerp x.<br>Het proces dat bij deze data hoort is het bepalen en opslaan van je voorkeuren in je datakluis.
-                </p>
-                <h2>Combineren met externe data</h2>
-                
-                
-                <p>
-                Zodra je bovenstaande data gaat gebruiken om aanbod van een service te personaliseren ontstaat de noodzaak om data over jouw gebruikersdata en voorkeuren te <em>combineren</em> met externe data, bijvoorbeeld een contentbibliotheek van een mediaservice.
-                </p>
-                <p>
-                Er ontstaat dan derde vorm van data: <strong>gecombineerde data</strong>. Dit wordt ook wel ‘inferred data’ genoemd. Het proces dat hierbij hoort is het berekenen van combinaties en deze opslaan in je datakluis.<br> 
-                </p>
-                <p>
-                Een voorbeeld van deze vormen van data samenvoegen tot gecombineerde data is: 
-                </p>
-                <ol>
-                
-                <li>ik kijk regelmatig serie x (gebruikersdata of ‘observed data’), 
-                
-                <li>op het web wil ik voor een betere leesbaarheid wil ik een groter lettertype (voorkeur 1),  en ik ben geïnteresseerd in onderwerp y (voorkeur 2)  
-                
-                <li>op basis van een berekening met bovenstaande data en de contentbibliotheek van een mediaservice ben ik mogelijk ook geïnteresseerd in artikel z afgebeeld in een groter lettertype (gecombineerde data of ‘inferred data’).
-                </li>
-                </ol>
-                <h3><strong>Privacy waarborgen</strong></h3>
-                
-                
-                <p>
-                Wanneer je je privacy wil waarborgen dan wil je liever niet dat deze 3 vormen van data in de handen belandt van een derde partij. <br>Rechtszaken laten zien dat dit mogelijk niet past in de waardes die onder de wetgeving liggen. (<a href="https://dataprotectionprivacy.eu/en/can-inferred-data-be-special-categories-of-data/">1</a> , <a href="https://dataprotectionprivacy.eu/en/can-inferred-data-be-special-categories-of-data/">2</a>) 
-                </p>
-                <p>
-                Deze data samengevoegd kunnen namelijk leiden tot een <strong>persoonlijk profiel</strong>. 
-                </p>
-                <p>
-                Wanneer je dit persoonlijk profiel wilt delen met een derde partij ontstaan er opnieuw privacy risico’s. 
-                </p>
-                <p>
-                Een experiment van Google om je persoonlijk profiel in cohorten onder te verdelen leidde bijvoorbeeld tot felle <a href="https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea">kritiek</a> omdat dit onder andere kan leiden tot nieuwe profilering, zogenaamde ‘fingerprinting’.<br>
-                </p>
-                <h2>Persoonlijk profiel in interactie met externe services</h2>
-                
-                
-                <p>
-                Om te bewegen op het web en evt. te komen tot een gepersonaliseerd aanbod zul je echter wel in interactie moeten gaan met externe services. Naast de drie eerder genoemde vormen van data en bijbehorende processen, is er dus een vierde component waarbij het waarborgen van privacy van belang is: in interactie treden met externe services op basis van je persoonlijke profiel. 
-                </p>
-                <h2>Uitgangspunten </h2>
-                
-                
-                <p>
-                Samengevat zijn er dus <strong>4 soorten</strong> processen met bijbehorende data die je wilt reguleren om de privacy te waarborgen. In dit artikel gaan we daarom uit van de volgende 4 uitgangspunten: 
-                </p>
-                <ol>
-                
-                <li>het opslaan van gebruikersdata in je datakluis gebeurt privacyvriendelijk
-                
-                <li>het instellen of bepalen van voorkeuren gebeurt privacyvriendelijk
-                
-                <li>het berekenen van data combinaties met externe services gebeurt privacyvriendelijk
-                
-                <li>het gebruiken van je persoonlijk profiel in interactie met externe services gebeurt privacyvriendelijk
-                </li>
-                </ol>
-                <hr>
-                <h2>Een app-store bij je datakluis</h2>
-                
-                
-                <p>
-                Om deze data en bijbehorende processen te privacyvriendelijk te gaan verwerken introduceren we eerst het concept van een app-store bij je datakluis. Deze samen vormen jouw<strong> persoonlijke digitale omgeving</strong> onder jouw controle.<br>Deze app-store geeft je datakluis meer gebruiksgemak doordat je bijvoorbeeld privacy-ondersteunende services en andere services zoals rekenkracht kunt toevoegen. 
-                </p>
-                <p>
-                <br>Het heeft daarnaast andere mogelijke voordelen, een app-store:
-                </p>
-                <ul>
-                
-                <li>bevordert <strong>innovatie</strong> omdat meerdere partijen privacy vriendelijke services kunnen ontwikkelen en aanbieden
-                
-                <li>bevordert <strong>keuzevrijheid</strong> omdat de consument zelf onderdelen kan kiezen en toevoegen
-                
-                <li>bevordert <strong>schaalbaarheid</strong> omdat er modulaire componenten worden aangeboden en daarmee een lock-in in monolithische services wordt tegengegaan.
-                </li>
-                </ul>
-                <p>
-                Onderstaand een visualisatie van een app-store bij je datakluis.
-                </p>
+                  <p>
+                  In dit artikel beschrijven we een scenario om tot komen tot privacyvriendelijk gebruik van data over jou en combinaties van data in interactie met services, bijvoorbeeld in de mediasector.
+                  </p>
+                  <p>
+                  De componenten in dit scenario om te komen tot privacyvriendelijke gebruik bestaan uit: 
+                  </p>
+                  <p>
+                  <strong>Een appstore met supporting services</strong> die je naast je datakluis kunt installeren waaronder applicaties zoals: 
+                  </p>
+                  <ul>
+
+                  <li>een <strong>identity scrambler</strong> met een set aan gerandomiseerde tekens die per sessie steeds veranderd (dynamic hashing) zodat je gebruikersdata kan worden weggeschreven in je datakluis zonder dat je gedrag gevolgd kan worden of een profiel achter de schermen kan worden opgebouwd. <br>Dat profiel bouw je zelf op aan jouw zijde en deelt dit op een privacy-vriendeljike manier wanneer er voldoende vertrouwen of behoefte is om dit te delen.
+
+                  <li>een personal assistent om je voorkeuren in te stellen of te berekenen.
+
+                  <li>een personal assistent voor de <strong>berekening van matches tussen jouw data met externe databases</strong>, bijvoorbeeld voor het aanbevelen van content. <br>Deze berekening wordt aan de zijde van de consument gedaan waardoor het proces en de daaruit volgende ‘inferred data’ onder controle blijft van de consument voor waarborging van de privacy.
+
+                  <li>een manier om je <strong>persoonlijk profiel</strong> dat zo ontstaat te delen met de service zonder dat dit persoonlijk profiel gebruikt kan worden voor tracking.
+                  </li>
+                  </ul>
+                  <p>
+                  Door een aantal van deze componenten los aan te bieden in een app-store ontstaat ruimte voor een <strong>opbouwend ecosysteem</strong>. <br>Door een modulaire opbouw met losse services ontstaat keuzevrijheid voor de consument. <br>Een app-store als een veilige en open marktplaats bevordert daarnaast innovatie doordat specifieke services door verschillende partijen kunnen worden ontwikkeld. <br>Deze ontwikkeling kan naast de huidige inrichting van het web bestaan en zorgen voor een geleidelijke transitie.
+                  </p>
+                  <p>
+                  Het biedt ruimte om een aantal generieke functies of componenten tegelijkertijd als open standaard door te ontwikkelen zodat een <strong>schaalbaar ecosysteem </strong>ontstaat. Generieke functies en componenten zijn belangrijk voor interoperabiliteit en schaalbaarheid.<br>
+                  </p>
+                  <p>
+                  De visie achter Solid is een veilige en gebruiksvriendelijke ervaring creëren voor de mens in de digitale omgeving. Om deze visie te ondersteunen ontwikkelt Stichting Solid Community in samenwerking met onderzoeks- en technische partijen o.a. concepten, scenarios, standaarden en functies die in de praktijk nodig zijn in verschillende sectoren. 
+                  </p>
+                  <p>
+                  Om dit concept duidelijker over te brengen op de lezer gebruiken we in dit artikel als ondersteunende communicatievorm interactieve visualisaties die op hoofdlijnen de gebruikerservaring of het proces weergeven.
+                  </p>
+                  <hr>
+                  <h1>Verschillende data en processen<br></h1>
+
+
+                  <h2>Data aan de gebruikerszijde</h2>
+
+
+                  <p>
+                  Een belangrijk onderdeel van Solid is de <a href="https://ruben.verborgh.org/articles/redecentralizing-the-web/">scheiding</a> van data en applicaties. Deze data worden opgeslagen in je persoonlijke datakluis. Deze data kunnen verschillende vormen hebben waarmee verschillende processen gemoeid zijn.
+                  </p>
+                  <p>
+                  Een eerste vorm van data zijn <strong>gebruikersdata</strong>, bijvoorbeeld: welke content heb ik gekeken of geluisterd. Deze worden ook wel ‘observed data’ genoemd. Het proces dat hierbij hoort is het opslaan van deze data in je datakluis.<br>
+                  </p>
+                  <p>
+                  Daarnaast zijn <strong>voorkeuren</strong> een tweede vorm van data. <br>Bijvoorbeeld over de vorm van de content: ik wil standaard ondertitels in het Engels, een groter lettertype voor betere leesbaarheid, en dyslexie vriendelijke tekst. <br>Voorkeuren kunnen ook gaan over de content zelf: ik heb een voorkeur voor content over onderwerp x.<br>Het proces dat bij deze data hoort is het bepalen en opslaan van je voorkeuren in je datakluis.
+                  </p>
+                  <h2>Combineren met externe data</h2>
+
+
+                  <p>
+                  Zodra je bovenstaande data gaat gebruiken om aanbod van een service te personaliseren ontstaat de noodzaak om data over jouw gebruikersdata en voorkeuren te <em>combineren</em> met externe data, bijvoorbeeld een contentbibliotheek van een mediaservice.
+                  </p>
+                  <p>
+                  Er ontstaat dan derde vorm van data: <strong>gecombineerde data</strong>. Dit wordt ook wel ‘inferred data’ genoemd. Het proces dat hierbij hoort is het berekenen van combinaties en deze opslaan in je datakluis.<br> 
+                  </p>
+                  <p>
+                  Een voorbeeld van deze vormen van data samenvoegen tot gecombineerde data is: 
+                  </p>
+                  <ol>
+
+                  <li>ik kijk regelmatig serie x (gebruikersdata of ‘observed data’), 
+
+                  <li>op het web wil ik voor een betere leesbaarheid wil ik een groter lettertype (voorkeur 1),  en ik ben geïnteresseerd in onderwerp y (voorkeur 2)  
+
+                  <li>op basis van een berekening met bovenstaande data en de contentbibliotheek van een mediaservice ben ik mogelijk ook geïnteresseerd in artikel z afgebeeld in een groter lettertype (gecombineerde data of ‘inferred data’).
+                  </li>
+                  </ol>
+                  <h3><strong>Privacy waarborgen</strong></h3>
+
+
+                  <p>
+                  Wanneer je jouw privacy wil waarborgen dan wil je liever niet dat deze 3 vormen van data in de handen belandt van een derde partij. <br>Rechtszaken laten zien dat dit mogelijk niet past in de waardes die onder de wetgeving liggen. (<a href="https://dataprotectionprivacy.eu/en/can-inferred-data-be-special-categories-of-data/">1</a> , <a href="https://dataprotectionprivacy.eu/en/can-inferred-data-be-special-categories-of-data/">2</a>) 
+                  </p>
+                  <p>
+                  Deze data samengevoegd kunnen namelijk leiden tot een <strong>persoonlijk profiel</strong>. 
+                  </p>
+                  <p>
+                  Wanneer je dit persoonlijk profiel gaat delen met een derde partij zonder methodes om dit profiel te beschermen ontstaan er mogelijk opnieuw privacy risico’s. 
+                  </p>
+                  <p>
+                  Een experiment van Google om je persoonlijk profiel in cohorten onder te verdelen leidde bijvoorbeeld tot felle <a href="https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea">kritiek</a> omdat dit onder andere kan leiden tot een nieuwe vorm profilering, zogenaamde ‘fingerprinting’.<br>
+                  </p>
+                  <h2>Persoonlijk profiel in interactie met externe services</h2>
+
+
+                  <p>
+                  Om te bewegen op het web en evt. te komen tot een gepersonaliseerd aanbod zul je echter wel in interactie moeten gaan met externe services. Naast de drie eerder genoemde vormen van data en bijbehorende processen, is er dus een vierde component waarbij het waarborgen van privacy van belang is: in interactie treden met externe services op basis van je persoonlijke profiel. 
+                  </p>
+                  <h2>Uitgangspunten </h2>
+
+
+                  <p>
+                  Samengevat zijn er dus <strong>4 soorten</strong> processen met bijbehorende data die je wilt reguleren om je privacy te waarborgen. In dit artikel gaan we daarom uit van de volgende 4 uitgangspunten: 
+                  </p>
+                  <ol>
+
+                  <li>het opslaan van gebruikersdata in je datakluis gebeurt privacyvriendelijk
+
+                  <li>het instellen of bepalen van voorkeuren gebeurt privacyvriendelijk
+
+                  <li>het berekenen van data combinaties met externe services gebeurt privacyvriendelijk
+
+                  <li>het gebruiken van je persoonlijk profiel in interactie met externe services gebeurt privacyvriendelijk
+                  </li>
+                  </ol>
+                  <hr>
+                  <h2>Een app-store bij je datakluis</h2>
+
+
+                  <p>
+                  Om deze data en bijbehorende processen te privacyvriendelijk te gaan verwerken introduceren we eerst het concept van een app-store met services die bij je datakluis kunnen worden geïnstalleerd. Deze services samen met jouw datakluis vormen jouw<strong> persoonlijke digitale omgeving</strong> onder jouw controle.<br>Deze app-store geeft je datakluis meer gebruiksgemak doordat je bijvoorbeeld privacy-ondersteunende diensten en andere diensten kunt toevoegen zoals rekenkracht voor het trainen van een persoonlijke assistent onder jouw controle. 
+                  </p>
+                  <p>
+                  <br>Een app-store met diensten heeft daarnaast andere mogelijke voordelen:
+                  </p>
+                  <ul>
+
+                  <li>het bevordert <strong>innovatie</strong> omdat meerdere partijen privacy vriendelijke services kunnen ontwikkelen en aanbieden
+
+                  <li>het bevordert <strong>keuzevrijheid</strong> omdat de consument zelf onderdelen kan kiezen en toevoegen
+
+                  <li>het bevordert <strong>schaalbaarheid</strong> omdat er modulaire componenten worden aangeboden en daarmee een lock-in in monolithische services wordt tegengegaan.
+                  </li>
+                  </ul>
+                  <p>
+                  Welke applicaties worden toegelaten en hoe die zich gedragen bij je datakluis zal onderdeel moeten zijn van de afspraken en (technische) eisen die een app-store stelt zodat jij erop kunt vertrouwen dat deze veilig zijn.<br>
+                  </p>
+                  <p>
+                  Onderstaand een visualisatie van een app-store bij je datakluis.
+                  </p>
 
 
                 <div style="position: relative; width: 100%; height: 0; padding-top: 62.5000%;
