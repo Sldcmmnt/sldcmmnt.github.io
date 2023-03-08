@@ -61,41 +61,41 @@
                 </section>
                
                        
-               <h2>Inleiding en samenvatting</h2>
+                <h2>Inleiding en samenvatting</h2>
 
 
-                  <p>
-                  In dit artikel beschrijven we een scenario om tot komen tot privacyvriendelijk gebruik van data over jou en combinaties van data in interactie met services, bijvoorbeeld in de mediasector.
-                  </p>
-                  <p>
-                  De componenten in dit scenario om te komen tot privacyvriendelijke gebruik bestaan uit: 
-                  </p>
-                  <p>
-                  <strong>Een appstore met supporting services</strong> die je naast je datakluis kunt installeren waaronder applicaties zoals: 
-                  </p>
-                  <ul>
-
-                  <li>een identity scrambler zodat je gebruikersdata kan worden weggeschreven in je datakluis zonder fingerprinting of tracking.
-
-                  <li>een personal assistent om je voorkeuren in te stellen of te berekenen.
-
-                  <li>een personal assistent voor de <strong>berekening van matches met externe databases</strong>, bijvoorbeeld voor content recommendation. <br>Deze berekening wordt aan de zijde van de consument gedaan waardoor het proces en de daaruit volgende ‘inferred data’ onder controle blijft van de consument voor waarborging van de privacy.
-
-                  <li>een manier om je <strong>persoonlijk profiel</strong> dat zo ontstaat te delen met de frontend van een service zonder dat deze gebruikt kan worden voor fingerprinting.
-                  </li>
-                  </ul>
-                  <p>
-                  Door deze componenten los te ontwikkelen in een app-store ontstaat ruimte voor een <strong>opbouwend ecosysteem</strong>. <br>Daarnaast ontstaat keuzevrijheid en een veilige en open marktplaats waarin ruimte is voor innovatie op specifieke services door verschillende partijen. <br>Deze ontwikkeling kan naast de huidige inrichting van het web bestaan en zorgen voor een geleidelijke transitie.
-                  </p>
-                  <p>
-                  Het biedt ruimte om de componenten tegelijkertijd als open standaard door te ontwikkelen zodat een <strong>schaalbaar ecosysteem </strong>ontstaat. Generieke functies en componenten zijn belangrijk voor interoperabiliteit en schaalbaarheid.<br>
-                  </p>
-                  <p>
-                  De visie achter Solid is een veilige en gebruiksvriendelijke ervaring creëren voor de mens in de digitale omgeving. Om deze visie te ondersteunen ontwikkelt Stichting Solid Community ontwikkelt o.a. concepten, scenarios, standaarden en functies die in de praktijk nodig zijn in verschillende sectoren. 
-                  </p>
-                  <p>
-                  Om de concepten duidelijker over te brengen op de lezer gebruiken we in dit artikel als ondersteunende communicatievorm interactieve visualisaties die op hoofdlijnen de gebruikerservaring weergeven.
-                  </p>
+                <p>
+                In dit artikel beschrijven we een scenario om tot komen tot privacyvriendelijk gebruik van data over jou en combinaties van data in interactie met services, bijvoorbeeld in de mediasector.
+                </p>
+                <p>
+                De componenten in dit scenario om te komen tot privacyvriendelijke gebruik bestaan uit: 
+                </p>
+                <p>
+                <strong>Een appstore met supporting services</strong> die je naast je datakluis kunt installeren waaronder applicaties zoals: 
+                </p>
+                <ul>
+                
+                <li>een <strong>identity scrambler</strong> met dynamische hashing zodat je gebruikersdata kan worden weggeschreven in je datakluis zonder fingerprinting of tracking.
+                
+                <li>een personal assistent om je voorkeuren in te stellen of te berekenen.
+                
+                <li>een personal assistent voor de <strong>berekening van matches met externe databases</strong>, bijvoorbeeld voor ‘content recommendation’. <br>Deze berekening wordt aan de zijde van de consument gedaan waardoor het proces en de daaruit volgende ‘inferred data’ onder controle blijft van de consument voor waarborging van de privacy.
+                
+                <li>een manier om je <strong>persoonlijk profiel</strong> dat zo ontstaat te delen met de service zonder dat dit persoonlijk profiel gebruikt kan worden voor tracking.
+                </li>
+                </ul>
+                <p>
+                Door deze componenten los aan te bieden in een app-store ontstaat ruimte voor een <strong>opbouwend ecosysteem</strong>. <br>Daarnaast ontstaat modulaire opbouw met services die zorgt voor keuzevrijheid voor de consument. Een veilige en open marktplaats bevordert innovatie op specifieke services door verschillende partijen. <br>Deze ontwikkeling kan naast de huidige inrichting van het web bestaan en zorgen voor een geleidelijke transitie.
+                </p>
+                <p>
+                Het biedt ruimte om de componenten tegelijkertijd als open standaard door te ontwikkelen zodat een <strong>schaalbaar ecosysteem </strong>ontstaat. Generieke functies en componenten zijn belangrijk voor interoperabiliteit en schaalbaarheid.<br>
+                </p>
+                <p>
+                De visie achter Solid is een veilige en gebruiksvriendelijke ervaring creëren voor de mens in de digitale omgeving. Om deze visie te ondersteunen ontwikkelt Stichting Solid Community in samenwerking met onderzoeks- en technische partijen o.a. concepten, scenarios, standaarden en functies die in de praktijk nodig zijn in verschillende sectoren. 
+                </p>
+                <p>
+                Om bovenstaande concepten duidelijker over te brengen op de lezer gebruiken we in dit artikel als ondersteunende communicatievorm interactieve visualisaties die op hoofdlijnen de gebruikerservaring of het proces weergeven.
+                </p>
                 <hr>
                 <h1>Verschillende data en processen<br></h1>
                 
@@ -107,10 +107,10 @@
                 Een belangrijk onderdeel van Solid is de <a href="https://ruben.verborgh.org/articles/redecentralizing-the-web/">scheiding</a> van data en applicaties. Deze data worden opgeslagen in je persoonlijke datakluis. Deze data kunnen verschillende vormen hebben waarmee verschillende processen gemoeid zijn.
                 </p>
                 <p>
-                Een eerste vorm van data zijn <strong>gebruikersdata</strong>, bijvoorbeeld: welke content heb ik gekeken of geluisterd. Het proces dat hierbij hoort is het opslaan van deze data in je datakluis.<br>
+                Een eerste vorm van data zijn <strong>gebruikersdata</strong>, bijvoorbeeld: welke content heb ik gekeken of geluisterd. Dit wordt ook wel ‘observed data’ genoemd. Het proces dat hierbij hoort is het opslaan van deze data in je datakluis.<br>
                 </p>
                 <p>
-                Daarnaast zijn <strong>voorkeuren</strong> een tweede vorm van data. <br>Bijvoorbeeld over de vorm van de content: ik wil standaard ondertitels in het Frans, een groter lettertype voor betere leesbaarheid, en dyslexie vriendelijke tekst. <br>Voorkeuren kunnen ook gaan over de content zelf: ik heb een voorkeur voor content over onderwerp x.<br>Het proces dat bij deze data hoort is het bepalen en opslaan van je voorkeuren in je datakluis.
+                Daarnaast zijn <strong>voorkeuren</strong> een tweede vorm van data. <br>Bijvoorbeeld over de vorm van de content: ik wil standaard ondertitels in het Engels, een groter lettertype voor betere leesbaarheid, en dyslexie vriendelijke tekst. <br>Voorkeuren kunnen ook gaan over de content zelf: ik heb een voorkeur voor content over onderwerp x.<br>Het proces dat bij deze data hoort is het bepalen en opslaan van je voorkeuren in je datakluis.
                 </p>
                 <h2>Combineren met externe data</h2>
                 
@@ -119,18 +119,18 @@
                 Zodra je bovenstaande data gaat gebruiken om aanbod van een service te personaliseren ontstaat de noodzaak om data over jouw gebruikersdata en voorkeuren te <em>combineren</em> met externe data, bijvoorbeeld een contentbibliotheek van een mediaservice.
                 </p>
                 <p>
-                Er ontstaat dan derde vorm van data: <strong>gecombineerde data</strong>. <br>Het proces wat hierbij hoort is berekenen van combinaties.<br> 
+                Er ontstaat dan derde vorm van data: <strong>gecombineerde data</strong>. Dit wordt ook wel ‘inferred data’ genoemd. Het proces dat hierbij hoort is het berekenen van combinaties en deze opslaan in je datakluis.<br> 
                 </p>
                 <p>
                 Een voorbeeld van deze vormen van data samenvoegen tot gecombineerde data is: 
                 </p>
                 <ol>
                 
-                <li>ik kijk regelmatig serie x (gebruikersdata), 
+                <li>ik kijk regelmatig serie x (gebruikersdata of ‘observed data’), 
                 
                 <li>op het web wil ik voor een betere leesbaarheid wil ik een groter lettertype (voorkeur 1),  en ik ben geïnteresseerd in onderwerp y (voorkeur 2)  
                 
-                <li>op basis van een berekening met bovenstaande data en de contentbibliotheek van een mediaservice ben ik mogelijk ook geïnteresseerd in artikel z afgebeeld in een groter lettertype (gecombineerde data).
+                <li>op basis van een berekening met bovenstaande data en de contentbibliotheek van een mediaservice ben ik mogelijk ook geïnteresseerd in artikel z afgebeeld in een groter lettertype (gecombineerde data of ‘inferred data’).
                 </li>
                 </ol>
                 <h3><strong>Privacy waarborgen</strong></h3>
@@ -158,7 +158,7 @@
                 
                 
                 <p>
-                Samengevat zijn er dus 4 soorten processen met bijbehorende data die je wilt reguleren om privacy te waarborgen. In dit artikel gaan we daarom uit van de volgende 4 uitgangspunten: 
+                Samengevat zijn er dus <strong>4 soorten</strong> processen met bijbehorende data die je wilt reguleren om de privacy te waarborgen. In dit artikel gaan we daarom uit van de volgende 4 uitgangspunten: 
                 </p>
                 <ol>
                 
@@ -172,6 +172,27 @@
                 </li>
                 </ol>
                 <hr>
+                <h2>Een app-store bij je datakluis</h2>
+                
+                
+                <p>
+                Om deze data en bijbehorende processen te privacyvriendelijk te gaan verwerken introduceren we eerst het concept van een app-store bij je datakluis. Deze samen vormen jouw<strong> persoonlijke digitale omgeving</strong> onder jouw controle.<br>Deze app-store geeft je datakluis meer gebruiksgemak doordat je bijvoorbeeld privacy-ondersteunende services en andere services zoals rekenkracht kunt toevoegen. 
+                </p>
+                <p>
+                <br>Het heeft daarnaast andere mogelijke voordelen, een app-store:
+                </p>
+                <ul>
+                
+                <li>bevordert <strong>innovatie</strong> omdat meerdere partijen privacy vriendelijke services kunnen ontwikkelen en aanbieden
+                
+                <li>bevordert <strong>keuzevrijheid</strong> omdat de consument zelf onderdelen kan kiezen en toevoegen
+                
+                <li>bevordert <strong>schaalbaarheid</strong> omdat er modulaire componenten worden aangeboden en daarmee een lock-in in monolithische services wordt tegengegaan.
+                </li>
+                </ul>
+                <p>
+                Onderstaand een visualisatie van een app-store bij je datakluis.
+                </p>
 
 
                 <div style="position: relative; width: 100%; height: 0; padding-top: 62.5000%;
@@ -183,43 +204,40 @@
                </div>
 
 
-                <h2>Gebruikersdata opslaan</h2>
-                
-                
-                <p>
-                Gebruikersdata zijn bijvoorbeeld: welk artikel lees ik, welk muzieknummer beluister ik en welk artikel heb ik opgeslagen als favoriet.
-                </p>
-                <p>
-                Om deze gebruikersdata privacyvriendelijk op te slaan ontstaat een eerste uitdaging.
-                </p>
-                <p>
-                Het adres van een SolidPod is gebaseerd op een URL waarin mogelijk je naam en achternaam verwerkt zijn. Dit kan handig zijn als je met een bekende interacteert en een bestand wilt delen (laten bezoeken) vanuit je datakluis. 
-                </p>
-                <p>
-                Echter als een externe service jouw gebruikersdata wilt wegschrijven in je SolidPod dan kan deze URL met potentieel je naam erin, uitgelezen worden. In deze context is dat mogelijk niet de meest privacy vriendelijke manier.
-                </p>
-                <p>
-                Eén mogelijkheid om dit op te lossen in dit soort situaties is het gebruik van een 'identiteits-scrambler' waardoor deze gegevens worden verborgen.
-                </p>
-                <p>
-                Een mogelijke oplossing is:
-                </p>
-                <ul>
-                
-                <li>De url kan bijvoorbeeld vervangen worden door een set aan <strong>gerandomiseerde tekens</strong>.
-                
-                <li>Om herhaalde bezoeken van een persoon aan een service niet aan elkaar te kunnen linken en zo alsnog achter de schermen een profiel op te bouwen, is aanvullend een <strong>dynamische verandering</strong> van deze set aan tekens nodig. 
-                </li>
-                </ul>
-                <p>
-                In deze blog gaan we niet verder technisch de diepte in maar beperken we voor de leesbaarheid bovenstaand concept tot de naam identiteits-scrambler.
-                </p>
-                <p>
-                Onderstaand wordt via een interactieve vorm weergegeven hoe die gebruikerservaring op hoofdlijnen zou kunnen werken door 'privacy supporting services' toe te voegen aan je persoonlijke digitale omgeving. 
-                </p>
-                <p>
-                Klik op ‘<em>add new app’</em> om de Solid App-store (SOAP-store) te openen  en de identity scrambler toe te voegen.
-                </p>
+               <h2>Gebruikersdata privacy-vriendelijk opslaan</h2>
+
+
+               <p>
+               Gebruikersdata zijn bijvoorbeeld: welk artikel lees ik, welk muzieknummer beluister ik en welk artikel heb ik opgeslagen als favoriet.
+               </p>
+               <p>
+               Om deze gebruikersdata privacyvriendelijk op te slaan ontstaat een eerste uitdaging.
+               </p>
+               <p>
+               Het adres van een SolidPod of datakluis is gebaseerd op een URL waarin mogelijk je naam en achternaam verwerkt zijn. Dit kan handig zijn als je met een vertrouwd persoon interacteert en een bestand wilt delen (laten bezoeken) vanuit je datakluis. 
+               </p>
+               <p>
+               Echter als een externe service jouw gebruikersdata wilt wegschrijven in je datakluis dan kan deze URL met potentieel je naam erin verwerkt, uitgelezen worden. In deze context is dat mogelijk niet de meest privacy vriendelijke manier omdat er zo een profiel opgebouwd kan worden.
+               </p>
+               <p>
+               Eén mogelijkheid om dit op te lossen in dit soort situaties is het gebruik van een 'identiteits-scrambler' waardoor de locatie van de datakluis wordt verborgen.
+               </p>
+               <p>
+               De identiteits-scrambler kan als volgt werken bijvoorbeeld:
+               </p>
+               <ul>
+               
+               <li>De URL van een datakluis kan bijvoorbeeld vervangen worden door een set aan <strong>gerandomiseerde tekens</strong>.
+               
+               <li>Om herhaalde bezoeken van een persoon aan een service niet aan elkaar te kunnen linken en zo alsnog achter de schermen een profiel op te bouwen, is aanvullend een <strong>dynamische verandering</strong> van deze set aan tekens nodig. 
+               </li>
+               </ul>
+               <p>
+               In dit artikel gaan we voor de leesbaarheid niet verder de diepte in qua technische werking hiervan, maar beperken we bovenstaand concept tot de naam ‘identiteits-scrambler’.
+               </p>
+               <p>
+               Onderstaand een visualisatie van een identity scrambler.
+               </p>
 
                 <div style="position: relative; width: 100%; height: 0; padding-top: 62.5000%;
                 padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
