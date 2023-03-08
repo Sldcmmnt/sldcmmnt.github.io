@@ -63,6 +63,7 @@
                        
 
                 
+                 
                   <h2>Inleiding en samenvatting</h2>
 
 
@@ -77,7 +78,7 @@
                   </p>
                   <ul>
 
-                  <li>een <strong>identity scrambler</strong> met een set aan gerandomiseerde tekens die per sessie steeds veranderd (dynamic hashing) zodat je gebruikersdata kan worden weggeschreven in je datakluis zonder dat je gedrag gevolgd kan worden of een profiel achter de schermen kan worden opgebouwd. <br>Dat profiel bouw je zelf op aan jouw zijde en deelt dit op een privacy-vriendeljike manier wanneer er voldoende vertrouwen of behoefte is om dit te delen.
+                  <li>een <strong>identity scrambler</strong> met een set aan gerandomiseerde tekens die per sessie steeds veranderd (‘dynamic hashing’) zodat je gebruikersdata kan worden weggeschreven in je datakluis zonder dat je gedrag gevolgd kan worden of een profiel achter de schermen kan worden opgebouwd. <br>Dat profiel bouw je zelf op aan jouw zijde en deelt dit op een privacy-vriendelijke manier wanneer er voldoende vertrouwen of behoefte is om dit te delen.
 
                   <li>een personal assistent om je voorkeuren in te stellen of te berekenen.
 
@@ -209,40 +210,41 @@
                </div>
 
 
-               <h2>Gebruikersdata privacy-vriendelijk opslaan</h2>
+               
+                <h2>Gebruikersdata privacy-vriendelijk opslaan</h2>
 
 
-               <p>
-               Gebruikersdata zijn bijvoorbeeld: welk artikel lees ik, welk muzieknummer beluister ik en welk artikel heb ik opgeslagen als favoriet.
-               </p>
-               <p>
-               Om deze gebruikersdata privacyvriendelijk op te slaan ontstaat een eerste uitdaging.
-               </p>
-               <p>
-               Het adres van een SolidPod of datakluis is gebaseerd op een URL waarin mogelijk je naam en achternaam verwerkt zijn. Dit kan handig zijn als je met een vertrouwd persoon interacteert en een bestand wilt delen (laten bezoeken) vanuit je datakluis. 
-               </p>
-               <p>
-               Echter als een externe service jouw gebruikersdata wilt wegschrijven in je datakluis dan kan deze URL met potentieel je naam erin verwerkt, uitgelezen worden. In deze context is dat mogelijk niet de meest privacy vriendelijke manier omdat er zo een profiel opgebouwd kan worden.
-               </p>
-               <p>
-               Eén mogelijkheid om dit op te lossen in dit soort situaties is het gebruik van een 'identiteits-scrambler' waardoor de locatie van de datakluis wordt verborgen.
-               </p>
-               <p>
-               De identiteits-scrambler kan als volgt werken bijvoorbeeld:
-               </p>
-               <ul>
-               
-               <li>De URL van een datakluis kan bijvoorbeeld vervangen worden door een set aan <strong>gerandomiseerde tekens</strong>.
-               
-               <li>Om herhaalde bezoeken van een persoon aan een service niet aan elkaar te kunnen linken en zo alsnog achter de schermen een profiel op te bouwen, is aanvullend een <strong>dynamische verandering</strong> van deze set aan tekens nodig. 
-               </li>
-               </ul>
-               <p>
-               In dit artikel gaan we voor de leesbaarheid niet verder de diepte in qua technische werking hiervan, maar beperken we bovenstaand concept tot de naam ‘identiteits-scrambler’.
-               </p>
-               <p>
-               Onderstaand een visualisatie van een identity scrambler.
-               </p>
+                <p>
+                Gebruikersdata zijn bijvoorbeeld: welk artikel lees ik, welk muzieknummer beluister ik en welk artikel heb ik opgeslagen als favoriet.
+                </p>
+                <p>
+                Om deze gebruikersdata privacyvriendelijk op te slaan ontstaat een eerste uitdaging.
+                </p>
+                <p>
+                Het adres van een SolidPod of datakluis is gebaseerd op een URL waarin mogelijk je naam en achternaam verwerkt zijn. Dit kan handig zijn als je met een vertrouwd persoon interacteert en een bestand wilt delen (laten bezoeken) vanuit je datakluis. 
+                </p>
+                <p>
+                Echter als een externe service jouw gebruikersdata wilt wegschrijven in je datakluis dan kan deze URL met potentieel je naam erin verwerkt, uitgelezen worden. In deze context is dat mogelijk niet de meest privacy vriendelijke manier omdat er zo een profiel opgebouwd kan worden.
+                </p>
+                <p>
+                Eén mogelijkheid om dit op te lossen in dit soort situaties is het gebruik van een 'identiteits-scrambler' waardoor de locatie van de datakluis wordt verborgen.
+                </p>
+                <p>
+                De identiteits-scrambler kan als volgt werken bijvoorbeeld:
+                </p>
+                <ul>
+
+                <li>De URL van een datakluis kan bijvoorbeeld vervangen worden door een set aan <strong>gerandomiseerde tekens </strong>(een ‘hash’).
+
+                <li>Om herhaalde bezoeken van een persoon aan een service niet aan elkaar te kunnen linken en zo alsnog achter de schermen een profiel op te bouwen, is aanvullend een <strong>dynamische verandering</strong> van deze set aan tekens nodig. 
+                </li>
+                </ul>
+                <p>
+                In dit artikel gaan we voor de leesbaarheid niet verder de diepte in qua technische werking hiervan, maar beperken we bovenstaand concept tot de naam ‘identiteits-scrambler’.
+                </p>
+                <p>
+                Onderstaand een visualisatie van een identity scrambler.
+                </p>
 
                 <div style="position: relative; width: 100%; height: 0; padding-top: 62.5000%;
                 padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -294,21 +296,21 @@
                 <h2>Data combinaties berekenen met externe services</h2>
 
 
-                  <p>
-                  Als volgende stap zijn we aangekomen bij het derde uitgangspunt: het berekenen van data combinaties met externe services gebeurt privacyvriendelijk.
-                  </p>
-                  <p>
-                  Een voorbeeld hiervan zijn content-bibliotheken van een mediaservice. Op basis van matches tussen jouw data en die externe bibliotheek kunnen bijv. content aanbevelingen berekend worden.
-                  </p>
-                  <p>
-                  Deze berekening kan in je persoonlijke digitale omgeving plaatsvinden waardoor je privacy gewaarborgd wordt. 
-                  </p>
-                  <p>
-                  Door deze koppeling eenmaal te leggen en vervolgens deze berekeningen frequent op de achtergrond uit te voeren staan de uitkomsten al klaar bij  het daadwerkelijk bezoeken van die mediaservice. Hierdoor wordt de benodigde snelheid voor gebruiksgemak ook gewaarborgd.
-                  </p>
-                  <p>
-                  In onderstaand overzicht is gevisualiseerd hoe het proces van binnenhalen van externe data en berekenen aan de zijde van de consument kan werken op hoofdlijnen.
-                  </p> 
+                <p>
+                Als volgende stap zijn we aangekomen bij het derde uitgangspunt: het berekenen van data combinaties met externe services gebeurt privacyvriendelijk.
+                </p>
+                <p>
+                Een voorbeeld hiervan zijn content-bibliotheken van een mediaservice. Op basis van matches tussen jouw data en die externe bibliotheek kunnen bijv. content aanbevelingen berekend worden.
+                </p>
+                <p>
+                Deze berekening kan in je persoonlijke digitale omgeving plaatsvinden waardoor je privacy gewaarborgd wordt. 
+                </p>
+                <p>
+                Door deze koppeling eenmaal te leggen en vervolgens deze berekeningen frequent op de achtergrond uit te voeren staan de uitkomsten al klaar bij  het daadwerkelijk bezoeken van die mediaservice. Hierdoor wordt de benodigde snelheid voor gebruiksgemak ook gewaarborgd.
+                </p>
+                <p>
+                In onderstaand overzicht is gevisualiseerd hoe het proces van binnenhalen van externe data en berekenen aan de zijde van de consument kan werken op hoofdlijnen.
+                </p>
                 <div style="position: relative; width: 100%; height: 0; padding-top: 62.5000%;
                 padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
                 border-radius: 8px; will-change: transform;">
@@ -321,21 +323,22 @@
                
                <h3>‘Burst my bubble’</h3>
 
-                  <p>
-                  De berekeningen voor content aanbevelingen kunnen volgens bepaalde regels gebeuren die je zelf kunt instellen. Eén van de regels kan zijn om je bubbel te doorbreken en juist content te laten zien die niet voor de hand ligt op basis van je historisch gedrag.
-                  </p>
-                  <p>
-                  In het verlengde daarvan kunnen er services ontstaan die regels aanleveren om aan jouw behoeftes tegemoet te komen. Daarnaast kun je bijvoorbeeld zelf regels bedenken en delen met bekenden. 
-                  </p>
-                  <p>
-                  Voorkeuren of daaruit volgende aanbevelingen kunnen ook een rol krijgen in een sociale context. Je hebt de aanbeveling ontvangen om serie X te gaan kijken of boek Y te lezen.
-                  </p>
-                  <p>
-                  Vervolgens kun je in je sociale netwerk (of ver daarbuiten) automatisch bevragen of er meerdere mensen zijn met dezelfde interesse en om zo maandagavond samen serie X te gaan kijken. Het vinden van mensen met dezelfde interesses wordt daarmee vergemakkelijkt en ondersteund. 
-                  </p>
-                  <p>
-                  Onderstaand een visualisatie van een eenvoudige service rondom media matches berekenen en de instellingen achter de schermen die je kunt beïnvloeden. <br>In de tweede afbeelding een voorbeeld van regels die je zelf kunt instellen.
-                  </p>
+
+                <p>
+                De berekeningen voor content aanbevelingen kunnen volgens bepaalde regels gebeuren die je zelf kunt instellen. Eén van de regels kan zijn om je bubbel te doorbreken en juist content te laten zien die niet voor de hand ligt op basis van je historisch gedrag.
+                </p>
+                <p>
+                In het verlengde daarvan kunnen er services ontstaan die regels aanleveren om aan jouw behoeftes tegemoet te komen. Daarnaast kun je bijvoorbeeld zelf regels bedenken en delen met bekenden. 
+                </p>
+                <p>
+                Voorkeuren of daaruit volgende aanbevelingen kunnen ook een rol krijgen in een sociale context. Je hebt de aanbeveling ontvangen om serie X te gaan kijken of boek Y te lezen.
+                </p>
+                <p>
+                Vervolgens kun je in je sociale netwerk (of ver daarbuiten) automatisch bevragen of er meerdere mensen zijn met dezelfde interesse en om zo maandagavond samen serie X te gaan kijken. Het vinden van mensen met dezelfde interesses wordt daarmee vergemakkelijkt en ondersteund. 
+                </p>
+                <p>
+                Onderstaand een visualisatie van een eenvoudige service rondom media matches berekenen en de instellingen achter de schermen die je kunt beïnvloeden. <br>In de tweede afbeelding een voorbeeld van regels die je zelf kunt instellen.
+                </p>
                <div style="position: relative; width: 100%; height: 0; padding-top: 62.5000%;
                padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
                border-radius: 8px; will-change: transform;">
@@ -345,8 +348,24 @@
               </div>
             </section>
                  
-                <h2>Personal profile</h2>
+            <h2>Jouw persoonlijk profiel privacyvriendelijk delen met een externe service</h2>
 
+
+            <p>
+            Alle voorgaande processen en bijbehorende data leiden tot een persoonlijk profiel dat in je datakluis staat. <br>Dit leidt tot het vierde en laatste uitgangspunt dat we willen bereiken: het gebruiken van je persoonlijk profiel in interactie met externe services gebeurt privacyvriendelijk.
+            </p>
+            <p>
+            Zodra je bijvoorbeeld een mediaservice wilt bezoeken wil je jouw persoonlijke profiel delen op een privacy-vriendelijke manier. 
+            </p>
+            <p>
+            Hierbij komt de identity scrambler weer van toepassing. 
+            </p>
+            <p>
+            Bij het bezoeken van de website zou er gevraagd kunnen worden of je een connectie wilt maken zodat deze service jouw geanonimiseerde profiel kan gebruiken om je voorkeuren en eventuele content aanbevelingen te tonen. Dit proces zal ook weer vergezeld moeten gaan van set aan gerandomiseerde tekens die dynamisch verandert om zo het opbouwen van een profiel en het linken van sessies tegen te gaan.<br><br>In de transitie naar een meer privacyvriendelijk internet zou daarbij ook gebruik kunnen worden gemaakt van concepten om het adres van een webservice te laten eindigen op /p zodat je automatisch in de privacyvriendelijke omgeving terecht komt.
+            </p>
+            <p>
+            Onderstaand een visuele weergave van het bezoeken van een webservice waarbij gevraagd wordt om je persoonlijke profiel op een privacyvriendelijke manier te delen.
+            </p>
 
                 <div style="position: relative; width: 100%; height: 0; padding-top: 62.5000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -355,6 +374,23 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFcmia5b1Y&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
+
+<h2>Abonnement</h2>
+
+
+<p>
+Wanneer je een abonnement bij een mediaservice afneemt kan het linken van sessies worden voorkomen door de volgende twee onderdelen:
+</p>
+<ol>
+
+<li>De omgeving voor het beheren van je abonnement en bijv. adresgegevens krijgen een andere sessie dan de sessie waarin je daadwerkelijk de content consumeert.
+
+<li>Het aantonen of bewijzen dat je een abonnement hebt bij het bezoeken van betaalde content kan door middel van verifieerbare bewering (‘verifiable credential’) die op dezelfde manier is georganiseerd als de identiteits scrambler zodat sessies niet kunnen worden gelinkt. Met een verifieerbare bewering kun je aantonen dat je abonnement X hebt maar de service kan niet identificeren wie de bezitter is van het abonnement en bijbehorend mediagebruik. 
+<p>
+
+    <br>Voor het betalen per eenmalig gebruik van een artikel ontwikkelen we als Stichting Solid Community momenteel een proces waarbij sessies ook niet gelinkt kunnen worden aan je bankrekening.
+</p>
+
 
 </div>
 </div>
