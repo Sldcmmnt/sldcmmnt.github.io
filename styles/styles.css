@@ -85,6 +85,14 @@ h2:target::before {
   margin:-60px 0 0; /* negative fixed header height */
 }
 
+h3:target::before {
+  content:"";
+  display:block;
+  height:60px; /* fixed header height*/
+  margin:-60px 0 0; /* negative fixed header height */
+}
+
+
 /*MAIN CONTENT*/
 .main-content {
   margin-right: 160px;

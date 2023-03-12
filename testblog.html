@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+    <link rel="icon" type="image/ico" href="favicon.ico">
+
+    <meta name="image" property="og:image" content="img/personal_digital_world.png">
+    <meta property='og:image' content='img/personal_digital_world.png'>
+    <meta property='og:image:width' content='640' >
+    <meta property='og:image:height' content='400' >
+    <meta property="og:url" content="https://www.solidcommunity.nl/blog2.0.html">
+    <meta name="title" property="og:title" content="Over datakluizen, een app-store en privacyvriendelijk data delen met externe services">
+    <meta property='og:description' content='Een longread over hoe datakluizen kunnen worden uitgebreid met persoonlijke applicaties via een app-store, en een scenario hoe privacyvriendelijk data delen met externe services kan worden gerealiseerd, bijvoorbeeld mediaservices.'>
+    <meta property="og:type" content='article'>
+    <meta property="article:author" content="Stichting Solid Community">
+    <meta property="article:published_time" content="2023-03-08T18:07:00.000+01:00">
+    <meta property="article:section" content="Technology">
+    <meta property="article:tag" content="Solid">
+    <meta property="article:tag" content="data vault">
+    <meta property="article:tag" content="personal AI">
+    <meta property="article:tag" content="privacy">
+    <meta property="article:tag" content="data sovereignity">
+    <meta property="article:tag" content="verifiable credentials">
+    <meta property="article:tag" content="datakluis">
+    <meta property="article:tag" content="Stichting solid Community">
+    <meta property="article:tag" content="identity">
+    <meta property="article:tag" content="european wallet">
+    <meta property="article:tag" content="personal wallet">
+
+
+    <script src="js/navbar.js"></script>
+
+    <title>Solid Community</title>
+</head>
+<body>
+  <div class="main-container">
+    <div class="topnav" id="myTopnav">
+            <a href="index.html" >Home</a>
+            <a href="projecten.html" >Projecten</a>
+            <a href="werkgroep.html" >Samenwerken</a>
+            <a href="contact.html" >Contact</a>
+            <a href="over.html" >Over</a>
+            <a href="blog.html" >Blog</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <div class="menuicon"></div>
+              <div class="menuicon"></div>
+              <div class="menuicon"></div>
+            </a>
+    </div>
+        
+    <div class="header">
+              <div class="image_header">
+                <img src="img/logo.png" alt="logo">
+              </div>
+              <div class="text_header">
+                <h1>Solid Community - Nederland</h1>
+                <h3>Samenwerken aan een veiliger, vriendelijker en innovatiever web</h3>
+              </div>
+    </div>
+        
+    <div class="side-bar">
+                <nav class="navigation">
+                  <ul>
+                    <li>
+                        <p>Op deze pagina</p>
+                      <a href="#blog1">Inleiding en samenvatting</a>
+                      <a href="#blog2">Verschillende data en processen</a>
+                      <a href="#blog3">Data aan de gebruikerszijde</a>
+                      <a href="#blog4">Combineren met externe data</a>
+                      <a href="#4_2">Privacy waarborgen</a>
+                      <a href="#5">Uitgangspunten</a>
+                      <a href="#6">Een app-store met ondersteunende services voor je datakluis</a>
+                      <a href="#7">Gebruiksdata privacy-vriendelijk opslaan</a>
+                      <a href="#8">'Bring your own preferences'</a>
+                      <a href="#9">Data combinaties berekenen met externe services</a>
+                      <a href="#10">‘Burst my bubble’</a>
+                      <a href="#11">Jouw persoonlijk profiel privacyvriendelijk delen met een externe service</a>
+                      <a href="#12">Abonnement</a>
+                    </li>
+                  </ul>
+                </nav>
+    </div>
+        
+<div class="main-content">
+
+        <section  id="blog1">
+                 
+                  <h1>Een longread over EDI-wallets, datakluizen en pizza’s</h1>
+                  <p style="color: darkgrey;">12-2-2023 <br> door Gijs van den Beucken</p>
+                  <p style="color: darkgrey;">Leestijd ca. 15 minuten</p>
+                  
+                  <p>Er zijn steeds meer ontwikkelingen die je in staat stellen om regie op je digitale leven te nemen.&nbsp;<br>Door zelf controle te krijgen over (onderdelen van) je identiteit, data, en betalingen wordt een mensgericht wereldwijd web en een digitale publieke ruimte steeds concreter.<br>Concrete ontwikkelingen hierin zijn bijvoorbeeld de Europese Digitale Identiteit, datakluizen en persoonlijke assistenten.</p>
+                  <p>Deze longread schetst een beeld hoe deze ontwikkelingen met elkaar samenhangen om zo uitwisseling van kennis, idee&euml;n en onderzoek te stimuleren.</p>
+                  <p>Het doel van deze ontwikkelingen is om jou als mens zoveel mogelijk te ondersteunen op het digitale web. 
+                  <br>Om deze ontwikkelingen een overkoepelende naam te geven gebruiken we in deze blog daarom de naam digitaal ondersteuningssysteem.</p>
+                  <p>Vaak zijn de ontwikkelingen nog sterk gefocust op het technnische onderdeel, dat natuurlijk belangrijk is maar niet als enige onderdeel zorgt voor een gezond digitaal web.&nbsp;<br><br>Onderdelen zoals de <strong>gebruikerservaring</strong>, het financieel model, wettelijke kaders en governance, zijn net zo belangrijk voor een succesvolle ontwikkeling van een digitaal ondersteuningssysteem. &nbsp;</p>
+                  <p>Omdat het (technisch) jargon vaak een drempel is om zaken uit te leggen kiezen we in deze blog zo veel als mogelijk voor eenvoud en beschrijven we zaken vanuit het perspectief van de gebruiker.<br><br>In deze blog over een digitaal ondersteuningssysteem leggen we de gebruikerservaring uit beginnend met een pizza.</p>       
+                <p><br></p>
+        </section>
+
+        <section  id="blog2">
+                 
+            <h1>Een longread over EDI-wallets, datakluizen en pizza’s</h1>
+            <p style="color: darkgrey;">12-2-2023 <br> door Gijs van den Beucken</p>
+            <p style="color: darkgrey;">Leestijd ca. 15 minuten</p>
+            
+            <p>Er zijn steeds meer ontwikkelingen die je in staat stellen om regie op je digitale leven te nemen.&nbsp;<br>Door zelf controle te krijgen over (onderdelen van) je identiteit, data, en betalingen wordt een mensgericht wereldwijd web en een digitale publieke ruimte steeds concreter.<br>Concrete ontwikkelingen hierin zijn bijvoorbeeld de Europese Digitale Identiteit, datakluizen en persoonlijke assistenten.</p>
+            <p>Deze longread schetst een beeld hoe deze ontwikkelingen met elkaar samenhangen om zo uitwisseling van kennis, idee&euml;n en onderzoek te stimuleren.</p>
+            <p>Het doel van deze ontwikkelingen is om jou als mens zoveel mogelijk te ondersteunen op het digitale web. 
+            <br>Om deze ontwikkelingen een overkoepelende naam te geven gebruiken we in deze blog daarom de naam digitaal ondersteuningssysteem.</p>
+            <p>Vaak zijn de ontwikkelingen nog sterk gefocust op het technnische onderdeel, dat natuurlijk belangrijk is maar niet als enige onderdeel zorgt voor een gezond digitaal web.&nbsp;<br><br>Onderdelen zoals de <strong>gebruikerservaring</strong>, het financieel model, wettelijke kaders en governance, zijn net zo belangrijk voor een succesvolle ontwikkeling van een digitaal ondersteuningssysteem. &nbsp;</p>
+            <p>Omdat het (technisch) jargon vaak een drempel is om zaken uit te leggen kiezen we in deze blog zo veel als mogelijk voor eenvoud en beschrijven we zaken vanuit het perspectief van de gebruiker.<br><br>In deze blog over een digitaal ondersteuningssysteem leggen we de gebruikerservaring uit beginnend met een pizza.</p>       
+          <p><br></p>
+  </section>
+
+
+  <section  id="blog3">
+                 
+    <h1>Een longread over EDI-wallets, datakluizen en pizza’s</h1>
+    <p style="color: darkgrey;">12-2-2023 <br> door Gijs van den Beucken</p>
+    <p style="color: darkgrey;">Leestijd ca. 15 minuten</p>
+    
+    <p>Er zijn steeds meer ontwikkelingen die je in staat stellen om regie op je digitale leven te nemen.&nbsp;<br>Door zelf controle te krijgen over (onderdelen van) je identiteit, data, en betalingen wordt een mensgericht wereldwijd web en een digitale publieke ruimte steeds concreter.<br>Concrete ontwikkelingen hierin zijn bijvoorbeeld de Europese Digitale Identiteit, datakluizen en persoonlijke assistenten.</p>
+    <p>Deze longread schetst een beeld hoe deze ontwikkelingen met elkaar samenhangen om zo uitwisseling van kennis, idee&euml;n en onderzoek te stimuleren.</p>
+    <p>Het doel van deze ontwikkelingen is om jou als mens zoveel mogelijk te ondersteunen op het digitale web. 
+    <br>Om deze ontwikkelingen een overkoepelende naam te geven gebruiken we in deze blog daarom de naam digitaal ondersteuningssysteem.</p>
+    <p>Vaak zijn de ontwikkelingen nog sterk gefocust op het technnische onderdeel, dat natuurlijk belangrijk is maar niet als enige onderdeel zorgt voor een gezond digitaal web.&nbsp;<br><br>Onderdelen zoals de <strong>gebruikerservaring</strong>, het financieel model, wettelijke kaders en governance, zijn net zo belangrijk voor een succesvolle ontwikkeling van een digitaal ondersteuningssysteem. &nbsp;</p>
+    <p>Omdat het (technisch) jargon vaak een drempel is om zaken uit te leggen kiezen we in deze blog zo veel als mogelijk voor eenvoud en beschrijven we zaken vanuit het perspectief van de gebruiker.<br><br>In deze blog over een digitaal ondersteuningssysteem leggen we de gebruikerservaring uit beginnend met een pizza.</p>       
+  <p><br></p>
+</section>
+
+<section  id="blog4">
+                 
+    <h1>Een longread over EDI-wallets, datakluizen en pizza’s</h1>
+    <p style="color: darkgrey;">12-2-2023 <br> door Gijs van den Beucken</p>
+    <p style="color: darkgrey;">Leestijd ca. 15 minuten</p>
+    
+    <p>Er zijn steeds meer ontwikkelingen die je in staat stellen om regie op je digitale leven te nemen.&nbsp;<br>Door zelf controle te krijgen over (onderdelen van) je identiteit, data, en betalingen wordt een mensgericht wereldwijd web en een digitale publieke ruimte steeds concreter.<br>Concrete ontwikkelingen hierin zijn bijvoorbeeld de Europese Digitale Identiteit, datakluizen en persoonlijke assistenten.</p>
+    <p>Deze longread schetst een beeld hoe deze ontwikkelingen met elkaar samenhangen om zo uitwisseling van kennis, idee&euml;n en onderzoek te stimuleren.</p>
+    <p>Het doel van deze ontwikkelingen is om jou als mens zoveel mogelijk te ondersteunen op het digitale web. 
+    <br>Om deze ontwikkelingen een overkoepelende naam te geven gebruiken we in deze blog daarom de naam digitaal ondersteuningssysteem.</p>
+    <p>Vaak zijn de ontwikkelingen nog sterk gefocust op het technnische onderdeel, dat natuurlijk belangrijk is maar niet als enige onderdeel zorgt voor een gezond digitaal web.&nbsp;<br><br>Onderdelen zoals de <strong>gebruikerservaring</strong>, het financieel model, wettelijke kaders en governance, zijn net zo belangrijk voor een succesvolle ontwikkeling van een digitaal ondersteuningssysteem. &nbsp;</p>
+    <p>Omdat het (technisch) jargon vaak een drempel is om zaken uit te leggen kiezen we in deze blog zo veel als mogelijk voor eenvoud en beschrijven we zaken vanuit het perspectief van de gebruiker.<br><br>In deze blog over een digitaal ondersteuningssysteem leggen we de gebruikerservaring uit beginnend met een pizza.</p>       
+  <p><br></p>
+</section>
+
+<section  id="blog5">
+                 
+    <h1>Een longread over EDI-wallets, datakluizen en pizza’s</h1>
+    <p style="color: darkgrey;">12-2-2023 <br> door Gijs van den Beucken</p>
+    <p style="color: darkgrey;">Leestijd ca. 15 minuten</p>
+    
+    <p>Er zijn steeds meer ontwikkelingen die je in staat stellen om regie op je digitale leven te nemen.&nbsp;<br>Door zelf controle te krijgen over (onderdelen van) je identiteit, data, en betalingen wordt een mensgericht wereldwijd web en een digitale publieke ruimte steeds concreter.<br>Concrete ontwikkelingen hierin zijn bijvoorbeeld de Europese Digitale Identiteit, datakluizen en persoonlijke assistenten.</p>
+    <p>Deze longread schetst een beeld hoe deze ontwikkelingen met elkaar samenhangen om zo uitwisseling van kennis, idee&euml;n en onderzoek te stimuleren.</p>
+    <p>Het doel van deze ontwikkelingen is om jou als mens zoveel mogelijk te ondersteunen op het digitale web. 
+    <br>Om deze ontwikkelingen een overkoepelende naam te geven gebruiken we in deze blog daarom de naam digitaal ondersteuningssysteem.</p>
+    <p>Vaak zijn de ontwikkelingen nog sterk gefocust op het technnische onderdeel, dat natuurlijk belangrijk is maar niet als enige onderdeel zorgt voor een gezond digitaal web.&nbsp;<br><br>Onderdelen zoals de <strong>gebruikerservaring</strong>, het financieel model, wettelijke kaders en governance, zijn net zo belangrijk voor een succesvolle ontwikkeling van een digitaal ondersteuningssysteem. &nbsp;</p>
+    <p>Omdat het (technisch) jargon vaak een drempel is om zaken uit te leggen kiezen we in deze blog zo veel als mogelijk voor eenvoud en beschrijven we zaken vanuit het perspectief van de gebruiker.<br><br>In deze blog over een digitaal ondersteuningssysteem leggen we de gebruikerservaring uit beginnend met een pizza.</p>       
+  <p><br></p>
+</section>
+
+    </div>       
+    <script type="text/javascript" src="js/lightup.js"></script>
+    <script type="text/javascript">navHighlighter()</script>
+</div>    
+</body>
+</html>
