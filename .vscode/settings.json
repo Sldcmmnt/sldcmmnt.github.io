@@ -1,3 +1,4 @@
 {
-    "webvalidator.validateOnSave": true
+    "webvalidator.validateOnSave": true,
+    "webvalidator.validationNotification": false
 }
