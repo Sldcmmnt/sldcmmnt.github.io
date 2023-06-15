@@ -20,7 +20,7 @@ layout: home
 
 <div class="image_header"> <img src="img/logo.png" alt="logo"></div> 
 <br>         
-<div class="image_header"> <img src="img/logo.png" align="left" width="200px" margin="16px"/></div>       
+<div class="image_header"> <img src="img/logo.png" align="left" width="200px" margin-right="16px"/></div>       
 some text floating around the image. And more text. 
 Text on new line. <br>
 text after line break.
@@ -34,7 +34,7 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 
 [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/){:target="_blank" rel="noopener"}
-
+<br>
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/){:target="_blank" rel="noopener"}
-
+<br>
 [Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
