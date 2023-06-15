@@ -2,12 +2,10 @@
 layout: post
 title: "Een longread over EDI-wallets, datakluizen en pizza’s"
 categories: misc
+author: 
+- Gijs van den Beucken
+- Leestijd ca. 15 minuten
 ---
-
-# Een longread over EDI-wallets, datakluizen en pizza’s
-<sub>_12-2-2023 <br>
-door Gijs van den Beucken <br>
-Leestijd ca. 15 minuten_  </sub><br>
 
 
 Er zijn steeds meer ontwikkelingen die je in staat stellen om regie op je digitale leven te nemen. 
