@@ -16,3 +16,11 @@ layout: home
 
 <div class="image_header"> <img src="img/logo.png" alt="logo"></div> 
          
+<img src="img/logo.png" align="left" width="200px"/>
+some text floating around the image. And more text. 
+Text on new line. <br>
+text after line break.
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
