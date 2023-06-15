@@ -29,7 +29,7 @@ vertical-align: middle;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  width: 80%;
+  width: auto;
   @include media-query($on-palm) {
     padding-right: 45px;
   }
