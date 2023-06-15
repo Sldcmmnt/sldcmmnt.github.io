@@ -16,7 +16,7 @@ layout: home
 
 <div class="image_header"> <img src="img/logo.png" alt="logo"></div> 
 <br>         
-<img src="img/logo.png" align="left" width="200px" margin:"16px"/>
+<img src="img/logo.png" align="left" width="200px" margin="16px"/>
 some text floating around the image. And more text. 
 Text on new line. <br>
 text after line break.
