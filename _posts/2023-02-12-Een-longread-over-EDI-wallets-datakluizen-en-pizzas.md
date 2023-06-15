@@ -208,7 +208,7 @@ Het is daarom belangrijk de specifieke context mee te nemen: waar, welke functie
 
 
 -----
-## Stichting Solid Community
+## Stichting Solid Community <br>
 Wij zijn Stichting Solid Community.
 
 We werken aan een gezonde digitale ruimte met een groeiende coalitie van partijen die een veilig, vriendelijk en innovatief web belangrijk vinden.
