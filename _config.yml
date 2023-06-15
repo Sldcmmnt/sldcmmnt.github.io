@@ -47,11 +47,11 @@ minima:
 # order as they should show up.
 #
 header_pages:
-- over.md
+- projecten.md
+- samenwerken.md
 - aanpak.md
 - blog.md
-- samenwerken.md
-- projecten.md
+- over.md
 
 # Set to `true` to show excerpts on the homepage.
 #
