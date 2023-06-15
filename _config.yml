@@ -47,8 +47,10 @@ minima:
 #
 header_pages:
 - over.md
-- test.md
+- aanpak.md
 - blog.md
+- samenwerken.md
+- projecten.md
 
 # Set to `true` to show excerpts on the homepage.
 #
