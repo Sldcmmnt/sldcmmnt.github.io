@@ -11,4 +11,8 @@ layout: home
 
 ## Projecten
 <video src="https://user-images.githubusercontent.com/28604639/146938627-beb71c68-b6d6-4d9f-a7eb-2d23c5b95e14.mov" controls="controls" style="max-width: 730px;"></video>
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/5th6CSQTdpM/0.jpg)](https://www.youtube.com/watch?v=5th6CSQTdpM "Everything Is AWESOME")
+
+
  <img src="img/logo.png"  alt="Afbeelding luchtballon bij projecten" >           
