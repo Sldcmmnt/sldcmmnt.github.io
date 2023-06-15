@@ -5,8 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: 
-samenwerken aan een vriendelijker veiliger web
+description: samenwerken aan een vriendelijker veiliger web
 
 # Build settings
 
@@ -47,8 +46,8 @@ minima:
 # order as they should show up.
 #
 header_pages:
-   - about.md
-   - test.md
+- about.md
+- test.md
 
 # Set to `true` to show excerpts on the homepage.
 #
