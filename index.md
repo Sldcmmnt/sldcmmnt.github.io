@@ -9,39 +9,24 @@ layout: home
 ---
 
 
-## Over Stichting Solid Community
+## Op weg naar een vriendelijker, veiliger en innovatiever web
+Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web veiliger, vriendelijker en innovatiever te maken.
+Het maakt het mogelijk om verantwoord en veilig data te delen op basis van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie. <br>
+Het is een middel om bij te dragen aan een mensgerichte, vriendelijke en veilige gebruikerservaring in de digitale ruimte.
+De open technologie achter Solid maakt het bijvoorbeeld mogelijk om een persoonlijke datakluizen te krijgen. Hierdoor krijg je als mens de regie terug over jouw gegevens, en beslis je zelf welke gegevens je deelt, met welke organisatie en voor hoe lang. Een belangrijk principe van Solid is dat data zo worden opgeslagen dat alle applicaties en organisaties deze kunnen begrijpen en verwerken.
 
-De missie van de Stichting Solid Community is om verantwoord en veilig data delen te realiseren op basis van van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie.
-
-We zien technologie als een middel om bij te dragen aan een mensgerichte, vriendelijke en veilige gebruikerservaring in de digitale ruimte.
+Solid is toepasbaar in vrijwel alle sectoren, van de energiesector, media, gezondheidszorg tot overheid. Zowel de de gebruikerservaring als de dienstverlening kan mogelijk gemaakt worden.
+Een uitbreiding op het huidige web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
+De missie van de Stichting Solid Community is om Solid verder op te schalen in Nederland.
+Dat doen we door: 
+* bewustwording en samenwerking in én tussen sectoren te realiseren en zo
+* sectorbrede community van samenwerkinng te realiseren in onderzoek, ontwikkeling en kruisbestuiving om zo de ontwikkeling te *harmoniseren* tot een samenhangend geheel en uitdagingen samen aan te gaan. 
+* we ontwikkelen samen  met partners concrete voorbeelden van toepassingen in proefopstellingen en in gebruik  <br> <br>
 [Lees meer over missie en plannen >](https://decentraldesignstudio.github.io/over.html)
 
-## Over Solid
+---
 
-Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee.
-Het is ontstaan vanuit de visie om het web veiliger te maken door identiteiten, data en applicaties anders te organiseren.
-
-Hierdoor ontstaan mogelijkheden om het delen van data veiliger en verantwoord te organiseren waarbij ook een verbetering van de gebruikerservaring en de dienstverlening mogelijk gemaakt kan worden. 
-Solid is technisch gezien een paraplu waaronder verschillende open technische specificaties vallen en borduurt voort op vertrouwde W3C standaarden.
-
-We zien Solid als een mooie basis die nog verder uitgebouwd, uitgebreid en doorontwikkeld moet worden vanuit de achterliggende visie voor een innovatiever, vriendelijker en veiliger web.
-
-Om die visie te realiseren, maken we daarom gebruik van aanvullende open technologieën en ondersteunen we de doorontwikkeling hiervan tot een samenhangend geheel.
-## Wat doen we
-
-We adviseren hoe de visie van Solid toegepast kan worden in sectoren en we ondersteunen het ontwikkelen van praktische projecten in samenwerking met organisaties, onderzoeks- en implementatiepartners.
-
-We ondersteunen daarnaast ook het opbouwen van kennis en cross-sectorale kennisdeling.
-
-De uitkomsten hiervan communiceren we breed om bewustwording over de mogelijkheden van veilig en verantwoord data delen te versterken. 
-Projecten
-Afbeelding bij projecten
 
 ## Projecten
 <img src="img/plaatje.jpg" width="50%" height="30%" /> <br>
 Bekijk projecten en voorbeelden
-## Over datakluizen
-
-De open technologie achter Solid maakt persoonlijke datakluizen mogelijk. Hierdoor krijg je als mens de regie terug over jouw gegevens, en beslis je zelf welke gegevens je deelt, met welke organisatie en voor hoe lang.
-
-Een belangrijk principe van Solid is dat data zo worden opgeslagen dat alle applicaties en organisaties deze kunnen begrijpen en verwerken.
