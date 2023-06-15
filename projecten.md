@@ -14,9 +14,14 @@ layout: home
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/5th6CSQTdpM/0.jpg)](https://www.youtube.com/watch?v=5th6CSQTdpM "Everything Is AWESOME")
 
+
+
+
+
 <div class="image_header"> <img src="img/logo.png" alt="logo"></div> 
 <br>         
-<img src="img/logo.png" align="left" width="200px" margin="16px"/>
+<div class="image_header"> <img src="img/logo.png" align="left" width="200px" margin="16px"/></div> 
+<br>         
 some text floating around the image. And more text. 
 Text on new line. <br>
 text after line break.
