@@ -1,3 +1,25 @@
+.image_header img {
+  float: left;
+  height: 90px;
+  width: 100px;
+ object-fit: cover;
+ clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+ margin-right: 15px;
+    }
+
+@media screen and (max-width: 850px) {
+.image_header img{
+ 
+  height: 60px;
+  width: 70px;
+ object-fit: cover;
+ clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+ margin-right: 5px;
+    }
+}
+
+
+
 /**
  * Site header
  */
