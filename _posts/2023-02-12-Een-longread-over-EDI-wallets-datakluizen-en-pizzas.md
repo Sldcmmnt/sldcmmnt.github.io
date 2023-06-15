@@ -201,11 +201,9 @@ Een gebruikerservaring die de voordelen van een datakluis en een WebId meeneemt,
 
 Er ontstaan steeds meer voorbeelden dat dit mogelijk is. Om deze stapsgewijs te ontwikkelen tot een samenhangend geheel lijken in elk geval de volgende punten nodig om te komen tot een succesvol bereidingsproces:
 
-de gebruikservaring van de mens in de digitale ruimte centraal stellen.
-
-een onderzoeksfase bestaande uit proeftuinen waarin niet alleen naar de technische aspecten gekeken wordt, maar ook proeftuinen waarin de wettelijke kaders, governance en financiële modellen worden verkend.
-
-De verschillende scenario’s en contexten onderzoeken waarin data delen voorkomt, en deze stapsgewijs ontwikkelen.
+* de gebruikservaring van de mens in de digitale ruimte centraal stellen.
+* een onderzoeksfase bestaande uit proeftuinen waarin niet alleen naar de technische aspecten gekeken wordt, maar ook proeftuinen waarin de wettelijke kaders, governance en financiële modellen worden verkend.
+* De verschillende scenario’s en contexten onderzoeken waarin data delen voorkomt, en deze stapsgewijs ontwikkelen.
 Er zijn namelijk allerlei scenario’s mogelijk waarin je meer of minder privacy wilt of kunt verkrijgen. Dit is vaak afhankelijk van de sector en specifieke dienstverlening, zoals bijvoorbeeld de gezondheidszorg, overheid, vrijetijdsbranche etc.
 Het is daarom belangrijk de specifieke context mee te nemen: waar, welke functies nuttig, nodig en mogelijk zijn om te komen tot een optimale gebruikerservaring.
 
