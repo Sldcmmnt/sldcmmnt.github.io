@@ -32,3 +32,10 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/){:target="_blank" rel="noopener"}
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/){:target="_blank" rel="noopener"}
+
+[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
