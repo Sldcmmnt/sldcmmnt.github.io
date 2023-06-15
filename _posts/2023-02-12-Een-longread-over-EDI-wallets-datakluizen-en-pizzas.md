@@ -5,6 +5,7 @@ categories: misc
 author: 
 - Gijs van den Beucken
 - Leestijd ca. 15 minuten
+- permalink: /blog1.0.html
 ---
 
 
