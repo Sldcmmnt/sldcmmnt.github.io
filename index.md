@@ -14,6 +14,8 @@ layout: home
 De missie van de Stichting Solid Community is om verantwoord en veilig data delen te realiseren op basis van van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie.
 
 We zien technologie als een middel om bij te dragen aan een mensgerichte, vriendelijke en veilige gebruikerservaring in de digitale ruimte.
+[Lees meer over missie en plannen >](https://decentraldesignstudio.github.io/over.html)
+
 ## Over Solid
 
 Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee.
