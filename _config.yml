@@ -46,8 +46,9 @@ minima:
 # order as they should show up.
 #
 header_pages:
-- about.md
+- over.md
 - test.md
+- blog.md
 
 # Set to `true` to show excerpts on the homepage.
 #
