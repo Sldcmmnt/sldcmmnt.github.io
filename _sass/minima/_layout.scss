@@ -1,8 +1,6 @@
 .image_header img {
   float: left;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+vertical-align: middle;
   height: 45px;
   width: 50px;
  object-fit: cover;
