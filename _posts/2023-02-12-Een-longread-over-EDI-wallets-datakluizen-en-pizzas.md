@@ -55,6 +55,8 @@ Aan het gebruik van verifieerbare digitale gegevens zijn verschillende voordelen
 In Vlaanderen werkt de overheid met deze zogenoemde verifiable credentials bij het bewijzen dat je een diploma hebt.
 Deze <a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" target="_blank">video</a> geeft meer uitleg daarover. 
 Meer toelichting bij onderstaande video vind je op de website van het Vlaams DataNutsbedrijf onder projecten.
+[link](https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe){:target="_blank"}
+
 
 <p ><a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf/projecten-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank" style="color: rgb(143, 143, 143);">Bron</a></p>
     
