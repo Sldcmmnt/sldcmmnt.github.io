@@ -21,8 +21,9 @@ De missie van de Stichting Solid Community is om Solid verder op te schalen in N
 Dat doen we door: 
 * bewustwording en samenwerking in én tussen sectoren te realiseren en zo
 * sectorbrede community van samenwerkinng te realiseren in onderzoek, ontwikkeling en kruisbestuiving om zo de ontwikkeling te *harmoniseren* tot een samenhangend geheel en uitdagingen samen aan te gaan. 
-* we ontwikkelen samen  met partners concrete voorbeelden van toepassingen in proefopstellingen en in gebruik  <br> <br>
-[Lees meer over missie en plannen >](https://decentraldesignstudio.github.io/over.html)
+* we ontwikkelen samen  met partners concrete voorbeelden van toepassingen in proefopstellingen en in gebruik. <br> 
+<br>
+[Lees meer over onze missie en aanpak >](https://decentraldesignstudio.github.io/over.html)
 
 ---
 
