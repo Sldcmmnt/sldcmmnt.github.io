@@ -1,23 +1,2 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-
-$color_1: blue;
-
-.page_heading {
-	text-align: center;
-	justify-content: left;
-	align-items: center;
-	font-size: 12px;
-	margin-left: 2vw;
-	margin-right: 2vw;
-	color: $color_1;
-	h1 {
-		font-size: 18px;
-		color: $color_1;
-	}
-	h3 {
-		font-size: 14px;
-		color: $color_1;
-	}
-}
-
