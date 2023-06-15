@@ -24,3 +24,6 @@ text after line break.
 <br clear="left"/>
 
 A "newline". This text doesn't float anymore, is left-aligned.
+
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
