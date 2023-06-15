@@ -36,7 +36,7 @@ Projecten
 Afbeelding bij projecten
 
 ## Projecten
-
+<img src="img/plaatje.jpg" width="50%" height="30%" /> <br>
 Bekijk projecten en voorbeelden
 ## Over datakluizen
 
