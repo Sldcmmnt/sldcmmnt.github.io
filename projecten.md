@@ -22,15 +22,29 @@ In Vlaanderen is de Vlaamse overheid via het Vlaams DataNutsbedrijf, dat onlang 
 Twee projecten waar momenteel aan gewerkt wordt zijn de use case over diploma delen, en een use case over loongegevens delen.
 Onderstaand twee uitlegvideo's over deze use cases. Meer achtergrondinformatie is terug te vinden op de website van het Vlaams DataNutsbedrijf.
 <div style="display=flex; justify-content=space-evenly;">
-<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" rel="noopener noreferrer" target="_blank"><img src="img/banner-video-sander.png" style="width:30%;"></a> <a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" rel="noopener noreferrer" target="_blank"><img src="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sarah_1_bn2vj2.jpg" style="width:30%;"></a>   
-</div>
+<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" rel="noopener noreferrer" target="_blank"><img src="img/banner-video-sander.png" style="width:30%;"></a> 
+<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" rel="noopener noreferrer" target="_blank"><img src="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sarah_1_bn2vj2.jpg" style="width:30%;"></a>   
+</div><br>
+<br>
+<br>
 
 ## Nederlandse voorbeelden in voorbereiding
+Er zijn ontelbare voorbeelden te bedenken hoe Solid in sectoren meerwaarde kan leveren en toegepast kan worden.
 In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voorbereiding of in planning.
 Zodra de voltooing nadert volgt er meer informatie.
 
-### Mijn financiën
+## Mijn financiën
 <div class="projectblock">
-<img src="img/logo.png" align="left" width="200px" margin-right="16px"/>   
-Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegevens nodig. Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.
+<img src="img/logo.png" align="left" width="200px" margin-right="16px" float="left"/>   
+<p>Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegevens nodig. Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.</p>
 </div>
+<br>
+
+## Mijn financiën
+Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken. In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn. Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context.
+
+## Mijn carrière
+Het delen van je diploma is een veel voorkomende situatie bij solliciteren of aantonen in bijv. de zorg dat je over de juiste papieren beschikt. Met behulp van o.a. datakluizen kun je deze veilig en verantwoord delen.
+
+## Mijn services
+Actuele contactgegevens zijn nuttig en nodig voor dienstverlenende organisaties om in contact te kunnen komen met hun klanten. Via een datakluis kan dit eenvoudig en gemakkelijk gerealiseerd worden. Zo kan er meer tijd worden besteed aan datgene waar het echt om draait: service verlenen.
