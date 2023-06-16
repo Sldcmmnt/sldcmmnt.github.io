@@ -33,5 +33,12 @@ Dat doen we door: <br>
 
 
 ## Projecten
+plaatje met image tag (geen link) <br>
 <img src="img/plaatje.jpg" width="70%" /> <br>
+plaatje met a tag (link) en style <br>
+<a href="https://decentraldesignstudio.github.io/projecten.html"><img src="img/plaatje.jpg" style="width:70%;"></a>
+
+plaatje met link via markdown <br>
+![alt text ](https://decentraldesignstudio.github.io/img/plaatje.jpg "Text which shows when mouseover")
+
 Bekijk projecten en voorbeelden
