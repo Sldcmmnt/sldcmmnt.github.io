@@ -58,8 +58,10 @@ Aan het gebruik van verifieerbare digitale gegevens zijn verschillende voordelen
 In Vlaanderen werkt de overheid met deze zogenoemde verifiable credentials bij het bewijzen dat je een diploma hebt.
 Meer toelichting bij onderstaande video vind je op de website van het <a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank">Vlaams DataNutsbedrijf</a> onder projecten. Onderstaande video geeft meer uitleg hierover(opent in nieuw venster): 
 
-
-<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" rel="noopener noreferrer" target="_blank"><img src="img/banner-video-sander.png" style="width:70%;"></a>    
+<video width= "360" height="240" poster="img/banner-video-sander.png" controls>
+  <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4">
+  </video>
+   
 <p ><a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf/projecten-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank" style="color: rgb(143, 143, 143);">Bron</a></p>
 
 
@@ -166,9 +168,6 @@ Tegelijkertijd kunnen deze bewezen betalingen ook gebruikt worden om inkomenstoe
 ### Voorbeeld Vlaanderen
 Deze twee scenario’s worden al door de Vlaamse overheid ontwikkeld. In de volgende video worden deze toegelicht.
 Meer toelichting bij onderstaande video vind je op de website van het <a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank">Vlaams DataNutsbedrijf</a> onder projecten.
-
-<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" rel="noopener noreferrer" target="_blank"><img src="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sarah_1_bn2vj2.jpg" style="width:70%;"></a>    
-
 
 <video width= "360" height="240" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_90,w_1280/Sarah_1_bn2vj2.jpg" controls>
   <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" type="video/mp4">
