@@ -40,4 +40,7 @@ Als je wilt, kun je de applicatie die regels checkt voor jou, iedere week even l
 Doordat het loket, de actuele gegevens in je datakluis, zo vaak als jij wilt, kan checken, kun je direct op de hoogte worden gesteld als jouw situatie wijzigt, en de invloed daarvan op lopende regelingen.
 Dit proces staat los van het aanvragen, en is dus niet zichtbaar voor gemeentes.
 
+## Meer weten?
+Wil je meer weten over dit project en datakluizen? Neem dan contact op via:
+<info@solidcommunity.nl>
 
