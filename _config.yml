@@ -49,7 +49,7 @@ minima:
 # order as they should show up.
 #
 header_pages:
-- projecten.md
+- toepassingen.md
 - samenwerken.md
 - aanpak.md
 - blog.md
