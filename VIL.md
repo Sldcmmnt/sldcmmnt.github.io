@@ -36,6 +36,6 @@ De opdrachtgever van dit project is ICTU en de open source applicatie is gebouwd
 In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
  
 <video width= "360" height="240" poster="img/banner-video-sander.png" controls>
-  <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4">
+  <source src="img/VIL/VIL.mp4" type="video/mp4">
   </video>
 
