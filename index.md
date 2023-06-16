@@ -23,23 +23,23 @@ Dat doen we door:
 * bewustwording en cross-sectorale samenwerking te organiseren en zo;<br> 
 * een **sectorbrede groeiende coalitie en community van samenwerking** te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te harmoniseren tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
 * Daarnaast ontwikkelen we samen met partners **concrete voorbeelden en toepassingen**.
-
-[>> Lees meer over Solid, onze missie en aanpak](aanpak.html)
-
+<br>
+[**>> Lees meer over Solid, onze missie en aanpak**](aanpak.html)
+<br>
 
 
 
 ## Toepassingen in de praktijk
 Er zijn verschillende toepassingen in voorbereiding zowel in Nederland als internationaal. Bekijk hier enkele van deze toepassingen.
 <br>
-[>> Bekijk voorbeelden van toepassingen](toepassingen.html)
+[**>> Bekijk voorbeelden van toepassingen**](toepassingen.html)
 
 <br>
 
 ## Highlight: Toeslagen aanvragen vereenvoudigen
 In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen. Dit project heet het Virtueel Inkomsten Loket.
 <br>
-[>> Leer meer over het Viruteel Inkomsten Loket](vil.html)
+[**>> Leer meer over het Viruteel Inkomsten Loket**](vil.html)
 <br>
 <br>
 
