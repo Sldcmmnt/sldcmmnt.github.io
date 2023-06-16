@@ -38,14 +38,14 @@ Er zijn ontelbare voorbeelden te bedenken hoe Solid in sectoren meerwaarde kan l
 In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voorbereiding of in planning.
 Zodra de voltooing nadert volgt er meer informatie.<br>
 
-## Mijn financiën
+### Mijn financiën
 Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegevens nodig. Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.
 
-## Mijn gezondheid
+### Mijn gezondheid
 Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken. In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn. Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context.
 
-## Mijn carrière
+### Mijn carrière
 Het delen van je diploma is een veel voorkomende situatie bij solliciteren of aantonen in bijv. de zorg dat je over de juiste papieren beschikt. Met behulp van o.a. datakluizen kun je deze veilig en verantwoord delen.
 
-## Mijn services
+### Mijn services
 Actuele contactgegevens zijn nuttig en nodig voor dienstverlenende organisaties om in contact te kunnen komen met hun klanten. Via een datakluis kan dit eenvoudig en gemakkelijk gerealiseerd worden. Zo kan er meer tijd worden besteed aan datgene waar het echt om draait: service verlenen.
