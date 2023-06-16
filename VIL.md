@@ -17,12 +17,12 @@ De opdrachtgever van dit project is [ICTU](ICTU.nl){:target="_blank" rel="noopen
 
 In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
  
-<video width= "360" height="240" poster="img/banner-video-sander.png" controls>
+<video width= "80%" controls>
   <source src="img/VIL/VIL.mp4" type="video/mp4">
   </video>
 
-
 ---
+
 ## Doel van dit project
 Veel mensen maken geen gebruik van inkomensregelingen waar ze wel recht op hebben. De procedures om aan te vragen zijn te ingewikkeld. En ze hebben geen vertrouwen in de overheid. Het Virtueel Inkomsten Loket maakt het aanvragen makkelijker. Zo staat de burger echt centraal in plaats van de regelingen. En functioneert de overheid als een open, transparante en samenhangende overheid.
 
