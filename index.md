@@ -45,16 +45,3 @@ In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen va
 <br>
 <br>
 
-## Samenwerkingspartners en sponsoren
-
-### Samenwerkingspartners
-
-<img src="img/partners/ICTU.svg" width="200px" margin-right="16px"/>     
-<br>
-
-### Sponsoren
-
-<a href="https://www.pondersource.com" target="_blank"><img src="img/partners/pondersource.jpg" style="width:200px;"></a><br>
-<a href="https://www.muze.nl" target="_blank"><img src="img/partners/muze.png" style="width:200px;"></a><br>
-<a href="https://www.digita.ai" target="_blank"><img src="img/partners/digita.svg" style="width:200px;"></a><br>
-
