@@ -14,3 +14,17 @@ Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan m
 Neem dan contact op via: <samenwerken@solidcommunity.nl>
 
 We werken doelgericht en stapsgewijs aan prototypes en live oplossingen die breder in de maatschappij toegepast kunnen worden en om veilig en verantwoord data delen te realiseren.
+
+
+## Samenwerkingspartners en sponsoren
+
+### Samenwerkingspartners in veilig en verantwoord data delen
+
+<img src="img/partners/ICTU.svg" width="200px" margin-right="16px"/>     
+<br>
+
+### Sponsoren
+
+<a href="https://www.pondersource.com" target="_blank"><img src="img/partners/pondersource.jpg" style="width:200px;"></a><br>
+<a href="https://www.muze.nl" target="_blank"><img src="img/partners/muze.png" style="width:200px;"></a><br>
+<a href="https://www.digita.ai" target="_blank"><img src="img/partners/digita.svg" style="width:200px;"></a><br>
