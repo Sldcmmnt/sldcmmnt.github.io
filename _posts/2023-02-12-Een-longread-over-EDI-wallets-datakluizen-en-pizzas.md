@@ -111,6 +111,7 @@ Immers, applicaties, services en organisaties komen en gaan, maar de mens of geb
 Om dit te realiseren zullen we applicaties en data van elkaar moeten scheiden.
 Een plek waar je deze data beheert wordt een datakluis genoemd.
 <br>
+
 ### Solid en datakluizen
 Het zet in feite het huidige internet op zijn kop, omdat data niet meer in applicaties staan, maar uitgelezen worden vanuit je datakluis.
 
@@ -128,6 +129,7 @@ Wanneer je datakluizen gescheiden wilt houden, bijv. zorggegevens en vrije tijd 
 Meer achtergrond-informatie en uitleg vind je in deze <a href="https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web" rel="noopener noreferrer" target="_blank">blog</a> van Ruben Verborgh, professor en verbonden aan het Solidlab in Vlaanderen.
 Meer uitleg in de vorm van een video kun je <a href="https://www.youtube.com/watch?v=M9yzPIuTI2k" rel="noopener noreferrer" target="_blank">hier</a> vinden.
 <br>
+
 ## Nieuwe technieken vragen om nieuwe regels, vooraf ontwikkeld
 Deze techniek alleen volledig technisch (door)ontwikkelen is niet voldoende. 
 Nieuwe technieken vragen ook om nieuwe regels. 
@@ -140,7 +142,7 @@ Omdat deze techniek nog tot wasdom moet komen biedt het ook kansen. Nieuwe regel
 Het ontwikkelen van nieuwe processen biedt ook kansen om oude drempels aan te pakken: door samenwerkingsprocessen te organiseren kunnen bijvoorbeeld cookies en ‘accept our terms’ met lange juridische teksten langzaamaan gaan verdwijnen en plaats maken voor gezondere en meer gebruikersvriendelijkere alternatieven.
 
 <br>
-<br>
+
 ## 3. Financiële data
 Het derde ingrediënt van jouw digitale wereld, toegang tot je financiële data, lichten we uit omdat deze sector meer gereguleerd is. 
 
@@ -160,6 +162,7 @@ De loon-afschriften van je werkgever bijvoorbeeld, kunnen als beweringen die te 
 
 Tegelijkertijd kunnen deze bewezen betalingen ook gebruikt worden om inkomenstoeslagen te berekenen en daarmee deze berekeningen meer actueel te maken op basis van je situatie.
 <br>
+
 ### Voorbeeld Vlaanderen
 Deze twee scenario’s worden al door de Vlaamse overheid ontwikkeld. In de volgende video worden deze toegelicht.
 Meer toelichting bij onderstaande video vind je op de website van het <a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank">Vlaams DataNutsbedrijf</a> onder projecten.
@@ -171,15 +174,15 @@ Meer toelichting bij onderstaande video vind je op de website van het <a href="h
   <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" type="video/mp4">
   </video>
   <p><a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf/projecten-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank" style="color: rgb(133, 133, 133);">Bron</a></p>
-</div>
 <br>
+
 ### Nederlandse ontwikkeling
 Een soortgelijk concept in Nederland wordt voor een Nederlandse gemeentelijke use case ontwikkeld als eerste stap. Hierbij wordt de aanvraag van burgers voor een inkomenstoeslag gecheckt vanuit een SolidPod (datakluis) van een burger.
 
 Hierdoor kun je gemakkelijker en veiliger de juiste gegevens delen. Ook wordt het mogelijk om automatisch te gaan checken of je in aanmerking komt voor <a href="https://wetten.overheid.nl/BWBR0015703/2023-01-01/#Hoofdstuk4_Paragraaf4.1_Artikel36" rel="noopener noreferrer" target="_blank">inkomenstoeslag</a>, of dat deze niet meer van toepassing zijn omdat je bijvoorbeeld meer bent gaan verdienen.
 
 
-<br>
+
 ### Fictief voorbeeld Belastingdienst
 Wanneer je bijvoorbeeld jouw vermogen of inkomen moet opgeven zou het mogelijk zijn dat vanuit de Belastingdienst een verifieerbare bewering kan worden uitgegeven over je vermogen of inkomen. Deze kun je vanuit je SolidPod (datakluis) vervolgens delen met andere organisaties die willen weten of je boven of onder een bepaalde inkomens vermogensgrens zit.
 Zo kan er, én een betere dienstverlening ontstaan die ervoor zorgen dat de burger ondersteund wordt om gemakkelijk de juiste toeslagen te ontvangen, en wordt ook GDPR-compliant delen van data met ketenpartners mogelijk.
@@ -187,7 +190,7 @@ Zo kan er, én een betere dienstverlening ontstaan die ervoor zorgen dat de burg
 Bovenstaande gaat natuurlijk over digitale dienstverlening. Door dit aspect slimmer en efficiënter te organiseren ontstaat er ruimte om middelen en aandacht voor offline dienstverlening en menselijk contact in te zetten.
 
 
-<br>
+
 ## 4. Rekenkracht onder jouw controle voor inzicht en ondersteuning
 Een vierde ingrediënt van je digitale ondersteuningssysteem is rekenkracht.
 Wanneer rekenkracht wordt toegevoegd aan de data over jou kun je allerlei extra inzichten op basis van jouw data genereren.
@@ -198,7 +201,7 @@ Een concreet voorbeeld hierbij is dat momenteel wetgeving leesbaar wordt gemaakt
 Als rekenkracht onderdeel kan zijn van jouw digitale wereld, met de juiste regelgeving, hoeft geen derde partij met jouw gegevens en de uitkomsten aan de haal te gaan.
 
 
-<br>
+
 ## 5. Data combineren terwijl je privacy gewaarborgd blijft
 Een vijfde ingrediënt is samenwerken en data combineren met de digitale buitenwereld. 
 Wanneer jij je data over jou meebrengt naar een service of applicatie, en je wilt bekijken hoe dit matcht met het aanbod van die service of applicatie, bijvoorbeeld in het geval van aanbevelingen dan ontstaat er interactie tussen twee soorten data: Data over jou en data van de service. 
@@ -206,7 +209,7 @@ Bijvoorbeeld: welke artikelen kan een service je aanbevelen op basis van je favo
 Wat die service vervolgens op basis van de uitkomst van die combinatie van beide datasets over jou kan weten, en hoe die data worden gebruikt is belangrijk om goed te reguleren.
 
 
-<br>
+
 ## Verder met de ingrediënten voor een samenhangende gebruikerservaring
 Nu deze ingrediënten meer zijn toegelicht is de vraag:
 
