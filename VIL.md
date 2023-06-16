@@ -8,6 +8,21 @@ permalink: /vil.html
 
 Huurtoeslag, individuele inkomenstoeslag, woonkostentoeslag en andere regelingen zijn bedoeld voor kwetsbare inwoners. Maar zij maken niet altijd gebruik van de regelingen waar ze recht op hebben, omdat de procedures te ingewikkeld zijn. Het Virtueel Inkomsten Loket gebruikt gegevens die al bekend zijn, om met één druk op de knop aanvragen in te vullen én te beoordelen. Daarmee kan een inwoner sneller en makkelijker aanvragen. 
 
+## Praktijkvoorbeeld
+Het Virtueel Inkomsten Loket wil een simpel, digitaal loket ontwikkelen voor alle regelingen. Het loket kan door elke inwoner of hulpverlener worden gebruikt. In dat loket is direct te zien waar inwoners recht op hebben, en de tegemoetkoming wordt meteen toegekend. Elke maand kan een inwoner een check doen, om te bekijken of gegevens nog up to date zijn. Achter de schermen kunnen gemeenten vertrouwen op de gevalideerde data van de inwoner. Verandert er iets aan een regeling, dan kunnen ze dat aanpassen in een beheermodule.
+
+## Project fase 1
+Als Stichting Solid Community zijn we gevraagd om een eerste demonstratie te ontwikkelen met een datakluis.
+De opdrachtgever van dit project is [ICTU](ICTU.nl){:target="_blank" rel="noopener"} en de open source applicatie is gebouwd door [Muze](muze.nl){:target="_blank" rel="noopener"}.
+
+In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
+ 
+<video width= "360" height="240" poster="img/banner-video-sander.png" controls>
+  <source src="img/VIL/VIL.mp4" type="video/mp4">
+  </video>
+
+
+---
 ## Doel van dit project
 Veel mensen maken geen gebruik van inkomensregelingen waar ze wel recht op hebben. De procedures om aan te vragen zijn te ingewikkeld. En ze hebben geen vertrouwen in de overheid. Het Virtueel Inkomsten Loket maakt het aanvragen makkelijker. Zo staat de burger echt centraal in plaats van de regelingen. En functioneert de overheid als een open, transparante en samenhangende overheid.
 
@@ -25,16 +40,4 @@ Als je wilt, kun je de applicatie die regels checkt voor jou, iedere week even l
 Doordat het loket, de actuele gegevens in je datakluis, zo vaak als jij wilt, kan checken, kun je direct op de hoogte worden gesteld als jouw situatie wijzigt, en de invloed daarvan op lopende regelingen.
 Dit proces staat los van het aanvragen, en is dus niet zichtbaar voor gemeentes.
 
-## Praktijkvoorbeeld
-Het Virtueel Inkomsten Loket wil een simpel, digitaal loket ontwikkelen voor alle regelingen. Het loket kan door elke inwoner of hulpverlener worden gebruikt. In dat loket is direct te zien waar inwoners recht op hebben, en de tegemoetkoming wordt meteen toegekend. Elke maand kan een inwoner een check doen, om te bekijken of gegevens nog up to date zijn. Achter de schermen kunnen gemeenten vertrouwen op de gevalideerde data van de inwoner. Verandert er iets aan een regeling, dan kunnen ze dat aanpassen in een beheermodule.
-
-## Project fase 1
-Als Stichting Solid Community zijn we gevraagd om een eerste demonstratie te ontwikkelen met een datakluis.
-De opdrachtgever van dit project is [ICTU](ICTU.nl){:target="_blank" rel="noopener"} en de open source applicatie is gebouwd door [Muze](muze.nl){:target="_blank" rel="noopener"}.
-
-In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
- 
-<video width= "360" height="240" poster="img/banner-video-sander.png" controls>
-  <source src="img/VIL/VIL.mp4" type="video/mp4">
-  </video>
 
