@@ -40,9 +40,12 @@ Bekijk projecten en voorbeelden
 
 ### Samenwerkingspartners
 
-<div class="image_header"> <img src="img/partners/ICTU.svg" align="left" width="200px" margin-right="16px"/></div>       
+<img src="img/partners/ICTU.svg" width="200px" margin-right="16px"/>     
+<br><br>
 
 ### Sponsoren
-
-
+<br>
+<a href="https://www.pondersource.com" target="_blank"><img src="img/partners/pondersource.jpg" style="width:200px;"></a>
+<a href="https://www.muze.nl" target="_blank"><img src="img/partners/muze.png" style="width:200px;"></a>
+<a href="https://www.digita.ai" target="_blank"><img src="img/partners/digita.svg" style="width:200px;"></a>
 
