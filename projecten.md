@@ -6,9 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: projecten
 ---
 
-## Projecten
+## Toepassingen
 Door het gebruik van Solid kunnen dienstverlening en gebruikservaring verbeteren.
 Ook ontstaan er meer mogelijkheden om **GDPR compliant samen te werken met ketenpartners**.
 
@@ -22,12 +23,15 @@ In Vlaanderen is de Vlaamse overheid via het Vlaams DataNutsbedrijf, dat onlang 
 Twee projecten waar momenteel aan gewerkt wordt zijn de use case over diploma delen, en een use case over loongegevens delen.
 Onderstaand twee uitlegvideo's over deze use cases. Meer achtergrondinformatie is terug te vinden op de website van het Vlaams DataNutsbedrijf.
 
-<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" rel="noopener noreferrer" target="_blank"><img src="img/banner-video-sander.png" style="width:30%;"></a> 
-<br>
-<br>
-<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" rel="noopener noreferrer" target="_blank"><img src="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sarah_1_bn2vj2.jpg" style="width:30%;"></a>   
-<br>
-<br>
+<video width= "360" height="240" poster="img/banner-video-sander.png" controls>
+  <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4">
+  </video>
+
+<video width= "360" height="240" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_90,w_1280/Sarah_1_bn2vj2.jpg" controls>
+  <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" type="video/mp4">
+  </video>
+  
+
 
 ## Nederlandse voorbeelden in voorbereiding
 Er zijn ontelbare voorbeelden te bedenken hoe Solid in sectoren meerwaarde kan leveren en toegepast kan worden.
