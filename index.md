@@ -23,7 +23,7 @@ Dat doen we door:
 * bewustwording en cross-sectorale samenwerking te organiseren en zo;<br> 
 * een **sectorbrede groeiende coalitie en community van samenwerking** te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te harmoniseren tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
 * Daarnaast ontwikkelen we samen met partners **concrete voorbeelden en toepassingen**.
-<br>
+
 [**>> Lees meer over Solid, onze missie en aanpak**](aanpak.html)
 <br>
 
