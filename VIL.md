@@ -13,7 +13,8 @@ Het Virtueel Inkomsten Loket wil een simpel, digitaal loket ontwikkelen voor all
 
 ## Project fase 1
 Als Stichting Solid Community zijn we gevraagd om een eerste demonstratie te ontwikkelen met een datakluis.
-De opdrachtgever van dit project is [ICTU](www.ICTU.nl){:target="_blank" rel="noopener"} en de open source applicatie is gebouwd door [Muze](www.muze.nl){:target="_blank" rel="noopener"}.
+De opdrachtgever van dit project: [ICTU](www.ICTU.nl){:target="_blank" rel="noopener"} , een partner van de Stichting Solid Community in veilig en verantwoord data delen.
+De open source applicatie is ontwikkeld door: [Muze](www.muze.nl){:target="_blank" rel="noopener"}, een technische implementatiepartner van de Stichting Solid Community.
 
 In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
  
