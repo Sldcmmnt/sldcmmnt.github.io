@@ -20,7 +20,7 @@ Een uitbreiding op het huidige web gaat echter niet vanzelf: er is brede bewustw
 De missie van de Stichting Solid Community is om Solid verder op te schalen in Nederland.
 Dat doen we door: <br>
 - bewustwording en **cross-sectorale samenwerking** in én tussen sectoren te realiseren en zo <br> 
-- sectorbrede community van samenwerkinng te realiseren in onderzoek, ontwikkeling en kruisbestuiving om zo de ontwikkeling te *harmoniseren* tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
+- sectorbrede community van samenwerkinng te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te *harmoniseren* tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
 - we ontwikkelen samen  met partners **concrete voorbeelden en toepassingen** in proefopstellingen en in gebruik. <br> 
 <br>
 [Lees meer over onze missie en aanpak >](https://decentraldesignstudio.github.io/over.html)
