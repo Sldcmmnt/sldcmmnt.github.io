@@ -7,7 +7,6 @@
 #
 layout: home
 ---
-<img src="img/banner-homepage.png" style="width:100%;">
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
 Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web veiliger, vriendelijker en innovatiever te maken. <br>
