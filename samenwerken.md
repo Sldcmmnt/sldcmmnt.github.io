@@ -12,10 +12,12 @@ title: Samenwerken
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web?
 
 Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
-Neem dan contact op via: <samenwerken@solidcommunity.nl>
+Neem dan contact op via: <samenwerken@solidcommunity.nl> <br>
 We werken doelgericht en stapsgewijs aan:
 * prototypes en live oplossingen die breder in de maatschappij toegepast kunnen worden om veilig en verantwoord data delen te realiseren.
 * een samenhangend ecosysteem van organisaties voor gezamelijke ontwikkeling en onderzoek rondom architectuur, governance, adoptie en kennisdeling.
+<br>
+Wanneer je samenwerkt met de Solid Community blijf je op de hoogte van alle ontwikkelingen en informatie-meetups en ben je onderdeel van een ecosysteem om samen te leren en ontwikkelen.
 <br>
 <br>
 <br>
