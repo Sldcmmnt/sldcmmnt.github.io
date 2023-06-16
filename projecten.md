@@ -21,10 +21,10 @@ In Vlaanderen is de Vlaamse overheid via het Vlaams DataNutsbedrijf, dat onlang 
 
 Twee projecten waar momenteel aan gewerkt wordt zijn de use case over diploma delen, en een use case over loongegevens delen.
 Onderstaand twee uitlegvideo's over deze use cases. Meer achtergrondinformatie is terug te vinden op de website van het Vlaams DataNutsbedrijf.
-<div style="display=flex; justify-content=space-evenly;">
+
 <a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" rel="noopener noreferrer" target="_blank"><img src="img/banner-video-sander.png" style="width:30%;"></a> 
 <a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" rel="noopener noreferrer" target="_blank"><img src="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sarah_1_bn2vj2.jpg" style="width:30%;"></a>   
-</div><br>
+<br>
 <br>
 <br>
 
