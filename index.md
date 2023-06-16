@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-## Op weg naar een vriendelijker, veiliger en innovatiever web
+## Samenwerken aan een vriendelijker, veiliger en innovatiever web
 Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web veiliger, vriendelijker en innovatiever te maken. <br>
 Het maakt het mogelijk om **verantwoord en veilig data te delen** op basis van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie. <br>
 Het is een middel om bij te dragen aan een mensgerichte, vriendelijke en veilige gebruikerservaring in de digitale ruimte.
