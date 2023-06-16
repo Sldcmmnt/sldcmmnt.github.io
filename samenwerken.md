@@ -21,7 +21,7 @@ We werken doelgericht en stapsgewijs aan prototypes en live oplossingen die bred
 Een groeiende groep van organisaties werkt samen met de Solid Community aan een vriendelijker en veiliger web.
 
 ### Samenwerkingspartners in veilig en verantwoord data delen
-ICTU, innovatieorganisatie opgericht door de Nederlandse overheid
+ICTU, innovatieorganisatie opgericht door de Nederlandse overheid <br>
 <img src="img/partners/ICTU.svg" width="200px" margin-right="16px"/>     
 <br>
 
