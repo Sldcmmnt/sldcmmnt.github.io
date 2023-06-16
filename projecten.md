@@ -26,7 +26,7 @@ Onderstaand twee uitlegvideo's over deze use cases. Meer achtergrondinformatie i
 <video width= "360" height="240" poster="img/banner-video-sander.png" controls>
   <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4">
   </video>
-
+<br>
 <video width= "360" height="240" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_90,w_1280/Sarah_1_bn2vj2.jpg" controls>
   <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" type="video/mp4">
   </video>
