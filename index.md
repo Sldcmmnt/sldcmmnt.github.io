@@ -25,20 +25,22 @@ Dat doen we door:
 * Daarnaast ontwikkelen we samen met partners **concrete voorbeelden en toepassingen**.
 <br> 
 <br>
-[Lees meer over Solid, onze missie en aanpak](aanpak.html)
+[>>Lees meer over Solid, onze missie en aanpak](aanpak.html)
 
 
 
 
 ## Toepassingen in de praktijk
 Er zijn verschillende toepassingen in voorbereiding zowel in Nederland als internationaal. Bekijk hier enkele van deze toepassingen.
-[Bekijk voorbeelden van toepassingen](toepassingen.html)
+<br>
+[>>Bekijk voorbeelden van toepassingen](toepassingen.html)
 
 <br>
 
 ## Highlight: Toeslagen aanvragen vereenvoudigen
 In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen. Dit project heet het Virtueel Inkomsten Loket.
-[Leer meer over het Viruteel Inkomsten Loket](toepassingen.html)
+<br>
+[**>>Leer meer over het Viruteel Inkomsten Loket**](toepassingen.html)
 <br>
 <br>
 
