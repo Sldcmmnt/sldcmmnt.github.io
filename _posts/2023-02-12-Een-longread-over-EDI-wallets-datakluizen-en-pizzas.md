@@ -54,7 +54,12 @@ Aan het gebruik van verifieerbare digitale gegevens zijn verschillende voordelen
 In Vlaanderen werkt de overheid met deze zogenoemde verifiable credentials bij het bewijzen dat je een diploma hebt.
 Deze <a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" target="_blank">video</a> geeft meer uitleg daarover. 
 <p ><a href="https://www.vlaanderen.be/digitaal-vlaanderen/het-vlaams-datanutsbedrijf/projecten-vlaams-datanutsbedrijf" rel="noopener noreferrer" target="_blank" style="color: rgb(143, 143, 143);">Bron</a></p>
-    
+
+
+<a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" rel="noopener noreferrer" target="_blank"><img src="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sander_-_diploma_case_vfbdxe.jpg" style="width:70%;"></a>    
+
+<video playsinline="" preload="none" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sander_-_diploma_case_vfbdxe.jpg" style="width: 100%;"><source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_auto:eco,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4"></video>
+
 
 In Nederland is een bekend initatief IRMA die daarbij verschillende risico’s rond het delen van attributen adresseert. 
 
