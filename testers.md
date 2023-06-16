@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-## Projecten
+## Testers en voorbeelden 
 
 Ik dacht eerst dat dit nodig was <br>
 <a href="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" rel="noopener noreferrer" target="_blank"><img src="https://assets.vlaanderen.be/video/upload/c_scale,q_auto:eco,w_1280/Sarah_1_bn2vj2.jpg" style="width:70%;"></a>    
