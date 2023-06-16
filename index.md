@@ -33,7 +33,16 @@ Dat doen we door:
 
 ## Projecten
 Bekijk projecten en voorbeelden
-plaatje met a tag (link) en style <br>
-<a href="https://decentraldesignstudio.github.io/projecten.html"><img src="img/plaatje.jpg" style="width:50%;"></a>
+
+<a href="https://decentraldesignstudio.github.io/projecten.html"><img src="img/plaatje.jpg" style="width:30%;"></a>
+
+## Samenwerkingspartners en sponsoren
+
+### Samenwerkingspartners
+
+<div class="image_header"> <img src="img/partners/ICTU.svg" align="left" width="200px" margin-right="16px"/></div>       
+
+### Sponsoren
+
 
 
