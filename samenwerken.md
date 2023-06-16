@@ -14,13 +14,14 @@ Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan m
 Neem dan contact op via: <samenwerken@solidcommunity.nl>
 
 We werken doelgericht en stapsgewijs aan prototypes en live oplossingen die breder in de maatschappij toegepast kunnen worden en om veilig en verantwoord data delen te realiseren.
-<br>
-<br>
+----
 
-## Samenwerkingspartners en sponsoren
+## Huidige samenwerkingspartners en sponsoren
+
+Een groeiende groep van organisaties werkt samen met de Solid Community aan een vriendelijker en veiliger web.
 
 ### Samenwerkingspartners in veilig en verantwoord data delen
-
+ICTU, innovatieorganisatie opgericht door de Nederlandse overheid
 <img src="img/partners/ICTU.svg" width="200px" margin-right="16px"/>     
 <br>
 
