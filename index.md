@@ -53,7 +53,7 @@ In Nederland hebben we een eerste proefopstelling ontwikkelt om het aanvragen va
 
 ### Sponsoren
 <br>
-<a href="https://www.pondersource.com" target="_blank"><img src="img/partners/pondersource.jpg" style="width:200px;"></a>
-<a href="https://www.muze.nl" target="_blank"><img src="img/partners/muze.png" style="width:200px;"></a>
-<a href="https://www.digita.ai" target="_blank"><img src="img/partners/digita.svg" style="width:200px;"></a>
+<a href="https://www.pondersource.com" target="_blank"><img src="img/partners/pondersource.jpg" style="width:200px;"></a><br>
+<a href="https://www.muze.nl" target="_blank"><img src="img/partners/muze.png" style="width:200px;"></a><br>
+<a href="https://www.digita.ai" target="_blank"><img src="img/partners/digita.svg" style="width:200px;"></a><br>
 
