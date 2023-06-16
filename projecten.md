@@ -8,8 +8,7 @@
 layout: home
 ---
 
-
-## Toepassing
+## Projecten
 Door het gebruik van Solid kunnen dienstverlening en gebruikservaring verbeteren.
 Ook ontstaan er meer mogelijkheden om **GDPR compliant samen te werken met ketenpartners**.
 
