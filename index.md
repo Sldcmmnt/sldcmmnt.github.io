@@ -18,9 +18,9 @@ Solid is toepasbaar in vrijwel alle sectoren, van de energiesector, media, gezon
 Een uitbreiding op het huidige web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.  <br> <br>
 De missie van de Stichting Solid Community is om Solid verder op te schalen in Nederland vanuit een **onafhankelijke en neutrale** insteek.
 Dat doen we door: <br>
-- bewustwording en **cross-sectorale samenwerking** te bouwen en zo;<br> 
-- sectorbrede community van samenwerkinng te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te *harmoniseren* tot een samenhangend geheel en uitdagingen samen aan te gaan.
-- we ontwikkelen samen  met partners **concrete voorbeelden en toepassingen** in proefopstellingen en in gebruik.
+1. bewustwording en **cross-sectorale samenwerking** te bouwen en zo;<br> 
+2. **sectorbrede community van samenwerkinng** te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te *harmoniseren* tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
+3. we ontwikkelen samen  met partners **concrete voorbeelden en toepassingen** in proefopstellingen en in gebruik.
  <br> 
  <br> 
 <br>
