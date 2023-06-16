@@ -14,7 +14,8 @@ Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan m
 Neem dan contact op via: <samenwerken@solidcommunity.nl>
 
 We werken doelgericht en stapsgewijs aan prototypes en live oplossingen die breder in de maatschappij toegepast kunnen worden en om veilig en verantwoord data delen te realiseren.
-
+<br>
+<br>
 
 ## Samenwerkingspartners en sponsoren
 
