@@ -14,6 +14,7 @@ title: Samenwerken
 Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
 Neem dan contact op via: <samenwerken@solidcommunity.nl> <br>
 We werken doelgericht en stapsgewijs aan:
+
 * prototypes en live oplossingen die breder in de maatschappij toegepast kunnen worden om veilig en verantwoord data delen te realiseren.
 * een samenhangend ecosysteem van organisaties voor gezamelijke ontwikkeling en onderzoek rondom architectuur, governance, adoptie en kennisdeling.
 <br>
