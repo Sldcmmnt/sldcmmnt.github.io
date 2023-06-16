@@ -12,5 +12,6 @@ De open technologie achter Solid maakt het bijvoorbeeld mogelijk om in een perso
 Solid is toepasbaar in vrijwel alle sectoren, van de energiesector, media, gezondheidszorg tot overheid. Zowel een verbetering van de gebruikerservaring als de dienstverlening kan hierdoor worden mogelijk gemaakt. Een uitbreiding op het huidige web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
 
 ### Dilemma zone 
-![dilemma zone](https://github.com/DecentralDesignStudio/decentraldesignstudio.github.io/assets/55687057/810e52e7-eb1b-4811-bc8a-bca4aab02814)
+<a href="https://github.com/DecentralDesignStudio/decentraldesignstudio.github.io/assets/55687057/810e52e7-eb1b-4811-bc8a-bca4aab02814" style="width:70%;"></a>
+
 Bij opkomende technologiën
