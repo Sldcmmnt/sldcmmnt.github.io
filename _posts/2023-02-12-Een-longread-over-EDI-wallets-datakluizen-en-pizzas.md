@@ -213,12 +213,13 @@ Het is daarom belangrijk de specifieke context mee te nemen: waar, welke functie
 
 
 -----
+<br>
 ## Stichting Solid Community <br>
 Wij zijn Stichting Solid Community.
 
 We werken aan een gezonde digitale ruimte met een groeiende coalitie van partijen die een veilig, vriendelijk en innovatief web belangrijk vinden.
 
 Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
-Neem dan contact op via: samenwerken@solidcommunity.nl
+Neem dan contact op via: <samenwerken@solidcommunity.nl>
 
-We werken doelgericht en stapsgewijs aan prototypes die breder in de maatschappij toegepast kunnen worden en zo als voorbeeld en inspiratie kunnen dienen om veilig en verantwoord data delen te realiseren en verder onder de aandacht te brengen.
+We werken doelgericht en stapsgewijs aan prototypes die breder in de maatschappij toegepast kunnen worden en zo als voorbeeld en inspiratie kunnen dienen om veilig en verantwoord data delen te realiseren.
