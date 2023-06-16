@@ -32,5 +32,5 @@ Dat doen we door: <br>
 
 
 ## Projecten
-<img src="img/plaatje.jpg" width="50%" height="30%" /> <br>
+<img src="img/plaatje.jpg" width="70%" /> <br>
 Bekijk projecten en voorbeelden
