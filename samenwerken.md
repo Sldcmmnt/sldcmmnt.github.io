@@ -6,9 +6,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Samenwerken
 ---
 
-## Samenwerken
+## Samenwerken aan een vriendelijker, veiliger en innovatiever web?
 Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
 Neem dan contact op via: <samenwerken@solidcommunity.nl>
 
