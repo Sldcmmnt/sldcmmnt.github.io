@@ -13,7 +13,9 @@ title: Samenwerken
 
 Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
 Neem dan contact op via: <samenwerken@solidcommunity.nl>
-We werken doelgericht en stapsgewijs aan prototypes en live oplossingen die breder in de maatschappij toegepast kunnen worden en om veilig en verantwoord data delen te realiseren.
+We werken doelgericht en stapsgewijs aan:
+* prototypes en live oplossingen die breder in de maatschappij toegepast kunnen worden om veilig en verantwoord data delen te realiseren.
+* een samenhangend ecosysteem van organisaties voor gezamelijke ontwikkeling en onderzoek rondom architectuur, governance, adoptie en kennisdeling.
 <br>
 <br>
 <br>
@@ -21,15 +23,15 @@ We werken doelgericht en stapsgewijs aan prototypes en live oplossingen die bred
 ## Huidige samenwerkingspartners en sponsoren
 
 Een groeiende groep van organisaties werkt samen met de Solid Community aan een vriendelijker en veiliger web.
+[ICTU](www.ICTU.nl){:target="_blank" rel="noopener"}, de innovatieorganisatie opgericht door de Nederlandse overheid, is een partner in veilig en verantwoord data delen. 
 
-### Samenwerkingspartners in veilig en verantwoord data delen
-ICTU, innovatieorganisatie opgericht door de Nederlandse overheid 
-<br>
-<img src="img/partners/ICTU.svg" width="200px" margin-right="16px"/>     
-<br>
+## Technische implementatiepartners
+[Ponder source](https://www.pondersource.com){:target="_blank" rel="noopener"}
+[Muze](https://www.muze.nl){:target="_blank" rel="noopener"}
+[Digita](https://www.digita.ai){:target="_blank" rel="noopener"}
 
-### Sponsoren
+## Sponsoren
+[Ponder source](https://www.pondersource.com){:target="_blank" rel="noopener"}
+[Muze](https://www.muze.nl){:target="_blank" rel="noopener"}
+[Digita](https://www.digita.ai){:target="_blank" rel="noopener"}
 
-<a href="https://www.pondersource.com" target="_blank"><img src="img/partners/pondersource.jpg" style="width:200px;"></a><br>
-<a href="https://www.muze.nl" target="_blank"><img src="img/partners/muze.png" style="width:200px;"></a><br>
-<a href="https://www.digita.ai" target="_blank"><img src="img/partners/digita.svg" style="width:200px;"></a><br>
