@@ -47,7 +47,8 @@ Wanneer we als maatschappij allemaal ingrediënten van die gebruikerservaring ap
 
 Om de samenhang van deze ingrediënten beter te gaan begrijpen volgt onderstaand een uitleg van de nieuwe ingrediënten die in je digitale ruimte een rol kunnen gaan spelen. 
 
-<br>
+
+
 ## 1. Data die iets bewijzen
 Dit zijn persoonlijke gegevens over jou die niet met hoge frequentie veranderen, dus min of meer statisch zijn en verbonden zijn aan jou. Denk hierbij aan je naam, de plek waar je woont, of je inwoner bent van Nederland, of je een diploma bezit etc.
 Wanneer je in interactie treedt met de buitenwereld wordt vaak gevraagd om te bewijzen dat deze beweringen kloppen, dus te verifiëren zijn. In de digitale wereld daarom ook wel verifieerbare beweringen (Verifiable Credentials) genoemd. 
