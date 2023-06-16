@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: home
+title: Home
 ---
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
