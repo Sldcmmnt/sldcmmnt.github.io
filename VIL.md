@@ -28,3 +28,14 @@ Dit proces staat los van het aanvragen, en is dus niet zichtbaar voor gemeentes.
 ## Praktijkvoorbeeld
 Het Virtueel Inkomsten Loket wil een simpel, digitaal loket ontwikkelen voor alle regelingen. Het loket kan door elke inwoner of hulpverlener worden gebruikt. In dat loket is direct te zien waar inwoners recht op hebben, en de tegemoetkoming wordt meteen toegekend. Elke maand kan een inwoner een check doen, om te bekijken of gegevens nog up to date zijn. Achter de schermen kunnen gemeenten vertrouwen op de gevalideerde data van de inwoner. Verandert er iets aan een regeling, dan kunnen ze dat aanpassen in een beheermodule.
 
+## Project fase 1
+Als Stichting Solid Community zijn we gevraagd om een eerste demonstratie te ontwikkelen met een datakluis.
+De opdrachtgever van dit project is ICTU en de open source applicatie is gebouwd door [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+.
+
+In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
+ 
+<video width= "360" height="240" poster="img/banner-video-sander.png" controls>
+  <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4">
+  </video>
+
