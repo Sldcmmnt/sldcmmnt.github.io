@@ -7,6 +7,12 @@
 #
 layout: home
 title: Home
+image:
+  path: img/page/ballonnen.jpg
+  height: 518
+  width: 291
+---
+
 ---
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
