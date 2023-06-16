@@ -8,7 +8,7 @@
 layout: home
 ---
 
-## Samenwerken aan een veiliger, vriendelijker en innovatiever web?
+## Samenwerken
 Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
 Neem dan contact op via: <samenwerken@solidcommunity.nl>
 
