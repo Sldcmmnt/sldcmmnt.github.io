@@ -6,6 +6,10 @@ author:
 - Gijs van den Beucken
 - Leestijd ca. 15 minuten
 permalink: /blog1.0.html
+image:
+  path: img/pizza.jpg
+  height: 640
+  width: 427
 ---
 
 
