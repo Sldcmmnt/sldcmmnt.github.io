@@ -26,8 +26,8 @@ Dat doen we door:
 
 [**>> Lees meer over Solid, onze missie en aanpak**](aanpak.html)
 <br>
-
-
+<br>
+<br>
 
 ## Toepassingen in de praktijk
 Er zijn verschillende toepassingen in voorbereiding zowel in Nederland als internationaal. Bekijk hier enkele van deze toepassingen.
