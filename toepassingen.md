@@ -64,7 +64,7 @@ Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op met 
 <br>
 
 ### **Mijn services**
-Actuele contactgegevens zijn nuttig en nodig voor dienstverlenende organisaties om in contact te kunnen komen met hun klanten. Via een datakluis kan dit eenvoudig en gemakkelijk gerealiseerd worden. Zo kan er meer tijd worden besteed aan datgene waar het echt om draait: service verlenen.
+Actuele contactgegevens zijn nuttig en nodig voor dienstverlenende organisaties om in contact te kunnen komen met hun klanten. Via een datakluis kan dit eenvoudig en gemakkelijk gerealiseerd worden. Zo kan er meer tijd worden besteed aan datgene waar het echt om draait: service verlenen.<br>
 Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op met <service@solidcommunity.nl>
 
 ### **Andere domeinen en sectoren**
