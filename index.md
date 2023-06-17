@@ -15,7 +15,7 @@ image:
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
 Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken. <br>
-Solid kan **meerwaarde in alle sectoren** leveren; van de energiesector, media, retail, gezondheidszorg tot overheid door een **verbetering van dienstverlening en gebruiksvriendelijkheid**. <br>
+Solid kan **meerwaarde in alle sectoren** leveren; van de energiesector, media, retail, gezondheidszorg tot overheid door **veiliger en verantwoord data delen** en een **verbetering van dienstverlening en gebruiksvriendelijkheid**. <br>
 De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
 De missie van de Stichting Solid Community is om die beweging te organiseren vanuit een onafhankelijke en neutrale insteek.
 <br>
@@ -43,7 +43,7 @@ Er zijn verschillende toepassingen in voorbereiding zowel in Nederland als inter
 ## Highlight: Toeslagen aanvragen vereenvoudigen
 In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen. Dit project heet het Virtueel Inkomsten Loket.
 <br>
-[**>> Leer meer over het Viruteel Inkomsten Loket**](vil.html)
+[**>> Leer meer over het Virtueel Inkomsten Loket**](vil.html)
 <br>
 <br>
 
