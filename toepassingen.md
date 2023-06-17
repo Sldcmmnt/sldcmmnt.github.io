@@ -38,8 +38,8 @@ Er zijn ontelbare voorbeelden te bedenken hoe Solid in sectoren meerwaarde kan l
 In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voorbereiding of in planning.
 
 ### **Mijn financiën**
-Het aanvragen van inkomenstoeslagen voor burgers is vaak complex om meerdere redenen.
-In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen. Dit project heet het Virtueel Inkomsten Loket.
+Het aanvragen van inkomenstoeslagen voor burgers is vaak complex om meerdere redenen. Het project om dit te vereenvoudigen heet het Virtueel Inkomsten Loket.
+In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen in combinatie met een datakluis gebaseerd op de open technologie van Solid. 
 <br>
 In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
  
