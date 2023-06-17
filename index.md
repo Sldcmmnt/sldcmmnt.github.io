@@ -15,13 +15,13 @@ image:
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
 Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web veiliger, vriendelijker en innovatiever te maken. <br>
-De ontwikkeling van vriendelijker web gaat echter niet vanzelf: er is een brede bewustwording, onderzoek en ontwikkeling voor nodig.
+De ontwikkeling van een vriendelijker web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
 De missie van de Stichting Solid Community is om die beweging te organiseren vanuit een onafhankelijke en neutrale insteek.
 <br>
 Dat doen we door: 
 
 * bewustwording en cross-sectorale samenwerking te organiseren en zo;<br> 
-* een **sectorbrede groeiende coalitie en community van samenwerking** te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te harmoniseren tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
+* een **sectorbrede coalitie en community van samenwerking** te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te harmoniseren tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
 * Daarnaast ontwikkelen we samen met partners **concrete voorbeelden en toepassingen**.
 
 [**>> Lees meer over Solid, onze missie en aanpak**](aanpak.html)
