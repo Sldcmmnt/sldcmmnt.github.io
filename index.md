@@ -15,15 +15,16 @@ image:
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
 Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken. <br>
-Solid is **toepasbaar in vrijwel alle sectoren**, van de energiesector, media, retail, gezondheidszorg tot overheid.
-De ontwikkeling van een vriendelijker web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
+Solid kan **meerwaarde in alle sectoren** leveren; van de energiesector, media, retail, gezondheidszorg tot overheid door een **verbetering van dienstverlening en gebruiksvriendelijkheid**.
+De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
 De missie van de Stichting Solid Community is om die beweging te organiseren vanuit een onafhankelijke en neutrale insteek.
 <br>
 Dat doen we door: 
 
-* **bewustwording** en cross-sectorale samenwerking te organiseren en zo;<br> 
-* een **brede community** met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen te realiseren om samen te werken in onderzoek, ontwikkeling en kennisdeling. Zo wordt de ontwikkeling van zaken zoals architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel. <br> 
-* Om de **meerwaarde** te laten zien, ontwikkelen we samen met deelnemers **concrete voorbeelden en toepassingen**.
+* verbreden van **bewustwording** en **cross-sectorale samenwerking in veilig en verantwoord data delen** <br> 
+* realiseren van een **brede community** met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, die **samenwerken in onderzoek, ontwikkeling en kennisdeling**. 
+<br> Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel. <br> 
+* Ontwikkelen, samen met deelnemers, van **concrete voorbeelden en toepassingen** om de **meerwaarde** te laten zien.
 
 [**>> Lees meer over Solid, onze missie en aanpak**](aanpak.html)
 <br>
