@@ -23,7 +23,7 @@ Dat doen we door:
 
 * verbreden van **bewustwording** en **cross-sectorale samenwerking in veilig en verantwoord data delen** <br> 
 
-* realiseren van een **brede community** met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, die **samenwerken in onderzoek, ontwikkeling en kennisdeling**. 
+* realiseren van een **brede community** met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, en die verbinden en ondersteunen in het **samenwerken in onderzoek, ontwikkeling en kennisdeling**. 
 <br> Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel. <br> 
 
 * Ontwikkelen, samen met deelnemers, van **concrete voorbeelden en toepassingen** om de **meerwaarde** te laten zien.
