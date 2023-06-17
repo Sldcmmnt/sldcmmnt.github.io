@@ -67,7 +67,7 @@ Meer weten over projecten in ontwikkeling? Neem contact op met <loopbaan@solidco
 Actuele contactgegevens zijn nuttig en nodig voor dienstverlenende organisaties om in contact te kunnen komen met hun klanten. Via een datakluis kan dit eenvoudig en gemakkelijk gerealiseerd worden. Zo kan er meer tijd worden besteed aan datgene waar het echt om draait: service verlenen.
 Meer weten over projecten in ontwikkeling? Neem contact op met <service@solidcommunity.nl>
 
-## Andere domeinen en sectoren
+### Andere domeinen en sectoren
 Naast bovenstaande voorbeelden is Solid in vele andere domeinen inzetbaar, van overheid, energie, retail, cultuursector, en vele andere sectoren.
 Ben je benieuwd wat de open technologie van Solid kan betekenen in jouw sectoren?
 Neem dan contact op met <info@solidcommunity.nl>
