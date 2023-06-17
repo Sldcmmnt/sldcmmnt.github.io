@@ -54,18 +54,18 @@ In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd 
 
 ### **Mijn gezondheid**
 Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken. In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn. Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context.<br>
-Meer weten over projecten in ontwikkeling? Neem contact op met <gezondheid@solidcommunity.nl>
+Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op met <gezondheid@solidcommunity.nl>
 <br>
 
 ### **Mijn carrière en studie**
 Het delen van je diploma is een veel voorkomende situatie bij solliciteren of bijv. het aantonen in de zorg dat je over de juiste papieren beschikt. <br>
 Met behulp van o.a. datakluizen kun je deze veilig en verantwoord delen. <br>
-Meer weten over projecten in ontwikkeling? Neem contact op met <loopbaan@solidcommunity.nl>
+Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op met <loopbaan@solidcommunity.nl>
 <br>
 
 ### **Mijn services**
 Actuele contactgegevens zijn nuttig en nodig voor dienstverlenende organisaties om in contact te kunnen komen met hun klanten. Via een datakluis kan dit eenvoudig en gemakkelijk gerealiseerd worden. Zo kan er meer tijd worden besteed aan datgene waar het echt om draait: service verlenen.
-Meer weten over projecten in ontwikkeling? Neem contact op met <service@solidcommunity.nl>
+Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op met <service@solidcommunity.nl>
 
 ### Andere domeinen en sectoren
 Naast bovenstaande voorbeelden is Solid in vele andere domeinen inzetbaar, van overheid, energie, retail, cultuursector, en vele andere sectoren.
