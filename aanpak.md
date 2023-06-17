@@ -21,6 +21,7 @@ Solid is toepasbaar in vrijwel alle sectoren, van de energiesector, media, gezon
 
 ### Dilemma zone 
 ![dilemma zone](img/aanpak/dilemma-zone.png)
+ <img src="img/aanpak/dilemma-zone.png"  width="80%" />
 Bovenstaande grafiek is een onderzoek van Clayton Christensen over opkomende technologiën zoals Solid. 
 Organisaties zijn vaak gericht op de bekende technologiën die ze onderhouden en verbeteren. In de initiële fase van opkomende technologiën zijn er vaak nog geen voorbeelden en concrete toepassingen. Het resultaat is vaak dat iedereen blijft afwachten tot de technologie verder is. Echter dan ontstaat geen beweging.
 Als Stichting Solid Community willen we die beweging op gang brengen en toeleiden naar adoptie.
