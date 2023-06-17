@@ -26,7 +26,7 @@ Bovenstaande grafiek is gebaseerd op een onderzoek van Clayton Christensen, prof
 Organisaties zijn vaak gericht op de bekende technologiën die ze onderhouden en verbeteren. In de initiële fase van opkomende technologiën zijn er vaak nog geen voorbeelden en concrete toepassingen. Het resultaat is vaak dat iedereen blijft afwachten tot de technologie verder is. Echter, dan ontstaat geen beweging.
 Als Stichting Solid Community willen we die beweging op gang brengen en toeleiden naar adoptie.
 
-![dilemma zone](img/aanpak/beweging.png)
+![beweging](img/aanpak/beweging.png)
 
 ## Onderzoeken in plaats van onderhouden
 Een opkomende technlogie vraagt daarbij een andere insteek dan een gevestigde technologie: een onderzoekende en iteratieve houding.
@@ -38,6 +38,9 @@ Een nieuwe technologie als Solid heeft invloed op allerlei onderdelen. Ze gaan n
 ## Brede community
 Het proces van onderzoek en ontwikkeling van Solid kunnen we in Nederland daarom alleen in samenhang aanpakken. Een community zorgt voor samenhang en harmonisatie van deze processen: samen leren, gezamenlijk uitdagingen aangaan en afstemmen zodat er uiteindelijk één geheel ontstaat voor de eindgebruiker.
 Samen met eindgebruikers, bedrijven, maatschappelijke organisaties, kennisinstellingen en overheid om zo een veiliger en innovatiever web te creëren.
+![brede samenwerking](img/aanpak/samenwerking.png)
+
+
 
 Wil jij onderdeel worden van een netwerk dat werkt aan een vriendelijker, veiliger, en innovatiever web?
 Neem dan contact op met ons via <samenwerken@solidcommunity.nl>
