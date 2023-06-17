@@ -37,7 +37,7 @@ Onderstaand twee uitlegvideo's over deze use cases. Meer achtergrondinformatie i
 Er zijn ontelbare voorbeelden te bedenken hoe Solid in sectoren meerwaarde kan leveren en toegepast kan worden.
 In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voorbereiding of in planning.
 
-### Mijn financiën
+### **Mijn financiën**
 Het aanvragen van inkomenstoeslagen voor burgers is vaak complex om meerdere redenen.
 In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen. Dit project heet het Virtueel Inkomsten Loket.
 <br>
@@ -51,13 +51,13 @@ In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd 
 [**>> Leer meer over het Viruteel Inkomsten Loket**](vil.html)
 <br>
 
-### Mijn gezondheid
+### **Mijn gezondheid**
 Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken. In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn. Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context.
 <br>
 
-### Mijn carrière
+### **Mijn carrière en studie**
 Het delen van je diploma is een veel voorkomende situatie bij solliciteren of aantonen in bijv. de zorg dat je over de juiste papieren beschikt. Met behulp van o.a. datakluizen kun je deze veilig en verantwoord delen.
 <br>
 
-### Mijn services
+### **Mijn services**
 Actuele contactgegevens zijn nuttig en nodig voor dienstverlenende organisaties om in contact te kunnen komen met hun klanten. Via een datakluis kan dit eenvoudig en gemakkelijk gerealiseerd worden. Zo kan er meer tijd worden besteed aan datgene waar het echt om draait: service verlenen.
