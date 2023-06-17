@@ -39,7 +39,7 @@ Een nieuwe technologie als Solid gaat niet alleen over techniek maar ook over ge
 <br>
 
 ## Brede community
-Solid kan cross-sectoraal worden gebruikt. Het proces van onderzoek en ontwikkeling van Solid kunnen we in Nederland daarom alleen in samenhang aanpakken. We bouwen aan een community zorgt voor samenhang en harmonisatie van deze processen: samen leren, gezamenlijk uitdagingen aangaan en afstemmen. Samen met eindgebruikers, bedrijven, maatschappelijke organisaties, kennisinstellingen en overheid om zo een veiliger en innovatiever web te creëren.
+Solid kan cross-sectoraal worden gebruikt. Het proces van onderzoek en ontwikkeling van Solid kunnen we in Nederland daarom alleen in samenhang aanpakken. We bouwen aan een community om te zorgen voor samenhang en harmonisatie van deze processen: samen leren, gezamenlijk uitdagingen aangaan en afstemmen. Samen met eindgebruikers, bedrijven, maatschappelijke organisaties, kennisinstellingen en overheid om zo een veiliger en innovatiever web te creëren.
 ![brede samenwerking](img/aanpak/samenwerking.png)
 
 <br>
