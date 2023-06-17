@@ -35,12 +35,11 @@ Dit is een andere houding dan plannen en onderhouden, en dat is vaak wennen voor
 <br>
 
 ## Samenhang en integrale transitie
-Een nieuwe technologie als Solid heeft invloed op allerlei onderdelen. Ze gaan niet alleen over techniek maar ook over gebruikers meer centraal stellen en regie geven, een nieuw digitaal landschap creëren, gedrag, communicatie, bedrijfsmodellen en de rol van de overheid. Voor een optimale ontwikkeling en adoptie moeten de verschillende onderdelen zoals de architectuur en governance op elkaar worden afgestemd en in samenhang zijn.
+Een nieuwe technologie als Solid gaat niet alleen over techniek maar ook over gebruikers meer centraal stellen en regie geven, een nieuw digitaal landschap creëren, gedrag, communicatie, bedrijfsmodellen en de rol van de overheid. Voor een optimale ontwikkeling en adoptie moeten de verschillende onderdelen zoals de architectuur en governance op elkaar worden afgestemd en in samenhang zijn.
 <br>
 
 ## Brede community
-Het proces van onderzoek en ontwikkeling van Solid kunnen we in Nederland daarom alleen in samenhang aanpakken. Een community zorgt voor samenhang en harmonisatie van deze processen: samen leren, gezamenlijk uitdagingen aangaan en afstemmen zodat er uiteindelijk één geheel ontstaat voor de eindgebruiker.
-Samen met eindgebruikers, bedrijven, maatschappelijke organisaties, kennisinstellingen en overheid om zo een veiliger en innovatiever web te creëren.
+Solid kan cross-sectoraal worden gebruikt. Het proces van onderzoek en ontwikkeling van Solid kunnen we in Nederland daarom alleen in samenhang aanpakken. Een community zorgt voor samenhang en harmonisatie van deze processen: samen leren, gezamenlijk uitdagingen aangaan en afstemmen. Samen met eindgebruikers, bedrijven, maatschappelijke organisaties, kennisinstellingen en overheid om zo een veiliger en innovatiever web te creëren.
 ![brede samenwerking](img/aanpak/samenwerking.png)
 
 <br>
