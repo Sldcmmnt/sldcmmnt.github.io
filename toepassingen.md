@@ -50,6 +50,7 @@ In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd 
 
 [**>> Leer meer over het Viruteel Inkomsten Loket**](vil.html)
 <br>
+<br>
 
 ### **Mijn gezondheid**
 Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken. In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn. Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context.
