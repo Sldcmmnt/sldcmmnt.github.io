@@ -28,7 +28,7 @@ In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd 
 Veel mensen maken geen gebruik van inkomensregelingen waar ze wel recht op hebben. De procedures om aan te vragen zijn te ingewikkeld. En ze hebben geen vertrouwen in de overheid. Het Virtueel Inkomsten Loket maakt het aanvragen makkelijker. Zo staat de burger echt centraal in plaats van de regelingen. En functioneert de overheid als een open, transparante en samenhangende overheid.
 
 ## Samenwerkingspartners in het Virtueel Inkomsten Loket
-Project- of uitvoeringspartners: VNG Realisatie, gemeenten Utrecht, Amersfoort, Buuren, Eindhoven, IGS (ministerie van SZW), ICTU
+Project- of uitvoeringspartners: VNG Realisatie, gemeenten Utrecht, Amersfoort, Buren, Eindhoven, IGS (ministerie van SZW), ICTU
 
 ## Beschrijving
 Het Virtueel Inkomsten Loket is een open source project, dat werkt aan een oplossing waarbij inwoners met een simpele druk op de knop alle regelingen waar zij recht op hebben kunnen aanvragen. Een groot deel van die aanvragen kan ook direct en automatisch worden goedgekeurd via Virtueel Inkomsten Loket. 
