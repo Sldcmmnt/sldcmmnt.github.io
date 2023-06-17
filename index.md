@@ -21,8 +21,8 @@ De missie van de Stichting Solid Community is om die beweging te organiseren van
 Dat doen we door: 
 
 * bewustwording en cross-sectorale samenwerking te organiseren en zo;<br> 
-* een **sectorbrede coalitie en community van samenwerking** te realiseren in onderzoek, ontwikkeling, kennisdeling en kruisbestuiving om zo de ontwikkeling van zaken zoals architectuur, governance en adoptie te harmoniseren tot een samenhangend geheel en uitdagingen samen aan te gaan. <br> 
-* Daarnaast ontwikkelen we samen met partners **concrete voorbeelden en toepassingen**.
+* een **brede community** met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen te realiseren om samen te werken in onderzoek, ontwikkeling en kennisdeling. Zo wordt de ontwikkeling van zaken zoals architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel. <br> 
+* Om de meerwaarde aan te tonen ontwikkelen we samen met deelnemers **concrete voorbeelden en toepassingen**.
 
 [**>> Lees meer over Solid, onze missie en aanpak**](aanpak.html)
 <br>
