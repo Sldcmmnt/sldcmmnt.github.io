@@ -17,7 +17,7 @@ We werken doelgericht en stapsgewijs aan:
 
 * **concrete toepassingen** om veilig en verantwoord data delen te realiseren, en dienstverlening en gebruikservaring te verbeteren. <br>
   [**>> bekijk toepassingen**](toepassingen.html)
-* een samenhangende community van organisaties voor **gezamelijke ontwikkeling en onderzoek** rondom bijvoorbeeld architectuur, governance en verdere adoptie.
+* een samenhangende community van organisaties voor **gezamenlijke ontwikkeling en onderzoek** rondom bijvoorbeeld architectuur, governance en verdere adoptie.
 <br>
 Wanneer je samenwerkt met de Solid Community blijf je op de hoogte van alle ontwikkelingen en informatie-meetups en ben je onderdeel van een ecosysteem om samen te leren en ontwikkelen.
 <br>
