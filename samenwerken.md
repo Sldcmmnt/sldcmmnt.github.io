@@ -21,6 +21,7 @@ We werken doelgericht en stapsgewijs aan:
 <br>
 Wanneer je samenwerkt met de Solid Community blijf je op de hoogte van alle ontwikkelingen en informatie-meetups en ben je onderdeel van een ecosysteem om samen te leren en ontwikkelen.
 <br>
-Wil je meewerken aan een vriendelijker web en betere dienstverlening waarin de mens centraal staat?
-Neem dan contact op via: <samenwerken@solidcommunity.nl> <br>
+Wil je meewerken aan een vriendelijker web en betere dienstverlening waarin de mens centraal staat? <br>
+Neem dan contact op via: samenwerken@solidcommunity.nl
+<br>
 <br>
