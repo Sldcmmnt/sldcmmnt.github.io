@@ -43,7 +43,7 @@ In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen va
 <br>
 In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
  
-<video width= "80%" poster="img/VIL/placeholder-vil.png" controls>
+<video width= "85%" poster="img/VIL/placeholder-vil.png" controls>
   <source src="img/VIL/VIL.mp4" type="video/mp4">
   </video>
 <br>
