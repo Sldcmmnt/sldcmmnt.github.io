@@ -69,7 +69,7 @@ Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op met 
 
 ### Andere domeinen en sectoren
 Naast bovenstaande voorbeelden is Solid in vele andere domeinen inzetbaar, van overheid, energie, retail, cultuursector, en vele andere sectoren.
-Ben je benieuwd wat de open technologie van Solid kan betekenen in jouw sectoren?
+Ben je benieuwd wat de open technologie van Solid kan betekenen in jouw sectoren? <br>
 Neem dan contact op met <info@solidcommunity.nl>
 <br>
 <br>
