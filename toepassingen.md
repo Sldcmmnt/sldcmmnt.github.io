@@ -23,11 +23,11 @@ In Vlaanderen is de Vlaamse overheid via het Vlaams DataNutsbedrijf, dat onlang 
 Twee projecten waar momenteel aan gewerkt wordt zijn de use case over diploma delen, en een use case over loongegevens delen.
 Onderstaand twee uitlegvideo's over deze use cases. Meer achtergrondinformatie is terug te vinden op de website van het Vlaams DataNutsbedrijf.
 
-<video width= "360" height="240" poster="img/banner-video-sander.png" controls>
+<video width= "80%" poster="img/banner-video-sander.png" controls>
   <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sander_-_diploma_case_vfbdxe" type="video/mp4">
   </video>
 <br>
-<video width= "360" height="240" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_90,w_1280/Sarah_1_bn2vj2.jpg" controls>
+<video width= "80%" poster="https://assets.vlaanderen.be/video/upload/c_scale,q_90,w_1280/Sarah_1_bn2vj2.jpg" controls>
   <source src="https://assets.vlaanderen.be/video/upload/c_scale,f_mp4,q_90,w_1280/Sarah_1_bn2vj2" type="video/mp4">
   </video>
 <br> 
@@ -36,11 +36,19 @@ Onderstaand twee uitlegvideo's over deze use cases. Meer achtergrondinformatie i
 ## Nederlandse voorbeelden in voorbereiding
 Er zijn ontelbare voorbeelden te bedenken hoe Solid in sectoren meerwaarde kan leveren en toegepast kan worden.
 In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voorbereiding of in planning.
-Zodra de voltooing nadert volgt er meer informatie.<br>
-<br>
 
 ### Mijn financiën
-Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegevens nodig. Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.
+Het aanvragen van inkomenstoeslagen voor burgers is vaak complex om meerdere redenen.
+In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen. Dit project heet het Virtueel Inkomsten Loket.
+<br>
+In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
+ 
+<video width= "80%" controls>
+  <source src="img/VIL/VIL.mp4" type="video/mp4">
+  </video>
+<br>
+
+[**>> Leer meer over het Viruteel Inkomsten Loket**](vil.html)
 <br>
 
 ### Mijn gezondheid
