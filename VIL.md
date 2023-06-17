@@ -18,7 +18,7 @@ De open source applicatie is ontwikkeld door: [Muze](www.muze.nl){:target="_blan
 
 In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
  
-<video width= "90%" controls>
+<video width= "90%" poster="img/vil/placeholder-vil.png" controls>
   <source src="img/VIL/VIL.mp4" type="video/mp4">
   </video>
 
