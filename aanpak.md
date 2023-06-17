@@ -20,9 +20,9 @@ De open technologie achter Solid maakt het bijvoorbeeld mogelijk om in een perso
 Solid is toepasbaar in vrijwel alle sectoren, van de energiesector, media, gezondheidszorg tot overheid. Zowel een verbetering van de gebruikerservaring als de dienstverlening kan hierdoor worden mogelijk gemaakt. Een uitbreiding op het huidige web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
 
 ### Dilemma zone 
-![dilemma zone](img/dilemma-zone.png)
+![dilemma zone](img/aanpak/dilemma-zone.png)
 Bovenstaande grafiek is een onderzoek van Clayton Christensen over opkomende technologiën zoals Solid. 
 Organisaties zijn vaak gericht op de bekende technologiën die ze onderhouden en verbeteren. In de initiële fase van opkomende technologiën zijn er vaak nog geen voorbeelden en concrete toepassingen. Het resultaat is vaak dat iedereen blijft afwachten tot de technologie verder is. Echter dan ontstaat geen beweging.
 Als Stichting Solid Community willen we die beweging op gang brengen en toeleiden naar adoptie.
 
- 
+![dilemma zone](img/aanpak/beweging.png)
