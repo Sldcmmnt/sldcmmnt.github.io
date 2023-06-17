@@ -48,7 +48,7 @@ In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd 
   </video>
 <br>
 
-[**>> Leer meer over het Viruteel Inkomsten Loket**](vil.html)
+[**>> Leer meer over het Virtueel Inkomsten Loket**](vil.html)
 <br>
 <br>
 
