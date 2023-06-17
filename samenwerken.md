@@ -15,9 +15,9 @@ Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan m
 
 We werken doelgericht en stapsgewijs aan:
 
-* concrete toepassingen om veilig en verantwoord data delen te realiseren, en dienstverlening en gebruikservaring te verbeteren.
+* **concrete toepassingen** om veilig en verantwoord data delen te realiseren, en dienstverlening en gebruikservaring te verbeteren. <br>
   [**>> bekijk toepassingen**](toepassingen.html)
-* een samenhangend ecosysteem van organisaties voor gezamelijke ontwikkeling en onderzoek rondom architectuur, governance, adoptie en kennisdeling.
+* een samenhangende community van organisaties voor **gezamelijke ontwikkeling en onderzoek** rondom bijvoorbeeld architectuur, governance en verdere adoptie.
 <br>
 Wanneer je samenwerkt met de Solid Community blijf je op de hoogte van alle ontwikkelingen en informatie-meetups en ben je onderdeel van een ecosysteem om samen te leren en ontwikkelen.
 <br>
