@@ -14,7 +14,7 @@ image:
 ---
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
-Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web veiliger, vriendelijker en innovatiever te maken. <br>
+Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken. <br>
 De ontwikkeling van een vriendelijker web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
 De missie van de Stichting Solid Community is om die beweging te organiseren vanuit een onafhankelijke en neutrale insteek.
 <br>
