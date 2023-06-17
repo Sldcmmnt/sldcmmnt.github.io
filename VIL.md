@@ -12,7 +12,7 @@ Huurtoeslag, individuele inkomenstoeslag, woonkostentoeslag en andere regelingen
 Het Virtueel Inkomsten Loket wil een simpel, digitaal loket ontwikkelen voor alle regelingen. Het loket kan door elke inwoner of hulpverlener worden gebruikt. In dat loket is direct te zien waar inwoners recht op hebben, en de tegemoetkoming wordt meteen toegekend. Elke maand kan een inwoner een check doen, om te bekijken of gegevens nog up to date zijn. Achter de schermen kunnen gemeenten vertrouwen op de gevalideerde data van de inwoner. Verandert er iets aan een regeling, dan kunnen ze dat aanpassen in een beheermodule.
 
 ## Project fase 1
-Als Stichting Solid Community zijn we gevraagd om een eerste demonstratie te ontwikkelen van een datakluis in combinatie met het Virtueel Inkomsten Loket.<br>
+Als Stichting Solid Community zijn we gevraagd om een eerste demonstratie te ontwikkelen voor het aanvragen van toeslagen te vereenvoudigen in combinatie met een datakluis gebaseerd op de open technologie van Solid.<br>
 De opdrachtgever van dit project: [ICTU](www.ICTU.nl){:target="_blank" rel="noopener"} , de innovatieorganisatie opgericht door de Nederlands overheid en een partner van de Stichting Solid Community in veilig en verantwoord data delen. <br>
 De open source applicatie is ontwikkeld door: [Muze](www.muze.nl){:target="_blank" rel="noopener"}, een technische implementatiepartner van de Stichting Solid Community.
 
