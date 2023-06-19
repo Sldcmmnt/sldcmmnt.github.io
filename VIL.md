@@ -6,7 +6,9 @@ permalink: /vil.html
 
 # Virtueel Inkomsten Loket
 
-Huurtoeslag, individuele inkomenstoeslag, woonkostentoeslag en andere regelingen zijn bedoeld voor kwetsbare inwoners. Maar zij maken niet altijd gebruik van de regelingen waar ze recht op hebben, omdat de procedures te ingewikkeld zijn. Het Virtueel Inkomsten Loket gebruikt gegevens die al bekend zijn, om met één druk op de knop aanvragen in te vullen én te beoordelen. Daarmee kan een inwoner sneller en makkelijker aanvragen. 
+Huurtoeslag, individuele inkomenstoeslag, woonkostentoeslag en andere regelingen zijn bedoeld voor kwetsbare inwoners. Maar zij maken niet altijd gebruik van de regelingen waar ze recht op hebben, omdat de procedures te fragemneteerd en ingewikkeld zijn. Het Virtueel Inkomsten Loket gebruikt gegevens die al bekend zijn, om met een aantal eenvoudige handelingen aanvragen in te vullen, te beoordelen én regelmatig te checken op eventuele wijzigingen. Daardoor kan een inwoner sneller en makkelijker regelingen aanvragen. De inwoner staat hierdoor echt centraal in plaats van de regelingen.
+En de overheid functioneert als een samenhangende, transparante en dienstverlenende overheid.
+
 
 ## Praktijkvoorbeeld
 Het Virtueel Inkomsten Loket wil een simpel, digitaal loket ontwikkelen voor alle regelingen. Het loket kan door elke inwoner of hulpverlener worden gebruikt. In dat loket is direct te zien waar inwoners recht op hebben, en de tegemoetkoming wordt meteen toegekend. Elke maand kan een inwoner een check doen, om te bekijken of gegevens nog up to date zijn. Achter de schermen kunnen gemeenten vertrouwen op de gevalideerde data van de inwoner. Verandert er iets aan een regeling, dan kunnen ze dat aanpassen in een beheermodule.
