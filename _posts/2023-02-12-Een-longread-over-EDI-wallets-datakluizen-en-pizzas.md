@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog / Longread: Een longread over EDI-wallets, datakluizen en pizza’s"
-categories: misc
+categories: news
 author: 
 - Gijs van den Beucken
 - Leestijd ca. 15 minuten
