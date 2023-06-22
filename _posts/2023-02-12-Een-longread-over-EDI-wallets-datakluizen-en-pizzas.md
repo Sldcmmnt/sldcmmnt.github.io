@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Een longread over EDI-wallets, datakluizen en pizza’s"
+title: "Blog / Longread: Een longread over EDI-wallets, datakluizen en pizza’s"
 categories: misc
 author: 
 - Gijs van den Beucken
