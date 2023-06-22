@@ -8,6 +8,7 @@ image:
   width: 800
 ---
 
+## Op bezoek bij de Europese Commissie
 Zowel in Nederland als Europa zijn persoonlijke data omgevingen een opkomende technologie. 
 Onlangs waren we daarom aanwezig bij een workshop van de Europese Commissie om samen met andere deelnemers uit Europa te bespreken hoe de weg naar interoperable Europese persoonlijke data omgevingen eruit kan zien de komende jaren.
 
