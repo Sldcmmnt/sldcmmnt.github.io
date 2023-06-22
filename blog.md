@@ -7,4 +7,4 @@
 #
 layout: blog_overview
 ---
-## Blogs
+## Actueel
