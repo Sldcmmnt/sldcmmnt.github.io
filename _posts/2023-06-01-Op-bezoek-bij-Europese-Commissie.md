@@ -17,4 +17,4 @@ Blijf op de hoogte via de pagina van Stichting Solid Community voor meer nieuws 
 
 Met dank aan Interoperable Europe, de organisatoren en alle deelnemers!
 
-<img src="img/news/Europese-commissie.jpeg" style="width:70%;">
+<img src="https://www.solidcommunity.nl/img/news/Europese-commissie.jpeg" style="width:70%;">
