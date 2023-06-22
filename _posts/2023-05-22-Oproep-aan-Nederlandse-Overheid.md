@@ -50,4 +50,4 @@ In sectoren waar we als Stichting Solid Community actief zijn komen wallets i.c.
 Ook vanuit gebruiksvriendelijkheid: Een mens is burger, patiënt, consument etc.
 Harmonisatie van deze verschillende klantreizen en bijbehorende techniek is daarom belangrijk, zodat er een overzichtelijke digitale omgeving geboden wordt aan inwoners in al hun rollen.
 
-<img src="img/news/oproep-aan-de-Nederlandse-overheid.jpeg" style="width:70%;">
+<img src="https://www.solidcommunity.nl/img/news/oproep-aan-de-Nederlandse-overheid.jpeg" style="width:70%;">
