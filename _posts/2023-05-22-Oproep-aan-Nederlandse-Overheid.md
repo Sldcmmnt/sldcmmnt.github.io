@@ -31,14 +31,14 @@ Als dit reactief gebeurt (lees: pas achteraf, na opschaling) dan ontstaat er een
 Een visie kan pas ontstaan zodra de Nederlandse overheid voldoende inzicht heeft in de techniek, dynamiek, samenhang en welke kaders en afstemming nodig zijn om deze in goede banen te leiden.
 
 Bij deze de oproep aan de Nederlandse overheid om over te gaan tot meer actie rondom deze opkomende infrastructuur.
-We denken hierbij aan de volgende onderdelen:
-- Technische en interoperabiliteit analyse
-- Gebruiksvriendelijkheid analyse 
-- Harmonisatie analyse
-- Governance analyse
-- Analyse scenario’s voor aanbieders van datakluizen en wallets en bijbehorende mogelijke financiële modellen
-- Opstellen van een DPIA
-
+We denken hierbij aan de volgende onderdelen: <br>
+- Technische en interoperabiliteit analyse <br>
+- Gebruiksvriendelijkheid analyse <br>
+- Harmonisatie analyse <br>
+- Governance analyse <br>
+- Analyse scenario’s voor aanbieders van datakluizen en wallets en bijbehorende mogelijke financiële modellen <br>
+- Opstellen van een DPIA <br>
+<br>
 Daarnaast is afstemming wenselijk: Persoonlijke data-omgevingen maken het mogelijk om cross-sectoraal data te delen. Op dit moment zijn er meerdere sectoren die datakluizen en wallets verkennen, vaak zonder afstemming onderling.
 Harmonisatie van deze ontwikkelingen, het afstemmen van governance, technische interoperabiliteit en hergebruik van technische componenten zorgt voor efficiënte inzet van publieke middelen en een geharmoniseerde klantreis voor de eindgebruiker: de inwoners van Nederland.
 
