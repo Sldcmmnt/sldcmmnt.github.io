@@ -12,8 +12,7 @@ image:
 
 We roepen de Nederlandse overheid op om te anticiperen op de opkomende technologie Solid omdat het steeds meer tractie krijgt in Nederland en dit kennis en kaders vraagt van de overheid.
 De overheid heeft namelijk een Werkagenda Waardengedreven Digitaliseren opgezet. 
-Solid past bijvoorbeeld heel concreet bij programmalijn, punt 2.3 uit deze werkagenda: [anticiperen op nieuwe technologie](https://www.digitaleoverheid.nl/werkagenda-waardengedreven-digitaliseren/#Anticiperen-op-nieuwe-digitale-technologie-Overzicht) 
-Maar ook bij de andere punten uit die programmalijn 2 en en de andere programmalijnen zoals regie op het digitale leven.
+Solid past bijvoorbeeld heel concreet bij programmalijn, punt 2.3 uit deze werkagenda: [anticiperen op nieuwe technologie](https://www.digitaleoverheid.nl/werkagenda-waardengedreven-digitaliseren/#Anticiperen-op-nieuwe-digitale-technologie-Overzicht), maar ook bij de andere punten uit die programmalijn 2 en en de andere programmalijnen zoals regie op het digitale leven.
  
 Onderstaande oproep is per mail naar de werkagenda verstuurd en ook op [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7066374452388716545) gedeeld. We hopen binnenkort in gesprek te komen over dit onderwerp met de juiste personen binnen de overheid.
 
