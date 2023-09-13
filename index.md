@@ -12,7 +12,7 @@ image:
   height: 518
   width: 291
 ---
-<a href="https://www.solidcommunity.nl"><p style="text-align: right;">English</p></a>
+<a href="https://www.solidcommunity.nl" style="text-align: right;">English</a>
 
 ## Samenwerken aan een vriendelijker, veiliger en innovatiever web
 Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken. <br>
