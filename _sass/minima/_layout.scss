@@ -8,7 +8,11 @@ vertical-align: middle;
  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
  margin-right: 15px;
     }
-
+.image_header_en img {
+  float: left;
+  vertical-align: middle;
+  margin-right: 15px;
+ }
 .projectblock img {
   float: right;
   height: 144px;
