@@ -14,7 +14,7 @@ We use Solid to create a digital human-centric web which supports health, financ
 ## Community
 We embed this vision into society by a growing communnity of governmental and public organisations, researchers, organisations in health, energy and other domains.
 
-Although international projects are in preperation, since we are founded in the Netherlands our [Dutch website](https://www.solidcommunity.nl) is for now more extensive with information. <br>
+Although international projects are in preparation, since we are founded in the Netherlands our [Dutch website](https://www.solidcommunity.nl) is for now more extensive with information. <br>
 
 For more information in English please contact: [info@solidcommunity.nl](info@solidcommunity.nl)
 
