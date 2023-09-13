@@ -6,9 +6,11 @@ permalink: /en/index.html
 
 ## What we do
 Solid Community Foundation helps to build a human-centric society through responsible digisation, in the Netherlands as well as international contexts in Europe. <br>
-Solid is a vision and a set of technical specifications to build a friendlier, safer, and more innovative web. The movement is started by founder of the world wide web Sir Tim Berners Lee and growing in Europe.<br>
-We use this vision to create a ecosystem that supports health, finances, sustainability and overall better services.
+Solid is a vision and a set of technical specifications to build a more friendly, safe, and innovative web. <br>
+The movement is started by founder of the world wide web Sir Tim Berners Lee and growing in Europe.<br>
+We use Solid to create a digital human-centric web which supports health, financial health, sustainability and overall better services.
 <br>
+
 ## Community
 We embed this vision into society by a growing communnity of governemental and public organisations, researchers, organisations in health, energy and other domains.
 
