@@ -49,6 +49,7 @@ minima:
 # order as they should show up.
 #
 header_pages:
+- english.md
 - toepassingen.md
 - samenwerken.md
 - aanpak.md
