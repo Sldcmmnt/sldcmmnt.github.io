@@ -4,6 +4,6 @@ title: Solid Community Foundation
 permalink: /en/index.html
 ---
 
-Solid Community Foundation helps to build a human-centric society through responsible digisation 
-We use it to enhance service to support health, finances, sustainability and overall better services.
+Solid Community Foundation helps to build a human-centric society through responsible digisation. 
+We aspire to support health, finances, sustainability and overall better services.
 
