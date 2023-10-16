@@ -127,7 +127,8 @@ vertical-align: middle;
     margin-left: 20px;
   }
 
-  @media screen and (min-width: $on-medium) {
+  //@media screen and (min-width: $on-medium) {
+  @media screen {
     position: static;
     float: right;
     border: none;
