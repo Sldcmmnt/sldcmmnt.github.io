@@ -46,7 +46,7 @@ minima:
 #
 header_pages:
 # - En_index.md
-- toepassingen.md
+- /_pages/toepassingen.md
 - samenwerken.md
 - aanpak.md
 - blog.md
