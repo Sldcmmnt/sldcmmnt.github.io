@@ -91,7 +91,8 @@ vertical-align: middle;
     text-align: center;
 
     > svg path {
-      fill: $border-color-03;
+      //fill: $border-color-03;
+     fill: #777777;
     }
   }
 
