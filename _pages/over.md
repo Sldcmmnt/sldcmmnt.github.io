@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Over
 ---
 ## Over Stichting Solid Community
