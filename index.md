@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Solid Community - Nederland
+title: Home
 image:
   path: img/page/ballonnen.jpg
   height: 518
