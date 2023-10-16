@@ -49,6 +49,7 @@ minima:
 #
 header_pages:
 # - En_index.md
+- index.md
 - _pages/toepassingen.md
 - _pages/samenwerken.md
 - _pages/aanpak.md
