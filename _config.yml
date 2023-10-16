@@ -14,6 +14,9 @@ theme: minima
 kramdown:
   input: Kramdown
 
+include:
+  - _pages
+
 collections:
   pages:
     output: true
@@ -46,10 +49,10 @@ minima:
 #
 header_pages:
 # - En_index.md
-- /_pages/toepassingen.md
-- samenwerken.md
-- aanpak.md
-- blog.md
+- _pages/toepassingen.md
+- _pages/samenwerken.md
+- _pages/aanpak.md
+- _pages/blog.md
 - over.md
 
 # Set to `true` to show excerpts on the homepage.
