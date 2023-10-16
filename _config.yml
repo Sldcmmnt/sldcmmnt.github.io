@@ -53,7 +53,7 @@ header_pages:
 - _pages/samenwerken.md
 - _pages/aanpak.md
 - _pages/blog.md
-- over.md
+- _pages/over.md
 
 # Set to `true` to show excerpts on the homepage.
 #
