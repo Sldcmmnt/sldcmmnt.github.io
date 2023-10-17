@@ -2,3 +2,8 @@
   max-width: 30%;
   float: right;
 }
+@media (max-width: 570px) {
+.cssimg {
+float:none;
+margin: 0 auto;
+}
