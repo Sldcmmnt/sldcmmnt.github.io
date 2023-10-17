@@ -10,14 +10,21 @@ layout: home
 
 
 
-<div class="container">
-      <div class="imageneartext">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
-      </div>
-      <div class="textnearimage">
-        <h1>Paris is one of the most magnificient cities in France.</h1>
-      </div>
+<div class="row row-content">
+    <div class="col text  order-1">
+<h2>
+Titel
+</h2>                                
+<p>
+tekst, tekst, tekst, tekst
+</p>                              
+  </div>
+    <div class="col image order-2">
+    <div class="svg svg-rocket">
+    <img src="https://picsum.photos/200">
     </div>
+    </div>
+</div>
 
 
 
