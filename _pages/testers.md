@@ -10,7 +10,7 @@ layout: home
 
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
-
+![Flowers](/img/plaatje.jpg){: .cssimg}
 
 
 ## Testers en voorbeelden 
