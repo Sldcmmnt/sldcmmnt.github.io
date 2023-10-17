@@ -7,14 +7,8 @@
 #
 layout: home
 title: Toepassingen
+description: Door het gebruik van Solid kunnen dienstverlening en gebruikservaring verbeteren en ontstaan mogelijkheden om **GDPR-compliant samen te werken met ketenpartners**. Solid is toepasbaar in verschillende sectoren en domeinen zoals de zorg, energie, gemeentes, uitvoeringsorganisaties van de overheid, maar ook retail, media etc.
 ---
-
-# Toepassingen
-Door het gebruik van Solid kunnen dienstverlening en gebruikservaring verbeteren.
-Ook ontstaan er meer mogelijkheden om **GDPR-compliant samen te werken met ketenpartners**.
-
-Het is toepasbaar in verschillende sectoren en domeinen zoals de zorg, energie, gemeentes, uitvoeringsorganisaties van de overheid, maar ook retail, media etc.
-<br><br>
 
 ## Vlaamse voorbeelden
 
