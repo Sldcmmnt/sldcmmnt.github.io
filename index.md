@@ -46,7 +46,7 @@ Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, pub
 Meedoen met Solid Community
               </h2>
               <p>
-De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig. De missie van de Solid Community is om die beweging te organiseren vanuit een onafhankelijke en neutrale insteek. <br>
+De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig. De missie van de Solid Community is om die beweging op een verantwoorde manier te organiseren vanuit een onafhankelijke en neutrale insteek en gebaseerd op publieke waarden. <br>
 We ontwikkelen, samen met deelnemers, concrete voorbeelden en toepassingen om de meerwaarde te laten zien en in de praktijk te brengen. <br>
 We realiseren van een brede community met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, en die verbinden en ondersteunen in het samenwerken in onderzoek, ontwikkeling en kennisdeling. Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.
  </p>  
