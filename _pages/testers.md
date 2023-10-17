@@ -11,8 +11,8 @@ layout: home
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
 testing
-
-<details markdown="0">
+{::options parse_block_html="true" /}
+<details>
   <summary>Click me</summary>
   
   ### Heading
