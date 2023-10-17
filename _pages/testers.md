@@ -24,7 +24,7 @@ Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetre
             </div>         
         </div>
 {::options parse_block_html="true" /}
-        <div class="wrapperprojects"markdown="0">
+<div class="wrapperprojects"markdown="0">
             <div class="projectblock">
                 <div class="project_text">
                 <h2>
