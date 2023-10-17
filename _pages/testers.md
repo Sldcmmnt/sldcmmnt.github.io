@@ -9,15 +9,6 @@ layout: home
 title: Tester
 description: Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken.  Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, publieke sector, gezondheidszorg, media, retail tot overheid door veiliger en verantwoord data delen en een verbetering van dienstverlening en gebruiksvriendelijkheid.
 ---
-{::options parse_block_html="true" /}
-<div class="header1">
-<p>Vertrouwen in data</p>
-</div>
-
-{% for staff_member in site.staff_members %}
-  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
-  <p>{{ staff_member.content | markdownify }}</p>
-{% endfor %}
 
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
