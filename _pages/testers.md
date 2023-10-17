@@ -16,7 +16,7 @@ testing 1
 
 testing 2
 {::options parse_block_html="true" /}
-<details markdown="1">
+<details markdown="0">
   <summary>Click me</summary>
   
   ### Heading
