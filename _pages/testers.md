@@ -8,28 +8,39 @@
 layout: home
 ---
 
-<section class="section-steps">
-<div class="container">
-<div class="content">
-<div class="header">
-<div class="row why-item">
-  <div class="row row-content">
-    <div class="col text  order-1">
-<h2>
-Titel
-</h2>                                
-<p>
-tekst, tekst, tekst, tekst
-</p>                              
-  </div>
-    <div class="col image order-2">
-    <div class="svg svg-rocket">
-    <img src="https://picsum.photos/200">
-    </div>
-    </div>
-  </div>
-</div>
+         <div class="wrapperprojects">
+            
+            <div class="projectblock">
+             <div class="project_text">
+              <h2>
+Mijn financiën
+              </h2>
+              <p>
+Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegevens nodig.
+Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.
+                </p>
+              </div>
+                <img src="https://picsum.photos/200" alt="">
+            </div>         
+        </div>
 
+        <div class="wrapperprojects">
+          
+            <div class="projectblock">
+                <div class="project_text">
+                <h2>
+                Mijn gezondheid
+                </h2>
+                  <p>
+Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken.
+In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn.
+Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context. 
+                  </p>
+                </div>
+
+                  <img src="https://picsum.photos/200"  alt="" >
+            </div>
+        </div>
 
 
 
