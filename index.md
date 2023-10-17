@@ -27,7 +27,7 @@ Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, pub
 
                 </p>
               <div class="button_align">
-               <div class="button"><a class="button_link" href="/over">Lees meer</a></div>
+               <div class="button"><a class="button_link" href="/aanpak">Lees meer</a></div>
               </div>
               </div>
               <div class="project_img">
