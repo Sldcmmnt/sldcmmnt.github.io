@@ -7,7 +7,10 @@
 #
 layout: home
 ---
-
+{::options parse_block_html="true" /}
+<div class="header1">
+<p>Vertrouwen in data</p>
+</div>
 
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
