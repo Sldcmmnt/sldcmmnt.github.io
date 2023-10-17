@@ -32,12 +32,13 @@ min-height: 200px;
 
 .projectblock .project_text {
 float: left;
-
+width: 50%;
 
   }
 
 .projectblock img {
   float: right;
+ width: 50%;
   height: 144px;
   width: 144px;
  object-fit: cover;
