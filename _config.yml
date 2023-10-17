@@ -21,8 +21,6 @@ collections:
   pages:
     output: true
     permalink: /:path
-    
-collections:
   staff_members:
     people: true
   
