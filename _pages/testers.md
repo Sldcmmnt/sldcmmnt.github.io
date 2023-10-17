@@ -10,14 +10,16 @@ layout: home
 
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
+| titel |         |
+|-------|---------|
+| testing 1  | ![Flowers](/img/plaatje.jpg){: .cssimg} |
 
-testing 1
-![Flowers](/img/plaatje.jpg){: .cssimg}
+
 
 testing 2
 
-<details>
-  <summary>Click me</summary>
+<details markdown="1">
+  <summary markdown="1">Click me</summary>
   
 <div markdown="1">
   
