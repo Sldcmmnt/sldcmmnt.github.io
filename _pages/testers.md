@@ -21,9 +21,11 @@ testing 2
 <details markdown="1">
   <summary>Click me</summary>
   
-<div markdown="1">
+
+
   
   ### Heading
+  
   1. Foo
   2. Bar
      * Baz
@@ -31,12 +33,15 @@ testing 2
 
   
   ### Some Javascript
+  
   ```js
   function logSomething(something) {
     console.log('Something', something);
   }
   ```
-</div>
+
+
+
 </details>
 
 
