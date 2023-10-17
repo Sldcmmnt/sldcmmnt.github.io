@@ -18,7 +18,7 @@ layout: home
 
 testing 2
 
-<details >
+<details markdown="1">
   <summary>Click me</summary>
   
 
