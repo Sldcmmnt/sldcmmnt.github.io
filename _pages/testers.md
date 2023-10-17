@@ -53,9 +53,7 @@ We realiseren van een brede community met deelnemers zoals overheid, sectoren, m
 </div>
 
 {::options parse_block_html="true" /}
-hr.new4 {
-  border: 1px solid gray;
-}
+<hr class="line">
 
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
