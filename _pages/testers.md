@@ -19,7 +19,7 @@ layout: home
 testing 2
 
 <details markdown="1">
-  <summary markdown="1">Click me</summary>
+  <summary>Click me</summary>
   
 <div markdown="1">
   
