@@ -7,11 +7,8 @@
 #
 layout: home
 title: Samenwerken
+description: Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
 ---
-
-## Samenwerken aan een vriendelijker, veiliger en innovatiever web?
-
-Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
 
 We werken doelgericht en stapsgewijs aan:
 
