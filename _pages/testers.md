@@ -10,7 +10,27 @@ layout: home
 
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
 ![Flowers](/img/plaatje.jpg){: .cssimg}
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+
+
 
 
 ## Testers en voorbeelden 
