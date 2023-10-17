@@ -51,7 +51,7 @@ We ontwikkelen, samen met deelnemers, concrete voorbeelden en toepassingen om de
 We realiseren van een brede community met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, en die verbinden en ondersteunen in het samenwerken in onderzoek, ontwikkeling en kennisdeling. Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.
  </p>  
 <div class="button_align">
-<div class="button"><a class="button_link" href="samenwerken.html">Meedoen</a></div>
+<div class="button"><a class="button_link" href="samenwerken.html">Samen ontwikkelen</a></div>
   </div>      
               </div>         
         </div>
