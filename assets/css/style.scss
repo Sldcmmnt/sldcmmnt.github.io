@@ -47,7 +47,20 @@ align-items: center;
   height: 100%;
   align-self: center;
 }
-  
+
+.button {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.button_link {
+  background-color: transparent;
+  background-image: none;
+  border: 2px solid;
+  padding: 0.667em 1.333em;
+  min-width: 200px;
+}
+}
 
 /*RESPONSIVE ACTIONS*/
 
