@@ -10,7 +10,11 @@ layout: home
 
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
-testing
+
+testing 1
+![Flowers](/img/plaatje.jpg){: .cssimg}
+
+testing 2
 {::options parse_block_html="true" /}
 <details>
   <summary>Click me</summary>
@@ -20,8 +24,6 @@ testing
   2. Bar
      * Baz
      * Qux
-
-![Flowers](/img/plaatje.jpg){: .cssimg}
   
   ### Some Javascript
   ```js
