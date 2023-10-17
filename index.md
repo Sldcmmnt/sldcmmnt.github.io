@@ -6,7 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Home
+title: Werken aan een vriendelijker web
+description: tekst, tekst
 image:
   path: img/page/ballonnen.jpg
   height: 518
