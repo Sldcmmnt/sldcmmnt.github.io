@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
+```html
          <div class="wrapperprojects">
             
             <div class="projectblock">
@@ -42,7 +42,7 @@ Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunne
                   <img src="https://picsum.photos/200"  alt="" >
             </div>
         </div>
-
+```
 
 
 
