@@ -18,7 +18,8 @@ testing 2
 
 <details>
   <summary>Click me</summary>
-
+  
+<div markdown="1">
   
   ### Heading
   1. Foo
@@ -33,6 +34,7 @@ testing 2
     console.log('Something', something);
   }
   ```
+</div>
 </details>
 
 
