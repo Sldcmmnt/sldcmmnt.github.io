@@ -6,8 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: tester
-description: Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken. 
+title: Tester
+description: Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken.  Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, publieke sector, gezondheidszorg, media, retail tot overheid door veiliger en verantwoord data delen en een verbetering van dienstverlening en gebruiksvriendelijkheid.
 ---
 {::options parse_block_html="true" /}
 <div class="header1">
