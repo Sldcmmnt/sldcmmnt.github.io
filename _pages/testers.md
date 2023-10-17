@@ -8,8 +8,7 @@
 layout: home
 ---
 
-```html
-
+{::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
              <div class="project_text">
@@ -25,8 +24,7 @@ Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetre
             </div>         
         </div>
 
-        <div class="wrapperprojects">
-          
+        <div class="wrapperprojects"markdown="0">
             <div class="projectblock">
                 <div class="project_text">
                 <h2>
@@ -38,11 +36,10 @@ In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens i
 Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context. 
                   </p>
                 </div>
-
                   <img src="https://picsum.photos/200"  alt="" >
             </div>
         </div>
-```
+
 
 
 
