@@ -24,13 +24,13 @@ testing 2
 
 
   
-  ### Heading
+## Heading
   
   1. Foo
   2. Bar
      * Baz
      * Qux
-
+## Heading
 
 | titel |         |
 |-------|---------|
@@ -39,7 +39,7 @@ testing 2
 
 
   
-  ### Some Javascript
+### Some Javascript
   
   ```js
   function logSomething(something) {
