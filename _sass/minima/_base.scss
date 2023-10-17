@@ -70,6 +70,34 @@ img {
   vertical-align: middle;
 }
 
+img.imageneartext {
+  max-width: 50%;
+  max-height:50%;
+}
+
+.textnearimage {
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+
+/* Remove the default triangle */
+summary {
+  display: block;
+}
+
+/* Create a new custom triangle on the right side */
+summary::after {
+  margin-left: 1ch;
+  display: inline-block;
+  content: '▶️';
+  transition: 0.2s;
+}
+
+details[open] > summary::after {
+  transform: rotate(90deg);
+}
+
 
 
 /**
