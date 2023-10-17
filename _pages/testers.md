@@ -9,8 +9,8 @@ layout: home
 ---
 
 
-
-<div class="row row-content">
+<div class="row why-item">
+  <div class="row row-content">
     <div class="col text  order-1">
 <h2>
 Titel
@@ -24,6 +24,7 @@ tekst, tekst, tekst, tekst
     <img src="https://picsum.photos/200">
     </div>
     </div>
+  </div>
 </div>
 
 
