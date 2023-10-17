@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
+
 
 <div class="container">
       <div class="imageneartext">
