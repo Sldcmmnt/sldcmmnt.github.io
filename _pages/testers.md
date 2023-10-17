@@ -9,8 +9,8 @@ layout: home
 ---
 
 ```html
-         <div class="wrapperprojects">
-            
+
+<div class="wrapperprojects" markdown="0">
             <div class="projectblock">
              <div class="project_text">
               <h2>
