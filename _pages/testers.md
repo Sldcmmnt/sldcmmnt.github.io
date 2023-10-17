@@ -32,7 +32,7 @@ De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet va
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
              <div class="project_img">
-                <img src="/img/voorbeeld.2svg" alt="">
+                <img src="/img/voorbeeld2.svg" alt="">
             </div> 
  <div class="project_text">
               <h2>
