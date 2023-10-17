@@ -10,6 +10,7 @@ layout: home
 
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
+testing
 
 <details>
   <summary>Click me</summary>
@@ -21,6 +22,7 @@ layout: home
      * Qux
 
 ![Flowers](/img/plaatje.jpg){: .cssimg}
+  
   ### Some Javascript
   ```js
   function logSomething(something) {
