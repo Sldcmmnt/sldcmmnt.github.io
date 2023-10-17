@@ -16,7 +16,7 @@ testing 1
 
 testing 2
 
-<details markdown="1">
+<details>
   <summary>Click me</summary>
 
   
