@@ -11,10 +11,10 @@ layout: home
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
 <div class="container">
-      <div class="image">
+      <div class="imageneartext">
         <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
       </div>
-      <div class="text">
+      <div class="textnearimage">
         <h1>Paris is one of the most magnificient cities in France.</h1>
       </div>
     </div>
