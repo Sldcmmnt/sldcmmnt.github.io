@@ -86,11 +86,19 @@ align-items: center;
 }
 
 
-.button_link:visited, .button_link:hover, .button_link:link {
+.button_link:visited {
+text-decoration: none;
+color: black;
+}
+.button_link:hover {
 text-decoration: none;
 color: black;
 }
 
+.button_link:link {
+text-decoration: none;
+color: black;
+}
 
 /*RESPONSIVE ACTIONS*/
 
