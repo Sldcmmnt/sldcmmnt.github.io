@@ -8,6 +8,7 @@
 layout: home
 ---
 
+
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
@@ -23,23 +24,22 @@ Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetre
                 <img src="https://picsum.photos/200" alt="">
             </div>         
         </div>
-<div class="wrapperprojects"markdown="0">
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
             <div class="projectblock">
-                <div class="project_text">
-                <h2>
-                Mijn gezondheid
-                </h2>
-                  <p>
-Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken.
-In die zorgprocessen is de mens het scharnierpunt. Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn.
-Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context. 
-                  </p>
-                </div>
-                  <img src="https://picsum.photos/200"  alt="" >
-            </div>
+             <div class="project_text">
+              <h2>
+Mijn financiën
+              </h2>
+              <p>
+Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegevens nodig.
+Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.
+                </p>
+              </div>
+                <img src="https://picsum.photos/200" alt="">
+            </div>         
         </div>
-
-
 
 
 | titel |         |
