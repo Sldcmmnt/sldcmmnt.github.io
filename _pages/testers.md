@@ -15,15 +15,17 @@ testing 1
 ![Flowers](/img/plaatje.jpg){: .cssimg}
 
 testing 2
-{::options parse_block_html="true" /}
-<details markdown="0">
+
+<details markdown="1">
   <summary>Click me</summary>
+
   
   ### Heading
   1. Foo
   2. Bar
      * Baz
      * Qux
+
   
   ### Some Javascript
   ```js
