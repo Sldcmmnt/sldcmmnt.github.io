@@ -18,7 +18,7 @@ layout: home
 
 testing 2
 
-<details markdown="1">
+<details >
   <summary>Click me</summary>
   
 
@@ -30,6 +30,13 @@ testing 2
   2. Bar
      * Baz
      * Qux
+
+
+| titel |         |
+|-------|---------|
+| testing 1  | ![Flowers](https://picsum.photos/200){: .cssimg} |
+
+
 
   
   ### Some Javascript
@@ -86,8 +93,8 @@ A "newline". This text doesn't float anymore, is left-aligned.
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/){:target="_blank" rel="noopener"}
+[<img src="https://picsum.photos/200">](http://google.com.au/){:target="_blank" rel="noopener"}
 <br>
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/){:target="_blank" rel="noopener"}
+[![Foo](https://picsum.photos/200)](http://google.com.au/){:target="_blank" rel="noopener"}
 <br>
 [Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
