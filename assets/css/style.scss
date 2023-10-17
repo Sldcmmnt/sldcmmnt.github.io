@@ -29,13 +29,12 @@ padding: 0px;
 min-height: 200px;
 }
 
-.projectblock .project_text {
+.project_text {
 float: left;
 width: 50%;
-
   }
 
-.projectblock img {
+.project_img {
   float: right;
  width: 50%;
   height: 144px;
@@ -78,16 +77,12 @@ flex-direction: column;
 
 .projectblock .project_text {
   order: 1;
-  width: 75%;
+  width: 100%;
     }
 
-.projectblock img {
-      order: 2;
-      height: 90px;
-      width: 100px;
-
-      object-fit: cover;
-  
+.projectblock .project_img {
+      order: 2; 
+      width: 100%;
       margin-left: 5px;
       
       }
