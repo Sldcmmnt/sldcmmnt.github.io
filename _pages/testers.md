@@ -21,7 +21,7 @@ Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berne
 Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, publieke sector, gezondheidszorg, media, retail tot overheid door veiliger en verantwoord data delen en een verbetering van dienstverlening en gebruiksvriendelijkheid.
 De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig. De missie van de Stichting Solid Community is om die beweging te organiseren vanuit een onafhankelijke en neutrale insteek.
                 </p>
-<div class="button"><a class="button__link" href="/over/">Lees meer</a></div>
+<div class="button"><a class="button_link" href="/over/">Lees meer</a></div>
               </div>
               <div class="project_img">
                 <img src="/img/voorbeeld.svg" alt="">
