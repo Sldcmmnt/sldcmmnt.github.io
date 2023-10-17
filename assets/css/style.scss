@@ -55,7 +55,12 @@ align-items: center;
   border-radius: 30px;
   min-width: 200px;
   vertical-align: middle;
-  text-align: center;
+  height: 50px;
+  display: flex;
+  width: 200px;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
 }
 
 .button_link {
