@@ -7,8 +7,8 @@
   "minima/initialize";
 
 section.section-steps {
-  padding-top: $margin-xxxl;
-  padding-bottom: $margin-xxxl;
+  padding-top: 10px;
+  padding-bottom: 10px;
 
   .container {
     @extend %section-container;
