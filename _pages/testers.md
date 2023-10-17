@@ -21,6 +21,7 @@ Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegeven
 Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.
                 </p>
               </div>
+              <div class="project_img">
                 <img src="https://picsum.photos/200" alt="">
             </div>         
         </div>
@@ -37,6 +38,7 @@ Voor het berekenen van inkomenstoeslagen voor burgers zijn vaak allerlei gegeven
 Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetreffende instantie ontstaat er een soepeler en gebruiksvriendelijker proces.
                 </p>
               </div>
+              <div class="project_img">
                 <img src="https://picsum.photos/200" alt="">
             </div>         
         </div>
