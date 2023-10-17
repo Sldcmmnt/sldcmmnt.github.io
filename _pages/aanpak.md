@@ -6,10 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Aanpak
+title: Missie en aanpak
+description: We werken stapsgewijs aan een vriendelijker web door brede bewustwording, onderzoek en implementaties.
 ---
-
-## Missie en aanpak
 
 Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken.
 Het maakt het mogelijk om **verantwoord en veilig data te delen** op basis van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie.
