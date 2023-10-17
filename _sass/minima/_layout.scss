@@ -71,6 +71,7 @@ vertical-align: middle;
     line-height: 0;
     padding-top: 10px;
     text-align: center;
+  
 
     > svg path {
       //fill: $border-color-03;
@@ -97,10 +98,13 @@ vertical-align: middle;
     right: 0px;
     top: 42px;
     z-index: 100;
-    background-color: #7b37d4;
+    background-color: #371745;
     display: block;
     padding-bottom: 5px;
     border: 1px solid #e8e8e8;
+    border: 1px solid #ffffff;
+    width: 99%;
+    text-align: center;
   }
 
   .page-link {
