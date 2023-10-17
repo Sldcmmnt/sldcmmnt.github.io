@@ -21,7 +21,7 @@ Solid is een initiatief van de grondlegger van het World Wide Web, Sir Tim Berne
 Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, publieke sector, gezondheidszorg, media, retail tot overheid door veiliger en verantwoord data delen en een verbetering van dienstverlening en gebruiksvriendelijkheid.
 De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig. De missie van de Stichting Solid Community is om die beweging te organiseren vanuit een onafhankelijke en neutrale insteek.
                 </p>
-<div class="button"><a class="button_link" href="/over/">Lees meer</a></div>
+<div class="button"><a class="button_link" href="/over">Lees meer</a></div>
               </div>
               <div class="project_img">
                 <img src="/img/voorbeeld.svg" alt="">
@@ -39,10 +39,11 @@ De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet va
 Wat doet de Solid Community
               </h2>
               <p>
+We ontwikkelen, samen met deelnemers, vconcrete voorbeelden en toepassingen om de meerwaarde te laten zien en in de praktijk te brengen.
 We verbreden van bewustwording en cross-sectorale samenwerking in veilig en verantwoord data delen.
-We realiseren van een brede community met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, en die verbinden en ondersteunen in het samenwerken in onderzoek, ontwikkeling en kennisdeling.
-Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.
-We ontwikkelen, samen met deelnemers, van concrete voorbeelden en toepassingen om de meerwaarde te laten zien en in de praktijk te brengen.
+We realiseren van een brede community met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, en die verbinden en ondersteunen in het samenwerken in onderzoek, ontwikkeling en kennisdeling. Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.
+<div class="button"><a class="button_link" href="/over">Aan de slag</a></div>
+
                 </p>
               </div>         
         </div>
