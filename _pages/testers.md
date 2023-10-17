@@ -66,7 +66,7 @@ We realiseren van een brede community met deelnemers zoals overheid, sectoren, m
 Uitgelicht: ICTU en toeslagen aanvragen vergemakkelijken
               </h2>
               <p>
-Samen met partner in veilig en verantwoord data delen ontwikkelen we een Virtueel Inkomsten Loket zodat burgers makkelijker toeslagen kunnen aanvragen.
+Samen met partner in veilig en verantwoord data delen ICTU, ontwikkelen we een Virtueel Inkomsten Loket zodat burgers makkelijker toeslagen kunnen aanvragen.
 
                 </p>
               <div class="button_align">
@@ -74,7 +74,33 @@ Samen met partner in veilig en verantwoord data delen ontwikkelen we een Virtuee
               </div>
               </div>
               <div class="project_img">
-                <img src="/img/voorbeeld.svg" alt="">
+                <img src="/img/vil.svg" alt="">
+            </div>         
+        </div>
+</div>
+
+{::options parse_block_html="true" /}
+<hr class="line">
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
+            <div class="projectblock">
+             <div class="project_text">
+              <h2>
+Actueel: Kennissessie bij ICTU
+              </h2>
+              <p>
+Op uitnodiging van ICTU organiseerden we een kennissessie over Solid. <br>
+We keken samen onder de motorkap van de volgende generatie publieke dienstverlening waarbij belangrijke concepten zoals regie op gegevens, digitale identiteit, wallets en proactieve dienstverlening centraal staan.
+
+
+                </p>
+              <div class="button_align">
+               <div class="button"><a class="button_link" href="/over">Lees meer</a></div>
+              </div>
+              </div>
+              <div class="project_img">
+                <img src="/img/ictukennissessie.svg" alt="">
             </div>         
         </div>
 </div>
