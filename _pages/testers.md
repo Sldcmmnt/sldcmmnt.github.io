@@ -10,6 +10,19 @@ layout: home
 
 <link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
+<div class="container">
+      <div class="image">
+        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
+      </div>
+      <div class="text">
+        <h1>Paris is one of the most magnificient cities in France.</h1>
+      </div>
+    </div>
+
+
+
+
+
 | titel |         |
 |-------|---------|
 | testing 1  | ![Flowers](https://picsum.photos/200){: .cssimg} |
