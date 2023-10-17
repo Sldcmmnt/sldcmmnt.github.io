@@ -6,7 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.row {
+div.row {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -26,7 +26,7 @@
     width: 100%;
 }
 
-.why-item {
+div.row-content.why-item {
     border-top: solid 5px #FAFAFA;
     position: relative;
     padding: 60px 0;
