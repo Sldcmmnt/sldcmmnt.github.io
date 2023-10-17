@@ -22,7 +22,7 @@ Wanneer deze gegevens vanuit een datakluis kunnen worden gedeeld met de desbetre
                 </p>
               </div>
               <div class="project_img">
-                <img src="https://picsum.photos/200" alt="">
+                <img src="/img/voorbeeld.svg" alt="">
             </div>         
         </div>
 </div>
