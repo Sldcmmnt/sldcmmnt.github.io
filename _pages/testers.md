@@ -12,7 +12,7 @@ layout: home
 
 | titel |         |
 |-------|---------|
-| testing 1  | ![Flowers](/img/plaatje.jpg){: .cssimg} |
+| testing 1  | ![Flowers](https://picsum.photos/200){: .cssimg} |
 
 
 
