@@ -8,24 +8,7 @@
 layout: home
 ---
 
-
-<div class="column is-offset-1 is-5">
-        
-        <p class="content is-large">
-
-          <b>Solid</b> is a 
-          <a href="{{site.baseurl}}/TR/protocol">specification</a> 
-          that lets people store their data securely in decentralized data stores 
-          called <b>Pods</b>. Pods are like secure personal web servers for 
-          data. When data is stored in someone's Pod, they control which 
-          people and applications can access it.
-        </p>
-        
-        <div class="buttons">              
-          <a href="{{site.baseurl}}/about" class="button is-link is-large">
-            Learn more
-          </a>              
-        </div>
+<link href="/assets/css/markdownstyle.css" rel="stylesheet"></link>
 
 
 
