@@ -96,25 +96,25 @@ img {
     padding: 60px 0;
 }
 
-.why-item .row-content .col {
+.why-item.row-content.col {
     width: 50%;
 }
 
-.why-item .row-content .order-1 {
+.why-item.row-content.order-1 {
     -webkit-box-ordinal-group: 2;
     -webkit-order: 1;
     -ms-flex-order: 1;
     order: 1;
 }
 
-.why-item .row-content .order-2 {
+.why-item.row-content.order-2 {
     -webkit-box-ordinal-group: 3;
     -webkit-order: 2;
     -ms-flex-order: 2;
     order: 2;
 }
 
-.why-item .row-content .col.image {
+.why-item.row-content.col.image {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -131,7 +131,7 @@ summary {
 }
 
 /* Create a new custom triangle on the right side */
-summary::after {
+summary::before {
   margin-left: 1ch;
   display: inline-block;
   content: '▶️';
