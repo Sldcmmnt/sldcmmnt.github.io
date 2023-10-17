@@ -8,7 +8,10 @@
 layout: home
 ---
 
-
+<section class="section-steps">
+<div class="container">
+<div class="content">
+<div class="header">
 <div class="row why-item">
   <div class="row row-content">
     <div class="col text  order-1">
