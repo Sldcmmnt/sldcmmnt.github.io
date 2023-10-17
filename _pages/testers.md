@@ -19,7 +19,7 @@ layout: home
 testing 2
 
 <details markdown="1">
-  <summary>Click me</summary>
+  <summary>Wat is Solid</summary>
   
 
 
@@ -51,6 +51,8 @@ testing 2
 
 
 </details>
+---
+
 
 
 
