@@ -12,7 +12,7 @@ layout: home
 
 testing
 
-<details>
+<details markdown="0">
   <summary>Click me</summary>
   
   ### Heading
