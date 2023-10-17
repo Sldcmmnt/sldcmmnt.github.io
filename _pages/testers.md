@@ -8,6 +8,7 @@
 layout: home
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
          <div class="wrapperprojects">
             
             <div class="projectblock">
