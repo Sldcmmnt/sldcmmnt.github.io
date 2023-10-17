@@ -7,7 +7,7 @@
 #
 layout: home
 title: Werken aan een vriendelijker web
-description: tekst, tekst
+description: Solid Community werkt aan een vriendelijker, veiliger en innovatiever web, in samenwerking met overheid, sectoren en kennisinstellingen.
 image:
   path: img/page/ballonnen.jpg
   height: 518
