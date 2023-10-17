@@ -6,6 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: tester
+description: Tekstjes!
 ---
 {::options parse_block_html="true" /}
 <div class="header1">
