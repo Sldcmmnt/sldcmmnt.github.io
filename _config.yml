@@ -54,7 +54,7 @@ header_pages:
 - index.md
 - _pages/toepassingen.md
 - _pages/samenwerken.md
-- _pages/over.md
+- _pages/aanpak.md
 - _pages/contact.md
 
 # Set to `true` to show excerpts on the homepage.
