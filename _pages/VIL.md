@@ -48,7 +48,24 @@ Dit proces staat los van het aanvragen, en is dus niet zichtbaar voor gemeentes.
 De Tweede Kamer heeft onlangs unaniem voor een motie gestemd waarin het Virtueel Inkomsten Loket wordt genoemd, en verzoekt daarmee de regering om te onderzoeken in hoeverre een geautomatiseerd
 proces waarbij mensen in één keer een overzicht hebben van alle sociale regelingen waar zij recht op hebben landelijk opgezet kan worden binnen de kaders van de privacywetgeving, 
 
-## Meer weten?
-Wil je meer weten over dit project en datakluizen? Neem dan contact op via:
-<info@solidcommunity.nl>
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
+            <div class="projectblock">
+             <div class="project_text">
+              <h2>
+Meer weten?
+              </h2>
+              <p>
+Wil je meer weten over dit project en datakluizen? Neem dan contact op.
+                </p>
+               <div class="button_align">
+               <div class="button"><a class="button_link" href="/contact">Neem contact op</a></div>
+              </div>
+              </div>
+              <div class="project_img">
+                <img src="/img/samenwerken3.svg" alt="">
+            </div>         
+        </div>
+</div>
 
