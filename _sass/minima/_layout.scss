@@ -163,6 +163,17 @@ vertical-align: middle;
   min-height: 25vh;
 }
 
+.footertopwrap {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: calc(1200px - (30px * 2));
+  padding-right: 30px;
+  padding-left: 30px;
+  display: flex;
+  flex-direction: row;
+}
+  
+
 .backtotop .page-link {
   color: white;
 }
