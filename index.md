@@ -7,7 +7,7 @@
 #
 layout: home
 title: Werken aan een vriendelijker web
-description: Solid Community werkt aan een vriendelijker, veiliger en innovatiever web, in samenwerking met overheid, sectoren en kennisinstellingen.
+description: Solid Community werkt aan een vriendelijker, veiliger en innovatiever web, in samenwerking met overheid, sectoren en kennisinstellingen gebaseerd op publieke waarden.
 image:
   path: img/page/ballonnen.jpg
   height: 518
@@ -43,12 +43,12 @@ Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, pub
             </div> 
  <div class="project_text">
               <h2>
-Meedoen met Solid Community
+Samenwerken
               </h2>
               <p>
-De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig. De missie van de Solid Community is om die beweging op een verantwoorde manier te organiseren vanuit een onafhankelijke en neutrale insteek en gebaseerd op publieke waarden. <br>
-We ontwikkelen, samen met deelnemers, concrete voorbeelden en toepassingen om de meerwaarde te laten zien en in de praktijk te brengen. <br>
-We realiseren van een brede community met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, en die verbinden en ondersteunen in het samenwerken in onderzoek, ontwikkeling en kennisdeling. Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.
+De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf. De missie van de Solid Community is om die beweging op een verantwoorde manier te organiseren vanuit een onafhankelijke en neutrale insteek en gebaseerd op publieke waarden. <br>
+We ontwikkelen concrete voorbeelden en toepassingen om de meerwaarde te laten zien en in de praktijk te brengen. <br>
+We verbinden een brede community met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen, en ondersteunen die in samenwerken in onderzoek, ontwikkeling en kennisdeling. Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.
  </p>  
 <div class="button_align">
 <div class="button"><a class="button_link" href="samenwerken.html">Samen ontwikkelen</a></div>
