@@ -111,7 +111,7 @@ Met behulp van o.a. datakluizen kun je deze veilig en verantwoord delen.
 Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op
                 </p>
 <div class="button_align">
-               <div class="button"><a class="button_link" href="/contact">Lees meer</a></div>
+               <div class="button"><a class="button_link" href="/contact">Contact</a></div>
               </div>
               </div>
               <div class="project_img">
