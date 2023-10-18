@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Toepassingen
+title: oudtoepassingen
 description: Door het gebruik van Solid kunnen dienstverlening en gebruikservaring verbeteren en ontstaan mogelijkheden om GDPR-compliant samen te werken met ketenpartners. Solid is toepasbaar in verschillende sectoren en domeinen zoals de zorg, energie, gemeentes, uitvoeringsorganisaties van de overheid, maar ook retail, media etc.
 ---
 
