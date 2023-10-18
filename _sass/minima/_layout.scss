@@ -170,9 +170,12 @@ vertical-align: middle;
   padding-right: 30px;
   padding-left: 30px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
-  
+
+.backtotop {
+  margin-left: 5px;
+}
 
 .backtotop .page-link {
   color: white;
