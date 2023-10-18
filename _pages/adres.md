@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  Over
+title:  Adres
 description: De missie van de Stichting Solid Community is om verantwoord en veilig data delen te realiseren op basis van van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie. We zien technologie als een middel om bij te dragen aan een mensgerichte, vriendelijke en veilige gebruikerservaring.
 ---
 
