@@ -39,7 +39,7 @@ Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, pub
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
              <div class="project_img">
-                <img src="/img/voorbeeld2.svg" alt="">
+                <img src="/img/samenwerken.svg" alt="">
             </div> 
  <div class="project_text">
               <h2>
