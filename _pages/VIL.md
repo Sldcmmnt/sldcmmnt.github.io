@@ -18,6 +18,7 @@ Als Stichting Solid Community zijn we gevraagd om een eerste demonstratie te ont
 De opdrachtgever van dit project: [ICTU](https://www.ICTU.nl){:target="_blank" rel="noopener"} , de innovatieorganisatie opgericht door de Nederlands overheid en een partner van de Stichting Solid Community in veilig en verantwoord data delen. <br>
 De open source applicatie is ontwikkeld door: [Muze](https://www.muze.nl){:target="_blank" rel="noopener"}, een technische implementatiepartner van de Stichting Solid Community.
 
+## Uitleg video
 In onderstaande video wordt de opzet van het Virtueel Inkomsten Loket uitgelegd en de demonstratie getoond.
  
 <video width= "100%" poster="img/VIL/placeholder-vil.png" controls>
