@@ -206,6 +206,14 @@ vertical-align: middle;
   margin-left: 0;
 }
 
+.footer-col-wrapper .wrapper {
+  display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
