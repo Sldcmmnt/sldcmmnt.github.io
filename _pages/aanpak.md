@@ -99,9 +99,10 @@ Samenwerken
               </h2>
               <p>
 Wil jij onderdeel worden van een netwerk dat werkt aan een vriendelijker, veiliger, en innovatiever web?
+Lees meer over samenwerken hoe je kunt deelnemen.
                 </p>
                <div class="button_align">
-               <div class="button"><a class="button_link" href="/contact">Neem contact op</a></div>
+               <div class="button"><a class="button_link" href="/samenwerken">Samenwerken</a></div>
               </div>
               </div>
               <div class="project_img">
