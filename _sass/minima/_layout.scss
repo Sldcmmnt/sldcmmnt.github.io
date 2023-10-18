@@ -158,6 +158,9 @@ vertical-align: middle;
 .site-footer {
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
+  background-color: black;
+  height: auto;
+  min-height: 25vh;
 }
 
 .footer-heading {
@@ -179,6 +182,7 @@ vertical-align: middle;
 .social-links {
   @include relative-font-size(0.9375);
   color: $brand-color;
+  color: white;
 }
 
 .footer-col {
@@ -225,6 +229,7 @@ vertical-align: middle;
     &:last-child {
       padding-right: 0;
       padding-left: $spacing-unit * .5;
+      color: white;
     }
   }
 }
