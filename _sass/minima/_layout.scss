@@ -185,8 +185,16 @@ vertical-align: middle;
   color: white;
 }
 
+.social-links:a {
+  color: white;
+}
+
 .footer-col {
   margin-bottom: $spacing-unit * .5;
+}
+
+.footer-col .page-link {
+  color: white;
 }
 
 .footer-col-1,
