@@ -26,7 +26,7 @@ Dan is een kennissessie een goede eerste stap om in aanraking te komen met de as
               </div>
               </div>
               <div class="project_img">
-                <img src="/img/kenissessie.svg" alt="">
+                <img src="/img/kennissessie.svg" alt="">
             </div>         
         </div>
 </div>
