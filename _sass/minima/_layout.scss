@@ -238,6 +238,8 @@ vertical-align: middle;
       padding-right: 0;
       padding-left: $spacing-unit * .5;
       color: white;
+      display: flex;
+      flex-direction: column;
     }
   }
 }
