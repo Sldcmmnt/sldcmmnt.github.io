@@ -105,7 +105,7 @@ Wil jij onderdeel worden van een netwerk dat werkt aan een vriendelijker, veilig
               </div>
               </div>
               <div class="project_img">
-                <img src="/img/samenwerken2.svg" alt="">
+                <img src="/img/samenwerken3.svg" alt="">
             </div>         
         </div>
 </div>
