@@ -10,16 +10,45 @@ title: Samenwerken
 description: Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
 ---
 
-We werken doelgericht en stapsgewijs aan:
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
+            <div class="projectblock">
+             <div class="project_text">
+              <h2>
+Kennissessie
+              </h2>
+              <p>
+Veel sectoren en organisaties kennen de wereldwijde beweging van Solid nog niet en willen graag eerst meer informatie om te verkennen hoe het kan passen in hun agenda en strategie<br>
+Dan is een kennissessie een goede eerste stap om in aanraking te komen met de aspecten van Solid.
+                </p>
+                <div class="button_align">
+               <div class="button"><a class="button_link" href="/contact">Vraag een kennissessie aan</a></div>
+              </div>
+              </div>
+              <div class="project_img">
+                <img src="/img/kenissessie.svg" alt="">
+            </div>         
+        </div>
+</div>
 
-* **concrete toepassingen** om veilig en verantwoord data delen te realiseren, en dienstverlening en gebruikservaring te verbeteren. <br>
-  [**>> bekijk toepassingen**](toepassingen.html)
-* een samenhangende community van organisaties voor **gezamenlijke ontwikkeling en onderzoek** rondom bijvoorbeeld architectuur, governance en verdere adoptie.
-<br>
-Wanneer je samenwerkt met de Solid Community blijf je op de hoogte van alle ontwikkelingen en informatie-meetups en ben je onderdeel van een ecosysteem om samen te leren en ontwikkelen.
-<br>
-<br>
-Wil je meewerken aan een vriendelijker web en betere dienstverlening waarin de mens centraal staat? <br>
-Neem dan contact op via: samenwerken@solidcommunity.nl
-<br>
-<br>
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
+            <div class="projectblock">
+             <div class="project_img">
+                <img src="/img/proefopstelling.svg" alt="">
+            </div>    
+              <div class="project_text">
+              <h2>
+Verkennen mogelijkheden technische proefopstelling en implementatie
+              </h2>
+              <p>
+De meerwaarde en werking wordt vaak invoelbaar en begrijpelijker zodra er een proefopstelling wordt ontwikkeled. We ontwikkelen in meerdere sectoren samen met technische experts proefopstellingen die verder opgeschaald worden naar daadwerkelijke implementatie. Meer weten neem, neem dan contact op:
+              </p>
+                 <div class="button_align">
+               <div class="button"><a class="button_link" href="/contact">Contact</a></div>
+              </div>
+              </div>
+                   
+        </div>
+</div>
