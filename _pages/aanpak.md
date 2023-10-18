@@ -57,7 +57,7 @@ Deze Personal Data Spaces bieden de gelegenheid om op een veilige en efficiënte
 Digitale transitie
               </h2>
               <p>
-Een uitbreiding op het huidige web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig.
+Een uitbreiding op het huidige web gaat echter niet vanzelf: er is brede bewustwording, onderzoek en ontwikkeling voor nodig. <br>
 Bijgaande grafiek is gebaseerd op een onderzoek van Clayton Christensen, professor aan de Harvard Business School over opkomende technologiën. 
 Organisaties zijn vaak gericht op de bekende technologiën die ze onderhouden en verbeteren. In de initiële fase van opkomende technologiën zijn er vaak nog geen voorbeelden en concrete toepassingen. Het resultaat is vaak dat iedereen blijft afwachten tot de technologie verder is. Echter, dan ontstaat geen beweging.
 Als Solid Community willen we die beweging op gang brengen en op een verantwoorde manier toeleiden naar adoptie. 
@@ -82,7 +82,7 @@ Samenhang creeëren
               </h2>
               <p>
 Een opkomende technlogie vraagt daarbij een andere insteek dan een gevestigde technologie: een onderzoekende en iteratieve houding.
-Dit is een andere houding dan plannen en onderhouden, en dat is vaak wennen voor organisaties en sectoren. Een nieuwe technologie als Solid gaat niet alleen over techniek maar ook over gebruikers meer centraal stellen en regie geven, een nieuw digitaal landschap creëren, gedrag, communicatie, bedrijfsmodellen en de rol van de overheid. Voor een optimale ontwikkeling en adoptie moeten de verschillende onderdelen zoals de architectuur en governance op elkaar worden afgestemd en in samenhang zijn.
+Dit is een andere houding dan plannen en onderhouden, en dat is vaak wennen voor organisaties en sectoren. <br> Een nieuwe technologie als Solid gaat niet alleen over techniek maar ook over gebruikers meer centraal stellen en regie geven, een nieuw digitaal landschap creëren, gedrag, communicatie, bedrijfsmodellen en de rol van de overheid. Voor een optimale ontwikkeling en adoptie moeten de verschillende onderdelen zoals de architectuur en governance op elkaar worden afgestemd en in samenhang zijn.<br>
 Solid kan cross-sectoraal worden gebruikt. Het proces van onderzoek en ontwikkeling van Solid kunnen we in Nederland daarom alleen in samenhang aanpakken. We bouwen aan een community om te zorgen voor samenhang en harmonisatie van deze processen: samen leren, gezamenlijk uitdagingen aangaan en afstemmen. Samen met eindgebruikers, bedrijven, maatschappelijke organisaties, kennisinstellingen en overheid om zo een veiliger en innovatiever web te creëren.
                 </p>
               </div>
