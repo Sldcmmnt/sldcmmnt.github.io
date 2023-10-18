@@ -43,7 +43,7 @@ Dan is een kennissessie een goede eerste stap om in aanraking te komen met de as
 Verkennen mogelijkheden technische proefopstelling en implementatie
               </h2>
               <p>
-De meerwaarde en werking wordt vaak invoelbaar en begrijpelijker zodra er een proefopstelling wordt ontwikkeled. We ontwikkelen in meerdere sectoren samen met technische experts proefopstellingen die verder opgeschaald worden naar daadwerkelijke implementatie. Meer weten neem, neem dan contact op:
+De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra er een proefopstelling wordt ontwikkeld. We ontwikkelen in meerdere sectoren samen met technische experts proefopstellingen die verder opgeschaald worden naar daadwerkelijke implementatie. Meer weten neem, neem dan contact op:
               </p>
                  <div class="button_align">
                <div class="button"><a class="button_link" href="/contact">Contact</a></div>
