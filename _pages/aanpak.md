@@ -19,7 +19,7 @@ Wat is Solid?
               </h2>
               <p>
 Solid is een initatief van de grondlegger van het World Wide Web, Sir Tim Berners Lee, om het web vriendelijker, veiliger en innovatiever te maken.
-Het maakt het mogelijk om **verantwoord en veilig data te delen op basis van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie.
+Het maakt het mogelijk om verantwoord en veilig data te delen op basis van open standaarden en gebaseerd op waardes zoals zelfbeschikking, keuzevrijheid, vertrouwen en transparantie.
 De open technologie achter Solid maakt het bijvoorbeeld mogelijk om in een persoonlijke datakluis of personal data space gegevens te beheren en te hergebruiken bij dienstverleners, applicaties en organisaties.<br> 
                 </p>
               </div>
