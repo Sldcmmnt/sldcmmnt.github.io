@@ -95,7 +95,7 @@ Solid kan cross-sectoraal worden gebruikt. Het proces van onderzoek en ontwikkel
             <div class="projectblock">
              <div class="project_text">
               <h2>
-Saemnwerken
+Samenwerken
               </h2>
               <p>
 Wil jij onderdeel worden van een netwerk dat werkt aan een vriendelijker, veiliger, en innovatiever web?
