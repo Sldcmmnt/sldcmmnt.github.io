@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: aanpak
+title: Aanpak
 description: We werken stapsgewijs aan een vriendelijker web door brede bewustwording, onderzoek en implementaties.
 ---
 
