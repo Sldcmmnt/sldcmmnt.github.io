@@ -237,10 +237,12 @@ pre {
   max-width: calc(#{$content-width} - (#{$spacing-unit}));
   margin-right: auto;
   margin-left: auto;
+  margin-top: 30px;
+  martin-bottom: 30px;
     display: flex;
     flex-direction: column;
     justify-content: left;
-  margin-top: 30px;
+  
   color: white;
   padding-right: $spacing-unit * .5;
   padding-left: $spacing-unit * .5;
