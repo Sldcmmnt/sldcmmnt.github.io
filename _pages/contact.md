@@ -13,7 +13,8 @@ permalink: /contact.html
 Contact
               </h2>
               <p>
-samenwerken@solidcommunity.nl
+                <a href="mailto:samenwerken@solidcommunity.nl">samenwerken@solidcommunity.nl</a>
+
                 </p>
               </div>
               <div class="project_img">
