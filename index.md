@@ -95,7 +95,7 @@ Samen met partner in veilig en verantwoord data delen ICTU, ontwikkelen we een V
 Actueel: Kennissessie bij ICTU
               </h2>
               <p>
-Op uitnodiging van ICTU organiseerden we een kennissessie over Solid. <br>
+Op uitnodiging van ICTU, de innovatieorganisatie van en voor de overheid, organiseerden we een kennissessie over Solid. <br>
 We keken samen onder de motorkap van de volgende generatie publieke dienstverlening waarbij belangrijke concepten zoals regie op gegevens, digitale identiteit, wallets en proactieve dienstverlening centraal staan.
 
 
