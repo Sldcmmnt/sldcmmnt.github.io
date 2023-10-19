@@ -153,7 +153,10 @@ flex-direction: column;
       }
 }
 
-
+.projectblock .project_text.contact {
+  text-align: center;
+  order: 1; 
+}
 
 /* video no spinning at load */
 video::-webkit-media-controls {
