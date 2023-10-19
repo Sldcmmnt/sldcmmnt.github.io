@@ -54,7 +54,7 @@ De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet va
 </ul>  
 Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.</p>  
 <div class="button_align">
-<div class="button"><a class="button_link" href="samenwerken.html">Samenwerken</a></div>
+<a class="button_link" href="samenwerken.html"><div class="button">Samenwerken</div></a>
   </div>      
               </div>         
         </div>
@@ -75,7 +75,7 @@ Samen met partner in veilig en verantwoord data delen ICTU, ontwikkelen we een V
 
                 </p>
               <div class="button_align">
-               <div class="button"><a class="button_link" href="vil.html">Lees meer</a></div>
+               <a class="button_link" href="vil.html"><div class="button">Lees meer</div></a>
               </div>
               </div>
               <div class="project_img">
@@ -101,7 +101,7 @@ We keken samen onder de motorkap van de volgende generatie publieke dienstverlen
 
                 </p>
               <div class="button_align">
-               <div class="button"><a class="button_link" href="https://www.solidcommunity.nl/misc/2023/10/16/ICTU.html">Lees meer</a></div>
+               <a class="button_link" href="https://www.solidcommunity.nl/misc/2023/10/16/ICTU.html"><div class="button">Lees meer</div></a>
               </div>
               </div>
               <div class="project_img">
