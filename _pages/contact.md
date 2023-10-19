@@ -14,7 +14,6 @@ Contact
               </h2>
               <h4>
                 <a href="mailto:samenwerken@solidcommunity.nl">samenwerken@solidcommunity.nl</a>
-
                 </h4>
               </div>
               <div class="project_img">
