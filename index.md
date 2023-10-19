@@ -48,8 +48,8 @@ Samenwerken
               <p>
 De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet vanzelf. De missie van de Solid Community is om die beweging op een verantwoorde manier te organiseren vanuit een onafhankelijke en neutrale insteek en gebaseerd op publieke waarden. <br> We verbinden een brede community met deelnemers zoals overheid, sectoren, maatschappelijke partners en kennisinstellingen en ondersteunen ze in:
 <ul>
-  <li>Kennissessie voor bewustwording</li>
-  <li>van proefopstellingen naar implementatie</li>
+  <li>Kennissessies voor bewustwording</li>
+  <li>Ontwikkeling van proefopstellingen naar implementatie</li>
   <li>Generiek vertrouwenskader en samenhang</li>
 </ul>  
 Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.</p>  
