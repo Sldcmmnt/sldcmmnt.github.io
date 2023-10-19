@@ -75,27 +75,34 @@ align-items: center;
   justify-content: center;
 }
 
-.button_link {
-  background-color: transparent;
-  background-image: none;
-  text-decoration: none;
-  color: black;
-  padding: 0.667em 1.333em;
-}
-.button_link {
-  background-color: transparent;
-  background-image: none;
-  text-decoration: none;
-  color: black;
-  padding: 0.667em 1.333em;
+.button:hover, . {
+text-decoration: none;
+color: white;
+background-color: #512067;
+  
 }
 
+.button_link:hover {
+text-decoration: none;
+color: white;
+}
+  
+.button_link {
+  background-color: transparent;
+  background-image: none;
+  text-decoration: none;
+  color: black;
+  padding: 0.667em 1.333em;
+}
+.button_link {
+  background-color: transparent;
+  background-image: none;
+  text-decoration: none;
+  color: black;
+  padding: 0.667em 1.333em;
+}
 
 .button_link:visited {
-text-decoration: none;
-color: black;
-}
-.button_link:hover {
 text-decoration: none;
 color: black;
 }
