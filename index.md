@@ -31,7 +31,7 @@ Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, pub
               </div>
               </div>
               <div class="project_img">
-                <img src="/img/voorbeeld.svg" alt="">
+                <img src="/img/watissolid.svg" alt="">
             </div>         
         </div>
 </div>
