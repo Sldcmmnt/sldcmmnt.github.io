@@ -12,10 +12,10 @@ permalink: /contact.html
               <h2>
 Contact
               </h2>
-              <p>
+              <h4>
                 <a href="mailto:samenwerken@solidcommunity.nl">samenwerken@solidcommunity.nl</a>
 
-                </p>
+                </h4>
               </div>
               <div class="project_img">
                 <img src="/img/contact.svg" alt="">
