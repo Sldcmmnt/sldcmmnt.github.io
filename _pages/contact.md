@@ -8,13 +8,13 @@ permalink: /contact.html
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
-             <div class="project_text">
+             <div class="project_text contact">
               <h2>
 Contact
               </h2>
-              <h4>
+              <h2>
                 <a href="mailto:samenwerken@solidcommunity.nl">samenwerken@solidcommunity.nl</a>
-                </h4>
+                </h2>
               </div>
               <div class="project_img">
                 <img src="/img/contact.svg" alt="">
