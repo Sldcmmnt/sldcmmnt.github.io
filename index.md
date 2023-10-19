@@ -39,7 +39,7 @@ Solid kan in vrijwel alle sectoren meerwaarde leveren; van de energiesector, pub
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
              <div class="project_img">
-                <img src="/img/samenwerken.svg" alt="">
+                <img src="/img/samenwerken1.svg" alt="">
             </div> 
  <div class="project_text">
               <h2>
@@ -54,7 +54,7 @@ De ontwikkeling van een vriendelijker web is een paradigma-shift en gaat niet va
 </ul>  
 Zo wordt de ontwikkeling van bijvoorbeeld architectuur, governance en adoptie geharmoniseerd tot een samenhangend geheel.</p>  
 <div class="button_align">
-<div class="button"><a class="button_link" href="samenwerken1.html">Samenwerken</a></div>
+<div class="button"><a class="button_link" href="samenwerken.html">Samenwerken</a></div>
   </div>      
               </div>         
         </div>
