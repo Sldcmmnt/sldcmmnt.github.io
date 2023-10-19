@@ -49,6 +49,26 @@ De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra 
                <div class="button"><a class="button_link" href="/contact">Contact</a></div>
               </div>
               </div>
-                   
+
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0" id="proefopstelling">
+            <div class="projectblock">
+               
+              <div class="project_text">
+              <h2>
+Vertrouwenskader, open architectuur en samenhang
+              </h2>
+              <p>
+Een technische infrastructuur werkt niet zonder een vertrouwenskader rondom data deling, een open architectuur en samenhang met andere ontwikkelingen zoals afsprakenstelsel, Europese wallets, Nederlandse en Europese regulaties. Daarom bouwen aan een generiek stelsel van vertrouwen, met een open architectuur en samenhang met andere ontwikkelingen.
+Meer weten, neem contact op.
+              </p>
+                 <div class="button_align">
+               <div class="button"><a class="button_link" href="/contact">Contact</a></div>
+              </div>
+              </div>             
+             <div class="project_img">
+                <img src="/img/samenwerken1.svg" alt="">
+            </div>        
         </div>
 </div>
