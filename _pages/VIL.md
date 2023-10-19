@@ -61,9 +61,9 @@ Wil je meer weten over dit project en datakluizen? Neem dan contact op.
                 </p>
                <div class="button_align">
                <div class="button"><a class="button_link" href="/contact">Neem contact op</a></div>
-<p>Wil je meer weten over het opzetten van een proefopstelling en daadwerkelijke implementatie?</p>
+<p><br>Wil je meer weten over het opzetten van een proefopstelling en daadwerkelijke implementatie?</p>
                  <div class="button_align">
-               <div class="button"><a class="button_link" href="/samenwerken.html#proefopstelling">Opzetten van technische proefopstelling</a></div>
+               <div class="button"><a class="button_link" href="/samenwerken.html#proefopstelling">Van technische proefopstelling naar implementatie</a></div>
               </div>
               </div>
               </div>
