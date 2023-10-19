@@ -74,18 +74,6 @@ align-items: center;
   align-content: center;
   justify-content: center;
 }
-
-.button:hover {
-text-decoration: none;
-color: white;
-background-color: #512067;
-  
-}
-
-.button_link:hover {
-text-decoration: none;
-color: white;
-}
   
 .button_link {
   background-color: transparent;
@@ -111,6 +99,19 @@ color: black;
 text-decoration: none;
 color: black;
 }
+
+.button:hover {
+text-decoration: none;
+color: white;
+background-color: #512067;
+  
+}
+
+.button_link:hover {
+text-decoration: none;
+color: white;
+}
+
 
 hr.line {
   border: 1px solid lightgrey;
