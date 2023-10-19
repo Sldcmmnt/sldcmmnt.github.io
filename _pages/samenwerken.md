@@ -11,7 +11,7 @@ description: Werk je bij een organisatie en is er concrete interesse om aan de s
 ---
 
 {::options parse_block_html="true" /}
-<div class="wrapperprojects" markdown="0">
+<div class="wrapperprojects" markdown="0" id="kennissessie">
             <div class="projectblock">
              <div class="project_text">
               <h2>
@@ -33,7 +33,7 @@ Dan is een kennissessie een goede eerste stap om in aanraking te komen met de as
 
 
 {::options parse_block_html="true" /}
-<div class="wrapperprojects" markdown="0">
+<div class="wrapperprojects" markdown="0" id="proefopstelling">
             <div class="projectblock">
              <div class="project_img">
                 <img src="/img/proefopstelling.svg" alt="">
