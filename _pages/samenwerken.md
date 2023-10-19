@@ -7,7 +7,7 @@
 #
 layout: home
 title: Samenwerken
-description: Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners? Een kennissessie of proefopstelling met een serieuze doorkijk naar implementatie zijn voorbeelden van mogelijkheden.
+description: Door het gebruik van Solid kunnen dienstverlening en gebruikservaring verbeteren en ontstaan mogelijkheden om GDPR-compliant samen te werken met ketenpartners. Solid is toepasbaar in verschillende sectoren en domeinen zoals de zorg, energie, gemeentes, uitvoeringsorganisaties van de overheid, publieke organisaties zoals de culturele en bibliotheek-sector maar ook retail, media etc. Werk je bij een organisatie, koepelorganisatie of afsprakenstelsel en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners? Een kennissessie of proefopstelling met een serieuze doorkijk naar implementatie zijn voorbeelden van mogelijkheden.
 ---
 
 {::options parse_block_html="true" /}
