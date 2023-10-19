@@ -61,8 +61,7 @@ De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra 
 Vertrouwenskader, open architectuur en samenhang
               </h2>
               <p>
-Een technische infrastructuur werkt niet zonder een vertrouwenskader rondom data deling, een open architectuur en samenhang met andere ontwikkelingen zoals sectorale afsprakenstelsels, Europese wallets, Nederlandse en Europese regulaties. Daarom bouwen we aan een generiek stelsel van vertrouwen, met een open architectuur en samenhang met andere landelijke en internationale ontwikkelingen.
-Meer weten, neem contact op.
+Een schaalbare technische infrastructuur werkt niet zonder een vertrouwenskader rondom data deling, een open architectuur en samenhang met andere ontwikkelingen zoals sectorale afsprakenstelsels, Europese wallets, Nederlandse en Europese regulaties. Daarom bouwen we aan een generiek stelsel van vertrouwen, met een open architectuur en samenhang met andere sectorale, nationale en internationale ontwikkelingen. In vele sectoren zijn toestemmmingen voor gebruikers - de mens- een terugkerend thema. Om te bevorderen dat er straks een samenhangend begrijpelijk digitaal landschap ontstaat voor de mens in al haar rollen (burger, patënt, consument, student etc) ontwikkelen we deze in samenhang. Bij interesse, neem contact op:
               </p>
                  <div class="button_align">
                <div class="button"><a class="button_link" href="/contact">Contact</a></div>
