@@ -22,7 +22,7 @@ Veel sectoren en organisaties kennen de wereldwijde beweging van Solid nog niet 
 Dan is een kennissessie een goede eerste stap om in aanraking te komen met de aspecten van Solid.
                 </p>
                 <div class="button_align">
-               <div class="button"><a class="button_link" href="/contact">Vraag een kennissessie aan</a></div>
+               <a class="button_link" href="/contact"><div class="button">Vraag een kennissessie aan</div></a>
               </div>
               </div>
               <div class="project_img">
@@ -46,7 +46,7 @@ Verkennen mogelijkheden technische proefopstelling en implementatie
 De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra er een proefopstelling wordt ontwikkeld. We ontwikkelen in meerdere sectoren samen met technische experts proefopstellingen die verder opgeschaald worden naar daadwerkelijke implementatie. Meer weten, neem dan contact op:
               </p>
                  <div class="button_align">
-               <div class="button"><a class="button_link" href="/contact">Contact</a></div>
+               <a class="button_link" href="/contact"><div class="button">Contact</div></a>
               </div>
               </div>
         </div>
@@ -64,7 +64,7 @@ Vertrouwenskader, open architectuur en samenhang
 Een schaalbare technische infrastructuur werkt niet zonder een vertrouwenskader rondom data deling, een open architectuur en samenhang met andere ontwikkelingen zoals sectorale afsprakenstelsels, Europese wallets, Nederlandse en Europese regulaties. Daarom bouwen we aan een generiek stelsel van vertrouwen, met een open architectuur en samenhang met andere sectorale, nationale en internationale ontwikkelingen. In vele sectoren zijn toestemmmingen voor gebruikers - de mens- een terugkerend thema. Om te bevorderen dat er straks een samenhangend begrijpelijk digitaal landschap ontstaat voor de mens in al haar rollen (burger, patënt, consument, student etc) ontwikkelen we deze in samenhang. Bij interesse, neem contact op:
               </p>
                  <div class="button_align">
-               <div class="button"><a class="button_link" href="/contact">Contact</a></div>
+               <a class="button_link" href="/contact"><div class="button">Contact</div></a>
               </div>
               </div>             
              <div class="project_img">
