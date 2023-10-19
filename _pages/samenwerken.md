@@ -7,7 +7,7 @@
 #
 layout: home
 title: Samenwerken
-description: Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners?
+description: Werk je bij een organisatie en is er concrete interesse om aan de slag te gaan met projecten rondom veilig en verantwoord data delen, mogelijk in samenwerking met ketenpartners? Een kennissessie of proefopstelling met een serieuze doorkijk naar implementatie zijn voorbeelden van mogelijkheden.
 ---
 
 {::options parse_block_html="true" /}
@@ -43,7 +43,7 @@ Dan is een kennissessie een goede eerste stap om in aanraking te komen met de as
 Verkennen mogelijkheden technische proefopstelling en implementatie
               </h2>
               <p>
-De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra er een proefopstelling wordt ontwikkeld. We ontwikkelen in meerdere sectoren samen met technische experts proefopstellingen die verder opgeschaald worden naar daadwerkelijke implementatie. Meer weten neem, neem dan contact op:
+De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra er een proefopstelling wordt ontwikkeld. We ontwikkelen in meerdere sectoren samen met technische experts proefopstellingen die verder opgeschaald worden naar daadwerkelijke implementatie. Meer weten, neem dan contact op:
               </p>
                  <div class="button_align">
                <div class="button"><a class="button_link" href="/contact">Contact</a></div>
