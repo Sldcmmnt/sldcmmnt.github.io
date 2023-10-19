@@ -102,7 +102,7 @@ Wil jij onderdeel worden van een netwerk dat werkt aan een vriendelijker, veilig
 Lees meer hoe je kunt deelnemen aan een vriendelijker en veilger web.
                 </p>
                <div class="button_align">
-               <div class="button"><a class="button_link" href="/samenwerken">Samenwerken</a></div>
+               <a class="button_link" href="/samenwerken"><div class="button">Samenwerken</div></a>
               </div>
               </div>
               <div class="project_img">
