@@ -60,10 +60,10 @@ Meer weten?
 Wil je meer weten over dit project en datakluizen? Neem dan contact op.
                 </p>
                <div class="button_align">
-               <div class="button"><a class="button_link" href="/contact">Neem contact op</a></div>
+               <a class="button_link" href="/contact"><div class="button">Neem contact op</div></a>
 <p><br>Wil je meer weten over het opzetten van een proefopstelling en daadwerkelijke implementatie?</p>
                  <div class="button_align">
-               <div class="button"><a class="button_link" href="/samenwerken.html#proefopstelling">Van technische proefopstelling naar implementatie</a></div>
+             <a class="button_link" href="/samenwerken.html#proefopstelling"><div class="button">Van technische proefopstelling naar implementatie</div></a>
               </div>
               </div>
               </div>
