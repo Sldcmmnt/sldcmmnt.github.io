@@ -49,7 +49,8 @@ De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra 
                <div class="button"><a class="button_link" href="/contact">Contact</a></div>
               </div>
               </div>
-
+        </div>
+</div>
 
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0" id="proefopstelling">
