@@ -64,7 +64,7 @@ Het aanvragen van inkomenstoeslagen voor burgers is vaak complex om meerdere red
 In Nederland hebben we een eerste proefopstelling ontwikkeld om het aanvragen van toeslagen te vereenvoudigen in combinatie met een datakluis gebaseerd op de open technologie van Solid. 
                 </p>
 <div class="button_align">
-               <div class="button"><a class="button_link" href="/vil">Lees meer</a></div>
+               <a class="button_link" href="/vil"><div class="button">Lees meer</div></a>
               </div>
               </div>
               <div class="project_img">
