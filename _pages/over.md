@@ -6,7 +6,7 @@ exclude: true
 ---
 
 ## Registratie en vestigingsadres
-We staan geregistreerd onder KVK nummer 88666816
+Stichting Solid Community staat geregistreerd onder KVK nummer 88666816
 
 Het vestigingsadres van de stichting is:
 Goeman Borgesiuslaan 77
