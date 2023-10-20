@@ -7,7 +7,7 @@
 #
 layout: home
 title: Werken aan een vriendelijker web
-description: Solid Community werkt aan een vriendelijker, veiliger en innovatiever web gebaseerd op publieke waarden, in samenwerking met overheid, sectoren en kennisinstellingen.
+description: Solid Community werkt aan een vriendelijker, veiliger en innovatiever web gebaseerd op publieke waarden, in samenwerking met overheid, sectoren en kennisinstellingen. Door samen te werken als een community onstaat er samenhang en harmonisatie van ontwikkelingen, governance en architectuur.
 image:
   path: img/page/ballonnen.jpg
   height: 518
