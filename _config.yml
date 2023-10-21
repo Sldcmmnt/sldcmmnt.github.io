@@ -57,8 +57,9 @@ header_nl_pages:
 - _pages/contact.md
 
 header_en_pages:
-- _pages/en/collaborate.md
 - _pages/en/solutions.md
+- _pages/en/collaborate.md
+
 
 
 
