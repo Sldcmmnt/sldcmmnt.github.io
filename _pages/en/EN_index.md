@@ -19,7 +19,7 @@ Solid can provide added value in almost all sectors; from the energy sector, pub
 
                 </p>
               <div class="button_align">
-               <a class="button_link" href="/aanpak"><div class="button">Learn more</div></a>
+               <a class="button_link" href="/en/solutions"><div class="button">Learn more</div></a>
               </div>
               </div>
               <div class="project_img">
