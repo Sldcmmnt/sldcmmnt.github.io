@@ -65,7 +65,7 @@ In this way, the development of architecture, governance and adoption, is harmon
 Highlighted: Making it easier for citizens to apply for allowances
               </h2>
               <p>
-Together with ICTU, the innovation organisation of the Dutch government and our partner in safe and responsible data sharing, we are developing a Virtual Income Desk in which that citizens can apply for allowances more easily.
+Together with ICTU, the innovation organisation of the Dutch government, we are developing a Virtual Income Desk in which that citizens can apply for allowances more easily.
                 </p>
               <div class="button_align">
                <a class="button_link" href="en/vil.html"><div class="button">Learn more</div></a>
