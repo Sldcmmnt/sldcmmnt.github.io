@@ -1,1 +1,41 @@
+---
+layout: post
+title: "Knowledge session at ICTU"
+lang: en
+categories: misc
+image:
+  path: img/EN_ictusessie.svg
+  height: 800
+  width: 800
+---
+
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
+            <div class="projectblock">
+             <div class="project_text">
+              <h2>
+Knowledge session at ICTU
+              </h2>
+              <p>
+ICTU, the innovation organization of and for the Dutch government, invited the Solid Community to a knowledge sharing session about Solid. <br>
+We looked under the hood of the next generation of public services, focusing on important concepts such as data control, digital identity, wallets and proactive services.
+The knowledge session was fully booked and in a well-filled room we discussed Solid and applications with interested ICTU employees. <br>
+The demonstration of the Virtual Income Desk with Solid - to make it easier for residents to apply for benefits - in which ICTU is actively involved, was also discussed as a concrete example. 
+It was an interesting session in which all kinds of interfaces, questions and developments were discussed, which require follow-up and in-depth discussion. <br>
+Knowledge sharing sessions are part of our mission to embed Solid in society in a responsible manner based on public values.
+
+                </p>
+              <div class="button_align">
+               <div class="button"><a class="button_link" href="/contact.html">Book a knowledge session</a></div>
+              </div>
+              <div class="button_align">
+               <div class="button"><a class="button_link" href="/vil">Learn more about the Virtual Income Desk</a></div>
+              </div>
+              </div>
+              <div class="project_img">
+                <img src="/img/ictukennissessie.svg" alt="">
+            </div>         
+        </div>
+</div>
 
