@@ -58,6 +58,11 @@ header_nl_pages:
 
 header_en_pages:
 - _pages/en/collaborate.md
+- _pages/en/solutions.md
+
+
+
+
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
