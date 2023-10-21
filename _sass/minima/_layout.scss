@@ -130,6 +130,14 @@ vertical-align: middle;
     display: none;
     }
 
+
+      .language_container {
+      justify-content: end;
+      }
+      .language_container .button {
+         border: 1px solid;
+      }
+
     .menu-icon {
       display: none;
     }
@@ -147,12 +155,6 @@ vertical-align: middle;
       }
       margin-left: auto;
 
-       .language_container {
-      justify-content: space-evenly;
-      }
-      .language_container .button {
-        border: none;
-      }
     }
   }
 }
