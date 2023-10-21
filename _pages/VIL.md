@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Virtueel Inkomsten Loket
+lang: nl
 description: Op weg naar een samenhangende, transparante en dienstverlenende overheid waarbij de inwoner centraal staat.
 permalink: /vil.html
 ---
