@@ -88,7 +88,7 @@ Together with ICTU, the innovation organisation of the Dutch government and our 
 News: Knowledge session at ICTU
               </h2>
               <p>
-At the invitation of ICTU, the innovation organization of and for the government, we organized a knowledge session about Solid.
+At the invitation of ICTU, the innovation organization of and for the Dutch government, we organized a knowledge session about Solid.
 Together we looked under the hood of the next generation of public services, focusing on important concepts such as data control, digital identity, wallets and proactive services.
 
 
