@@ -48,7 +48,7 @@ We connect a broad community with participants such as government, sectors, soci
 In this way, the development of architecture, governance and adoption, is harmonized into a coherent whole.
 </p>  
 <div class="button_align">
-<a class="button_link" href="samenwerken.html"><div class="button">Collaborate</div></a>
+<a class="button_link" href="/en/collaborate.html"><div class="button">Collaborate</div></a>
   </div>      
               </div>         
         </div>
