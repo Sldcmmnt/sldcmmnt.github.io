@@ -1,6 +1,6 @@
 ---
 layout: EN_home
-lang: nl
+lang: en
 title: Solid Community Foundation
 permalink: /en/index.html
 ---
