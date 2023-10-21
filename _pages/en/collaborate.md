@@ -27,7 +27,7 @@ Then a knowledge session is a good first step to come into contact with the aspe
               </div>
               </div>
               <div class="project_img">
-                <img src="/img/kennissessie.svg" alt="">
+                <img src="/img/knowledgesession.svg" alt="">
             </div>         
         </div>
 </div>
@@ -37,7 +37,7 @@ Then a knowledge session is a good first step to come into contact with the aspe
 <div class="wrapperprojects" markdown="0" id="proefopstelling">
             <div class="projectblock">
              <div class="project_img">
-                <img src="/img/proefopstelling.svg" alt="">
+                <img src="/img/testsetup.svg" alt="">
             </div>    
               <div class="project_text">
               <h2>
