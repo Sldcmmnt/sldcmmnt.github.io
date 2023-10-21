@@ -20,7 +20,7 @@ International movement
               </h2>
               <p>
 Solid is an international movement that is gaining traction in all kinds of sectors. The BBC is pioneering this technology, the NHS is investigating it in healthcare, the Flemish government has adopted it via Athumi, etc. 
-Thus it is already being developed in all kinds of sectors and applications in Europe. <br> 
+A growing number of sectors and applications is being developed in Europe. <br> 
                 </p>
               </div>
               <div class="project_img">
