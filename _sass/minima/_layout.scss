@@ -146,6 +146,13 @@ vertical-align: middle;
         margin-right: 20px;
       }
       margin-left: auto;
+
+       .language_container {
+      justify-content: space-evenly;
+      }
+      .language_container .button {
+        border: none;
+      }
     }
   }
 }
