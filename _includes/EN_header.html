@@ -1,7 +1,7 @@
 <header id="top" class="site-header">
 
   <div class="wrapper">
-      {%- include EN_togglelang.html -%}
+      
     <div class="image_header_en"> <a href="https://www.solidcommunity.nl/en"><img src="/img/logo-white.svg" alt="logo"></a></div> 
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_en_pages | default: default_paths -%}
@@ -25,6 +25,7 @@
           
             {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+{%- include EN_togglelang.html -%}
             {%- endif -%}
              {% endunless %}
           {%- endfor -%}
