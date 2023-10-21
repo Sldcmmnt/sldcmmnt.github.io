@@ -65,7 +65,7 @@ Applying for income benefits for citizens is often complex for several reasons. 
 In the Netherlands we have developed an initial test setup to simplify applying for allowances based on Solid's open technology.
                 </p>
 <div class="button_align">
-               <a class="button_link" href="/en/EN_vil.html"><div class="button">Read more</div></a>
+               <a class="button_link" href="/en/vil"><div class="button">Read more</div></a>
               </div>
               </div>
               <div class="project_img">
