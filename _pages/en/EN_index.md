@@ -68,7 +68,7 @@ Highlighted: Making it easier for citizens to apply for allowances
 Together with ICTU, the innovation organisation of the Dutch government, we are developing a Virtual Income Desk in which that citizens can apply for allowances more easily.
                 </p>
               <div class="button_align">
-               <a class="button_link" href="en/EN_vil.html"><div class="button">Learn more</div></a>
+               <a class="button_link" href="en/vil"><div class="button">Learn more</div></a>
               </div>
               </div>
               <div class="project_img">
