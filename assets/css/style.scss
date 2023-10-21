@@ -58,16 +58,18 @@ align-items: center;
 display: flex;
 flex-direction: row;
 justify-content: end;
+flex-wrap: wrap;
 align-content: center;
+line-height: 16px;
 }
 
 .language_container .button {
   margin-top: 5px;
-  border: 2px solid;
-  border-radius: 30px;
-  min-width: 80px;
+  border: 1px solid;
+  border-radius: 0px;
+  min-width: 40px;
+  min-height:20px;
   vertical-align: middle;
-  min-height: 50px;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
@@ -81,7 +83,9 @@ align-content: center;
   background-image: none;
   text-decoration: none;
   color: white;
-  padding: 0.667em 1.333em;
+  padding: 0em 0em;
+  padding-left: 3px; 
+  padding-right: 3px;
 }
 
 .language_container .button_link:visited {
