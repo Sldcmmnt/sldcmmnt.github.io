@@ -1,5 +1,6 @@
 ---
 layout: home
+lang: nl
 title: Contact
 description: Denkt u aan een innovatieve digitale oplossing waarbij samenwerking in data belangrijk is? En benieuwd hoe wij uw project mee kunnen ondersteunen en ontwikkelen? Neem contact op via onderstaand mailadres en we nemen contact met u op.
 permalink: /contact.html
