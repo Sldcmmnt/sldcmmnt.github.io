@@ -23,7 +23,7 @@ Many sectors and organizations are not yet aware of the global Solid movement an
 A knowledge session is a good first step to learn more about the aspects of Solid.
                 </p>
                 <div class="button_align">
-               <a class="button_link" href="/contact"><div class="button">Request a knowledge session</div></a>
+               <a class="button_link" href="/en/contact"><div class="button">Request a knowledge session</div></a>
               </div>
               </div>
               <div class="project_img">
