@@ -49,14 +49,17 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-header_pages:
-# - En_index.md
+header_nl_pages:
+# 
 - index.md
 - _pages/toepassingen.md
 - _pages/samenwerken.md
 - _pages/aanpak.md
 - _pages/contact.md
 
+header_en_pages:
+- _pages/en/EN_index.md
+- _pages/en/collaborate.md
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
