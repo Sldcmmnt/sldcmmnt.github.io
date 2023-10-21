@@ -50,7 +50,6 @@ minima:
 # order as they should show up.
 #
 header_nl_pages:
-# 
 - index.md
 - _pages/toepassingen.md
 - _pages/samenwerken.md
@@ -58,7 +57,6 @@ header_nl_pages:
 - _pages/contact.md
 
 header_en_pages:
-- _pages/en/EN_index.md
 - _pages/en/collaborate.md
 # Set to `true` to show excerpts on the homepage.
 #
