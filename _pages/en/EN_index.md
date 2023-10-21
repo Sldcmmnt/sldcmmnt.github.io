@@ -2,6 +2,7 @@
 layout: EN_home
 lang: en
 title: Solid Community Foundation
+description: Solid Community works on a friendlier, safer and more innovative web based on public values, in collaboration with government, sectors and knowledge institutions. Working together as a community creates coherence and harmonization of developments, governance and architecture.
 permalink: /en/index.html
 ---
 
