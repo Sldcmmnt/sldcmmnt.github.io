@@ -47,7 +47,7 @@ Explore options for technical test setup and implementation
 The added value and effect often becomes tangible and more understandable once a test setup is developed. We develop test setups in several sectors together with technical experts, that are further scaled up to actual implementation. Want to more, please get in touch:
             </p>
                  <div class="button_align">
-               <a class="button_link" href="/contact"><div class="button">Get in touch</div></a>
+               <a class="button_link" href="/en/contact"><div class="button">Get in touch</div></a>
               </div>
               </div>
         </div>
@@ -65,7 +65,7 @@ Trust framework, open architecture and coherence
 A scalable technical infrastructure does not work without a trust framework around data sharing, an open architecture and coherence with other developments such as sectoral agreement schemes, European wallets, national and European regulations. That is why we are building a generic system of trust, with an open architecture and coherence with other sectoral, national and international developments. In many sectors, permissions for users - humans - are a recurring theme. In order to promote the creation of a coherent, understandable digital landscape for people in all their roles (citizen, patient, consumer, student, etc.), we are developing this cohesively. If you are interested, please get in touch:
             </p>
                  <div class="button_align">
-               <a class="button_link" href="/contact"><div class="button">Get in touch</div></a>
+               <a class="button_link" href="/en/contact"><div class="button">Get in touch</div></a>
               </div>
               </div>             
              <div class="project_img">
