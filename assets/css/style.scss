@@ -100,6 +100,12 @@ color: black;
 background-color: #FFFFFF;
 }
 
+.button_align {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
 
 .button {
   display: inline-block;
