@@ -5,7 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: EN_home
 lang: en
 title: Collaborate
 description: Using Solid can improve services and user experience and create opportunities for GDPR-compliant collaboration with chain partners. Solid can be applied in various sectors and domains such as healthcare, energy, municipalities, government implementation organizations, public organizations such as the cultural and library sectors, but also retail, media, etc. Do you work at an organization, umbrella organization or appointment system and is there a concrete Interested in working on projects around safe and responsible data sharing, possibly in collaboration with chain partners? A knowledge session or test setup with a serious look at implementation are examples of possibilities.
