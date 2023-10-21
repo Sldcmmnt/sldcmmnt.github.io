@@ -3,7 +3,6 @@ layout: EN_home
 lang: en
 title: About
 description: The mission of the Solid Community Foundation is to realize responsible and secure data sharing based on open standards and based on values ​​such as self-determination, freedom of choice, trust and transparency. We see technology as a means to contribute to a people-oriented, friendly and safe user experience.
-permalink: /about
 ---
 
 ## Registration and business address
