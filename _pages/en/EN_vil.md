@@ -51,7 +51,7 @@ Would you like to know more about this project and smart Personal Data Spaces? P
                <a class="button_link" href="/en/contact"><div class="button">Get in touch</div></a>
 <p><br>Would you like to know more about creating a test setup towards actual implementation?</p>
                  <div class="button_align">
-             <a class="button_link" href="/en/collaboration.html#proefopstelling"><div class="button">Test setup towards implementation</div></a>
+             <a class="button_link" href="/en/collaborate.html#proefopstelling"><div class="button">Test setup towards implementation</div></a>
               </div>
               </div>
               </div>
