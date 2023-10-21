@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: blog_overview
+lang: nl
 title: Actueel
 ---
 ## Actueel
