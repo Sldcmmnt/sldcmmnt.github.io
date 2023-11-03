@@ -19,8 +19,8 @@ description: Door het gebruik van Solid kunnen dienstverlening en gebruikservari
 Kennissessie
               </h2>
               <p>
-Veel sectoren en organisaties kennen de wereldwijde beweging van Solid nog niet en willen graag eerst meer informatie om te verkennen hoe het kan passen in hun agenda en strategie<br>
-Dan is een kennissessie een goede eerste stap om in aanraking te komen met de aspecten van Solid.
+Veel sectoren en organisaties kennen de wereldwijde beweging van Solid nog niet en willen graag eerst meer informatie om te verkennen hoe het kan passen in hun agenda en strategie.<br>
+In dat geval is een kennissessie een goede eerste stap om in aanraking te komen met de aspecten van Solid.
                 </p>
                 <div class="button_align">
                <a class="button_link" href="/contact"><div class="button">Vraag een kennissessie aan</div></a>
@@ -62,7 +62,7 @@ De meerwaarde en werking wordt vaak pas echt invoelbaar en begrijpelijker zodra 
 Vertrouwenskader, open architectuur en samenhang
               </h2>
               <p>
-Een schaalbare technische infrastructuur werkt niet zonder een vertrouwenskader rondom data deling, een open architectuur en samenhang met andere ontwikkelingen zoals sectorale afsprakenstelsels, Europese wallets, Nederlandse en Europese regulaties. Daarom bouwen we aan een generiek stelsel van vertrouwen, met een open architectuur en samenhang met andere sectorale, nationale en internationale ontwikkelingen. In vele sectoren zijn toestemmmingen voor gebruikers - de mens- een terugkerend thema. Om te bevorderen dat er straks een samenhangend begrijpelijk digitaal landschap ontstaat voor de mens in al haar rollen (burger, patënt, consument, student etc) ontwikkelen we deze in samenhang. Bij interesse, neem contact op:
+Een schaalbare technische infrastructuur werkt niet zonder een vertrouwenskader rondom data deling, een open architectuur en samenhang met andere ontwikkelingen zoals sectorale afsprakenstelsels, Europese wallets, Nederlandse en Europese regulaties. Daarom bouwen we aan een generiek stelsel van vertrouwen, met een open architectuur en samenhang met andere sectorale, nationale en internationale ontwikkelingen. In vele sectoren zijn toestemmingen voor gebruikers - de mens- een terugkerend thema. Om te bevorderen dat er straks een samenhangend begrijpelijk digitaal landschap ontstaat voor de mens in al haar rollen (burger, patënt, consument, student etc) ontwikkelen we deze in samenhang. Bij interesse, neem contact op:
               </p>
                  <div class="button_align">
                <a class="button_link" href="/contact"><div class="button">Contact</div></a>
