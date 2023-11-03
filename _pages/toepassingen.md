@@ -19,7 +19,7 @@ description: Door het gebruik van Solid kunnen dienstverlening en gebruikservari
 Internationale beweging
               </h2>
               <p>
-Solid is een internationale beweging die in allerlei sectoren tractie krijgt. De BBC pioniert met deze techniek, de NHS onderzoekt deze in de gezondheidszorg, de Vlaamse overheid heeft het geadopteerd enz.
+Solid is een internationale beweging die in allerlei sectoren tractie krijgt. De BBC pioniert met deze techniek, de NHS onderzoekt deze in de gezondheidszorg, de Vlaamse overheid heeft deze visie geadopteerd enz.
 Het wordt dus al in allerlei sectoren en toepassingen buiten Nederland ontwikkeld. <br> 
                 </p>
               </div>
@@ -41,7 +41,7 @@ Het wordt dus al in allerlei sectoren en toepassingen buiten Nederland ontwikkel
 Nederlandse voorbeelden in voorbereiding
               </h2>
               <p>
-Ook in Nederland gaan steeds meer sectoren aan de slag met deze techniek. Er zijn ontelbare voorbeelden te bedenken hoe Solid in sectoren meerwaarde kan leveren en toegepast kan worden.
+Ook in Nederland gaan steeds meer sectoren aan de slag met deze techniek. Er zijn allerlei voorbeelden en mogelijkheden te bedenken hoe Solid in sectoren meerwaarde kan leveren en toegepast kan worden.
 In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voorbereiding of in planning. 
                 </p>
               </div>
@@ -87,8 +87,8 @@ Mijn Gezondheid
               </h2>
               <p>
 Tijdens je levensloop en in zorgsituaties zijn er vaak meerdere zorgverleners betrokken. In die zorgprocessen is de mens het scharnierpunt. 
-Door de gezondheidsgegevens in een datakluis te plaatsen kunnen de relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn. 
-Daarnaast kunnen in de datakluis andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context.
+Door de gezondheidsgegevens via Solid beschikbaar te maken bij de bron kunnen relevante gegevens gemakkelijk meebewegen tijdens de contacten die nodig zijn. 
+In een  datakluis kunnen andere informatiebronnen staan die nuttig kunnen zijn voor het begrijpen van iemands context.
 Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op:
                 </p>
 <div class="button_align">
