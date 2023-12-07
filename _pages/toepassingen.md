@@ -57,7 +57,7 @@ In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voor
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
                             <div class="project_img">
-                <img src="/img/myenergy.svg" alt="">
+                <img src="/img/energie.svg" alt="">
             </div>       
              <div class="project_text">
               <h2>
