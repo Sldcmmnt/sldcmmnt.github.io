@@ -152,9 +152,7 @@ Meer weten over projecten in ontwikkeling rondom dit thema? Neem contact op
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
-                            <div class="project_img">
-                <img src="/img/anderesectoren.svg" alt="">
-            </div>       
+                           
              <div class="project_text">
               <h2>
 Oplossingen in andere domeinen en sectoren
@@ -168,6 +166,8 @@ Neem dan contact op
                <a class="button_link" href="/contact"><div class="button">Contact</div></a>
               </div>
               </div>
-  
+            <div class="project_img">
+                <img src="/img/anderesectoren.svg" alt="">
+            </div>       
         </div>
 </div>
