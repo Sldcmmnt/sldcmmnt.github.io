@@ -56,6 +56,31 @@ In Nederland zijn we betrokken bij volgende voorbeelden in ontwikkeling, in voor
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
+                            <div class="project_img">
+                <img src="/img/myenergy.svg" alt="">
+            </div>       
+             <div class="project_text">
+              <h2>
+Mijn Energie
+              </h2>
+              <p>
+In onze huidige wereld is duurzaam energiebeheer van cruciaal belang. Door energiegegevens op een intelligente en veilige manier te laten samenwerken, worden nieuwe inzichten en toepassingen mogelijk die bijdragen aan een duurzamere, efficiëntere en betrouwbaardere energiesector.
+                </p>
+<div class="button_align">
+               <a class="button_link" href="/energie.html"><div class="button">Lees meer</div></a>
+              </div>
+              </div>
+  
+        </div>
+</div>
+
+
+
+
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
+            <div class="projectblock">
              <div class="project_text">
               <h2>
 Mijn financiën
