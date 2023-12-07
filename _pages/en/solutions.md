@@ -79,8 +79,29 @@ In the Netherlands we have developed an initial test setup to simplify applying 
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
                             <div class="project_img">
-                <img src="/img/myhealth.svg" alt="">
+                <img src="/img/myenergy.svg" alt="">
             </div>       
+             <div class="project_text">
+              <h2>
+Mijn Energie
+              </h2>
+              <p>
+In our current world, sustainable energy management is of crucial importance. By intelligently and securely integrating energy data, new insights and applications become possible that contribute to a more sustainable, efficient, and reliable energy sector.
+                </p>
+<div class="button_align">
+               <a class="button_link" href="/en/energy.html"><div class="button">Read more</div></a>
+              </div>
+              </div>
+  
+        </div>
+</div>
+
+
+
+{::options parse_block_html="true" /}
+<div class="wrapperprojects" markdown="0">
+            <div class="projectblock">
+                        
              <div class="project_text">
               <h2>
 My health
@@ -94,6 +115,9 @@ During your life and in care situations, often multiple healthcare providers are
 <div class="button_align">
                <a class="button_link" href="/en/contact"><div class="button">Get in touch</div></a>
               </div>
+                  <div class="project_img">
+                <img src="/img/myhealth.svg" alt="">
+            </div>       
               </div>
   
         </div>
@@ -102,6 +126,9 @@ During your life and in care situations, often multiple healthcare providers are
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
+                        <div class="project_img">
+                <img src="/img/mycareer.svg" alt="">
+            </div>      
              <div class="project_text">
               <h2>
 My career and study
@@ -114,9 +141,7 @@ With the help of data vaults, among other things, you can share this safely and 
                <a class="button_link" href="/en/contact"><div class="button">Get in touch</div></a>
               </div>
               </div>
-              <div class="project_img">
-                <img src="/img/mycareer.svg" alt="">
-            </div>         
+       
         </div>
 </div>
 
@@ -124,9 +149,7 @@ With the help of data vaults, among other things, you can share this safely and 
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
-                            <div class="project_img">
-                <img src="/img/anderesectoren.svg" alt="">
-            </div>       
+                           
              <div class="project_text">
               <h2>
 Solutions in other domains and sectors
@@ -139,6 +162,8 @@ In addition to the above examples, Solid can be used in many other domains, from
                <a class="button_link" href="/en/contact"><div class="button">Get in touch</div></a>
               </div>
               </div>
-  
+   <div class="project_img">
+                <img src="/img/anderesectoren.svg" alt="">
+            </div>       
         </div>
 </div>
