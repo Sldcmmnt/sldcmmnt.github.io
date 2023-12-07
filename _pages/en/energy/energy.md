@@ -3,7 +3,7 @@ layout: home
 title: My Energy
 lang: en
 description: In our current world, sustainable energy management is of crucial importance. By intelligently and securely integrating energy data, new insights and applications become possible that contribute to a more sustainable, efficient, and reliable energy sector.
-permalink: /energie.html
+permalink: /en/energy.html
 ---
 
 ## Foundation for a sustainable energy transition and supply
