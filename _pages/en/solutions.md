@@ -83,7 +83,7 @@ In the Netherlands we have developed an initial test setup to simplify applying 
             </div>       
              <div class="project_text">
               <h2>
-Mijn Energie
+My Energy
               </h2>
               <p>
 In our current world, sustainable energy management is of crucial importance. By intelligently and securely integrating energy data, new insights and applications become possible that contribute to a more sustainable, efficient, and reliable energy sector.
@@ -114,12 +114,11 @@ During your life and in care situations, often multiple healthcare providers are
                 </p>
 <div class="button_align">
                <a class="button_link" href="/en/contact"><div class="button">Get in touch</div></a>
+              </div> 
               </div>
-                  <div class="project_img">
+    <div class="project_img">
                 <img src="/img/myhealth.svg" alt="">
-            </div>       
-              </div>
-  
+            </div>      
         </div>
 </div>
 
