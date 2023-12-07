@@ -34,13 +34,13 @@ Deze samenwerkingen gaan consumenten de controle geven over hun energiedata, wat
 Meer weten?
               </h2>
               <p>
-Wil je meer weten over dit project en personal data spaces? Neem dan contact op.
+Wil je meer weten over dit onderwerp en personal data spaces? Neem dan contact op.
                 </p>
                <div class="button_align">
                <a class="button_link" href="/contact"><div class="button">Neem contact op</div></a>
 <p><br>Wil je meer weten over het opzetten van een proefopstelling en daadwerkelijke implementatie?</p>
                  <div class="button_align">
-             <a class="button_link" href="/samenwerken.html#proefopstelling"><div class="button">Van technische proefopstelling naar implementatie</div></a>
+             <a class="button_link" href="/samenwerken.html#proefopstelling"><div class="button">Lees meer</div></a>
               </div>
               </div>
               </div>
