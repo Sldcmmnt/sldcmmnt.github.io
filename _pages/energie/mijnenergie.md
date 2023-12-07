@@ -13,13 +13,13 @@ Van energieleveranciers tot consumenten, en van netbeheerders tot beleidsmakers 
 Solid stelt gebruikers in staat deze belangrijke data veilig op te slaan, te beheren en te hergebruiken op een slimmme en gemakkelijke manier. 
 Met volledige controle over wie toegang heeft tot zijn of haar gegevens.
 
-## Samenwerking in energiegegevens: 
+## Samenwerking in energiegegevens 
 Het intelligent en veilig laten samenwerken van energiedata opent de deur naar diepgaande inzichten in energieverbruik en -beheer. Het ondersteunt bij het beheren van energieverbruik, het koppelen van verschillende databronnen en genereren van inzichten.
 Databeschikbaarheid helpt zowel individuele consumenten als bedrijven om efficiënter te werken, wat leidt tot meer gemak, kostenbesparingen en een verkleining van de ecologische voetafdruk.
 
-## De Toekomst van energie-gegevens en services
-Consumenten maken steeds vaker gebruik van slimme technologieën zoals energiemeters en energiebeheersystemen en ondersteunnende applicaties zoals vragenlijsten en energievergelijkers. 
-Deze technologieën helpen bij het monitoren en beheren van energieverbruik en handelingsperspectief bij isolatie. Echter, vaak worden deze gegevens in verschillende systemen opgeslagen. 
+## De toekomst van energie-gegevens en services
+Consumenten maken steeds vaker gebruik van slimme technologieën zoals energiemeters en energiebeheersystemen en ondersteunnende applicaties zoals inzichtgevende vragenlijsten en energievergelijkers. 
+Deze vormen van ondersteuning helpen bij het monitoren en beheren van energieverbruik en bijvoorbeeld het handelingsperspectief bij isolatie. Echter, vaak worden deze gegevens in verschillende systemen opgeslagen. 
 Solid biedt een geïntegreerde oplossing, waardoor een volledig en holistisch overzicht van energieverbruik mogelijk wordt, wat leidt tot beter energiebeheer en grotere bewustwording.
 
 ## In actie: Energieprojecten
