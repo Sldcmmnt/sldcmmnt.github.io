@@ -164,7 +164,17 @@ Neem dan contact op
                 </p>
 <div class="button_align">
                <a class="button_link" href="/contact"><div class="button">Contact</div></a>
-              </div>
+</div>
+ <h2>
+Samenwerken
+              </h2>
+              <p>
+Geinteresseerd om concreet en laagdrempelig aan de slag gaan: Bekijk enkele mogelijkheden om samen te werken.
+                </p>
+<div class="button_align">
+               <a class="button_link" href="/samenwerken"><div class="button">Samenwerken</div></a>
+</div>
+                
               </div>
             <div class="project_img">
                 <img src="/img/anderesectoren.svg" alt="">
