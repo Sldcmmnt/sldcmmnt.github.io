@@ -94,6 +94,16 @@ Solid kan cross-sectoraal worden gebruikt. Het proces van onderzoek en ontwikkel
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
             <div class="projectblock">
+  <div class="project_text">
+              <h2>
+Toepassingen
+              </h2>
+              <p>
+Meer weten over hoe Solid kan worden toegepast in een verschillende sectoren?
+                </p>
+               <div class="button_align">
+               <a class="button_link" href="/toepassingen"><div class="button">Toepassingen</div></a>
+              </div>
              <div class="project_text">
               <h2>
 Samenwerken
