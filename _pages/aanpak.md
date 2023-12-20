@@ -99,11 +99,13 @@ Solid kan cross-sectoraal worden gebruikt. Het proces van onderzoek en ontwikkel
 Toepassingen
               </h2>
               <p>
-Meer weten over hoe Solid kan worden toegepast in een verschillende sectoren?
+Meer weten over hoe Solid kan worden toegepast in verschillende sectoren?
                 </p>
                <div class="button_align">
                <a class="button_link" href="/toepassingen"><div class="button">Toepassingen</div></a>
               </div>
+              </div>
+
              <div class="project_text">
               <h2>
 Samenwerken
