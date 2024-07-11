@@ -6,13 +6,6 @@ description: De missie van de Stichting Solid Community is om verantwoord en vei
 exclude: true
 ---
 
-## Registratie en vestigingsadres
-Stichting Solid Community staat geregistreerd onder KVK nummer 88666816
-
-Het vestigingsadres van de stichting is:
-Goeman Borgesiuslaan 77
-3515 ET Utrecht
-
 ## Pers
 Voor persvragen stuur een mail aan: <pers@solidcommunity.nl>
 
