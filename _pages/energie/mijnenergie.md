@@ -22,9 +22,6 @@ Consumenten maken steeds vaker gebruik van slimme technologieën zoals energieme
 Deze vormen van ondersteuning helpen bij het monitoren en beheren van energieverbruik en bijvoorbeeld het handelingsperspectief bij isolatie. Echter, vaak worden deze gegevens in verschillende systemen opgeslagen. 
 Solid biedt een geïntegreerde oplossing, waardoor een volledig en holistisch overzicht van energieverbruik mogelijk wordt, wat leidt tot beter energiebeheer en grotere bewustwording.
 
-## In actie: Energieprojecten
-Momenteel zijn er verschillende projecten in voorbereiding in de energiesector rondom Solid.
-Deze samenwerkingen gaan consumenten de controle geven over hun energiedata, wat bijdraagt aan meer gepersonaliseerde services en een efficiënte energievoorziening.
 
 {::options parse_block_html="true" /}
 <div class="wrapperprojects" markdown="0">
